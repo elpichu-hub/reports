@@ -1,0 +1,10 @@
+Good evening Shakia Myers, your average QA for the week of 5/25-5/31 is 77.50. Below you can find where you lost points:
+
+- Call 1 Recorded on 4/27/2023 12:19:45 PM Scored 65.0%
+
+1 - Was the CSR ready and prepared for the call? Did the CSR thank the customer for calling SunPass, identify their first name, and ask how may I help you today? (adhere to inbound or CTI script) Yes,  
+2 - Did the CSR authenticate the account with the account holder/authorized user appropriately and verify information (demographic info/Security question)? Yes,  
+3 - Was the CSR friendly, positive, professional in their tone and demeanor throughout the call? Yes,  
+4 - Did the CSR refrain from using slang or ETC acronyms? Yes,  
+5 - Did the CSR use a definitive assurance statement (willingness to assist) / express ownership and control throughout the call? ("I can assist/help you with that?") Yes,  
+6 - Did the CSR speak clearly and concisely in a way that was understood by the customer? Yes,  

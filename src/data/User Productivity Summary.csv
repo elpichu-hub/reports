@@ -1,0 +1,1080 @@
+﻿siteid,subsiteid,i3user,queue,totEnteredACD,totnAnswered,totnAnsweredACD,totnAbandonedACD,totnFlowOutAcd,totnTransferedACD,totnIntToIntACD,totnExtToInt,totnIntToExt,totTTalkACD,totTACW,totTHoldACD,totTAgentLoggedin,totTAgentLoggedin2,totTAgentAvailable,totTAgentACDLoggedIn,totnExttoIntNONACD,totnInttoExtNONACD,totTExttoIntNONACD,totTInttoExtNONACD,Active,IsPrivate,IndivTypeID,TitleID,IndivID,LastName,FirstName,MiddleName,DisplayUserName,JobTitle,ICUserID,ExtID,ExtSource,rank
+1,0,"20709609","Customer Service",5,6,5,0,0,0,0,5,1,1532,2,0,0,0,0,0,0,1,0,145,1,0,2,,"-c,b!0>;^d+77@b!{joje3","DiCastro","Annette"," ","Annette DiCastro"," ","20709609"," "," ",1
+1,0,"20709609","Escalation",3,3,3,0,0,0,3,2,0,1211,0,0,0,0,0,0,0,0,0,0,1,0,2,,"-c,b!0>;^d+77@b!{joje3","DiCastro","Annette"," ","Annette DiCastro"," ","20709609"," "," ",1
+1,0,"20709675","Spanish Account Maintenance",1,1,1,0,0,0,0,1,0,204,15,0,0,0,0,0,0,0,0,0,1,0,2,,",e:()g,p*a#g,#.l(,)ea1","Ferro","Celia"," ","Celia Ferro"," ","20709675"," "," ",1
+1,0,"20709675","Spanish Account Payments",6,8,6,0,0,0,0,6,2,1892,164,0,0,0,0,0,0,2,0,633,1,0,2,,",e:()g,p*a#g,#.l(,)ea1","Ferro","Celia"," ","Celia Ferro"," ","20709675"," "," ",1
+1,0,"20709675","Spanish Customer Service",33,45,33,0,0,0,0,33,12,11279,924,226,0,0,0,0,0,12,0,3944,1,0,2,,",e:()g,p*a#g,#.l(,)ea1","Ferro","Celia"," ","Celia Ferro"," ","20709675"," "," ",1
+1,0,"20709675","Spanish New Accounts",3,3,3,0,0,0,0,3,0,722,91,0,0,0,0,0,0,0,0,0,1,0,2,,",e:()g,p*a#g,#.l(,)ea1","Ferro","Celia"," ","Celia Ferro"," ","20709675"," "," ",1
+1,0,"20709675","Spanish Transponder Maintenance",2,4,2,0,0,0,0,2,2,921,22,0,0,0,0,0,0,2,0,851,1,0,2,,",e:()g,p*a#g,#.l(,)ea1","Ferro","Celia"," ","Celia Ferro"," ","20709675"," "," ",1
+1,0,"20709675","Spanish Violation Payment",12,12,12,0,0,0,0,12,0,4285,482,58,0,0,0,0,0,0,0,0,1,0,2,,",e:()g,p*a#g,#.l(,)ea1","Ferro","Celia"," ","Celia Ferro"," ","20709675"," "," ",1
+1,0,"20711340","Account Maintenance",1,1,1,0,0,0,0,1,0,457,12,0,0,0,0,0,0,0,0,0,1,0,2,,"2i@26)#+&,id=oqx>;y,/2","Liburd","Sandra"," ","Sandra Liburd"," ","20711340"," "," ",1
+1,0,"20711340","Account Payments",1,2,1,0,0,0,0,1,1,274,0,0,0,0,0,0,0,1,0,641,1,0,2,,"2i@26)#+&,id=oqx>;y,/2","Liburd","Sandra"," ","Sandra Liburd"," ","20711340"," "," ",1
+1,0,"20711340","Customer Service",24,30,24,0,0,0,0,24,6,10699,939,0,0,0,0,0,0,6,0,3262,1,0,2,,"2i@26)#+&,id=oqx>;y,/2","Liburd","Sandra"," ","Sandra Liburd"," ","20711340"," "," ",1
+1,0,"20711340","Transponder Maintenance",7,9,7,0,0,0,0,7,2,3639,411,0,0,0,0,0,0,2,0,580,1,0,2,,"2i@26)#+&,id=oqx>;y,/2","Liburd","Sandra"," ","Sandra Liburd"," ","20711340"," "," ",1
+1,0,"20711340","Violation Payment",15,18,15,0,0,0,0,15,3,6090,439,0,0,0,0,0,0,3,0,1365,1,0,2,,"2i@26)#+&,id=oqx>;y,/2","Liburd","Sandra"," ","Sandra Liburd"," ","20711340"," "," ",1
+1,0,"20727516","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"fom}l/9]^*e5rh$]b|+if4","Del Valle","Rebecca"," ","Rebecca Del Valle"," ","20727516"," "," ",1
+1,0,"20727516","Account Maintenance",1,2,1,0,0,0,0,1,1,482,0,0,0,0,0,0,0,1,0,292,1,0,2,,"fom}l/9]^*e5rh$]b|+if4","Del Valle","Rebecca"," ","Rebecca Del Valle"," ","20727516"," "," ",1
+1,0,"20727516","Account Payments",4,5,4,0,0,0,0,4,1,2655,28,0,0,0,0,0,0,1,0,1145,1,0,2,,"fom}l/9]^*e5rh$]b|+if4","Del Valle","Rebecca"," ","Rebecca Del Valle"," ","20727516"," "," ",1
+1,0,"20727516","Customer Service",14,17,14,0,0,0,0,14,3,5154,74,333,0,0,0,0,0,3,0,1410,1,0,2,,"fom}l/9]^*e5rh$]b|+if4","Del Valle","Rebecca"," ","Rebecca Del Valle"," ","20727516"," "," ",1
+1,0,"20727516","New Accounts",1,1,1,0,0,0,0,1,0,632,5,0,0,0,0,0,0,0,0,0,1,0,2,,"fom}l/9]^*e5rh$]b|+if4","Del Valle","Rebecca"," ","Rebecca Del Valle"," ","20727516"," "," ",1
+1,0,"20727516","Transponder Maintenance",2,3,2,0,0,0,0,2,1,313,7,0,0,0,0,0,0,1,0,59,1,0,2,,"fom}l/9]^*e5rh$]b|+if4","Del Valle","Rebecca"," ","Rebecca Del Valle"," ","20727516"," "," ",1
+1,0,"20727516","Violation Payment",11,15,11,0,0,1,0,11,4,3369,49,221,0,0,0,0,0,4,0,495,1,0,2,,"fom}l/9]^*e5rh$]b|+if4","Del Valle","Rebecca"," ","Rebecca Del Valle"," ","20727516"," "," ",1
+1,0,"20733446","Escalation",9,9,9,0,0,0,8,7,1,5243,431,494,0,0,0,0,0,0,0,0,1,0,2,,"{d$\(u<h^!+g^=rzu0p.g2","Deltoro","Joann"," ","Joann Deltoro"," ","20733446"," "," ",1
+1,0,"20745607","Account Maintenance",3,3,3,0,0,0,0,3,0,1226,45,0,0,0,0,0,0,0,0,0,1,0,2,,"=)|p[f~3(-#t\.n=&c97>1","Tomlinson","Carol"," ","Carol Tomlinson"," ","20745607"," "," ",1
+1,0,"20745607","Account Payments",3,4,3,0,0,0,0,3,1,869,34,0,0,0,0,0,0,1,0,376,1,0,2,,"=)|p[f~3(-#t\.n=&c97>1","Tomlinson","Carol"," ","Carol Tomlinson"," ","20745607"," "," ",1
+1,0,"20745607","Customer Service",27,30,27,0,0,1,0,27,3,15087,627,616,0,0,0,0,0,3,0,1345,1,0,2,,"=)|p[f~3(-#t\.n=&c97>1","Tomlinson","Carol"," ","Carol Tomlinson"," ","20745607"," "," ",1
+1,0,"20745607","New Accounts",1,1,1,0,0,0,0,1,0,182,37,0,0,0,0,0,0,0,0,0,1,0,2,,"=)|p[f~3(-#t\.n=&c97>1","Tomlinson","Carol"," ","Carol Tomlinson"," ","20745607"," "," ",1
+1,0,"20745607","Transponder Maintenance",12,13,12,0,0,0,0,12,1,6161,201,137,0,0,0,0,0,1,0,348,1,0,2,,"=)|p[f~3(-#t\.n=&c97>1","Tomlinson","Carol"," ","Carol Tomlinson"," ","20745607"," "," ",1
+1,0,"20745607","Violation Payment",13,15,13,0,0,0,0,13,2,7549,185,0,0,0,0,0,0,2,0,1437,1,0,2,,"=)|p[f~3(-#t\.n=&c97>1","Tomlinson","Carol"," ","Carol Tomlinson"," ","20745607"," "," ",1
+1,0,"20748855","WebChat_Customer",23,23,23,0,0,0,0,23,0,9484,746,0,0,0,0,0,0,0,0,0,1,0,2,,"^o=l7y?0&tu!)os&;z{(74","Santiago","Amarillis "," ","Amarillis  Santiago"," ","20748855"," "," ",1
+1,0,"20748855","WebChat_Customer_SP",3,3,3,0,0,0,0,3,0,1117,327,0,0,0,0,0,0,0,0,0,1,0,2,,"^o=l7y?0&tu!)os&;z{(74","Santiago","Amarillis "," ","Amarillis  Santiago"," ","20748855"," "," ",1
+1,0,"20750852","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"cb:t)\[[*k*7b9syg0.}o2","Francis","Treniesa"," ","Treniesa Francis"," ","20750852"," "," ",1
+1,0,"20750852","Account Payments",1,2,1,0,0,0,0,1,1,61,15,0,0,0,0,0,0,1,0,269,1,0,2,,"cb:t)\[[*k*7b9syg0.}o2","Francis","Treniesa"," ","Treniesa Francis"," ","20750852"," "," ",1
+1,0,"20750852","Customer Service",23,29,23,0,0,1,0,23,6,9007,644,137,0,0,0,0,0,6,0,3497,1,0,2,,"cb:t)\[[*k*7b9syg0.}o2","Francis","Treniesa"," ","Treniesa Francis"," ","20750852"," "," ",1
+1,0,"20750852","New Accounts",2,2,2,0,0,0,0,2,0,855,30,0,0,0,0,0,0,0,0,0,1,0,2,,"cb:t)\[[*k*7b9syg0.}o2","Francis","Treniesa"," ","Treniesa Francis"," ","20750852"," "," ",1
+1,0,"20750852","Transponder Maintenance",12,15,12,0,0,0,0,12,3,3588,398,0,0,0,0,0,0,3,0,1285,1,0,2,,"cb:t)\[[*k*7b9syg0.}o2","Francis","Treniesa"," ","Treniesa Francis"," ","20750852"," "," ",1
+1,0,"20750852","Violation Payment",16,19,16,0,0,0,0,16,3,6079,287,444,0,0,0,0,0,3,0,651,1,0,2,,"cb:t)\[[*k*7b9syg0.}o2","Francis","Treniesa"," ","Treniesa Francis"," ","20750852"," "," ",1
+1,0,"20758660","Account Maintenance",1,2,1,0,0,0,0,1,1,724,0,0,0,0,0,0,0,1,0,369,1,0,2,,"-<0$dlk;*w+i63u;2.^&y4","Reese","William"," ","William Reese"," ","20758660"," "," ",1
+1,0,"20758660","Account Payments",5,5,5,0,0,0,0,5,0,2067,58,0,0,0,0,0,0,0,0,0,1,0,2,,"-<0$dlk;*w+i63u;2.^&y4","Reese","William"," ","William Reese"," ","20758660"," "," ",1
+1,0,"20758660","Customer Service",23,31,23,0,0,0,0,23,8,9808,232,101,0,0,0,0,0,8,0,2880,1,0,2,,"-<0$dlk;*w+i63u;2.^&y4","Reese","William"," ","William Reese"," ","20758660"," "," ",1
+1,0,"20758660","New Accounts",2,2,2,0,0,0,0,2,0,839,15,0,0,0,0,0,0,0,0,0,1,0,2,,"-<0$dlk;*w+i63u;2.^&y4","Reese","William"," ","William Reese"," ","20758660"," "," ",1
+1,0,"20758660","Transponder Maintenance",5,7,5,0,0,0,0,5,2,1915,70,127,0,0,0,0,0,2,0,868,1,0,2,,"-<0$dlk;*w+i63u;2.^&y4","Reese","William"," ","William Reese"," ","20758660"," "," ",1
+1,0,"20758660","Violation Payment",13,17,13,0,0,0,0,13,4,6025,136,291,0,0,0,0,0,4,0,1557,1,0,2,,"-<0$dlk;*w+i63u;2.^&y4","Reese","William"," ","William Reese"," ","20758660"," "," ",1
+1,0,"20760744","Spanish Account Maintenance",1,1,1,0,0,0,0,1,0,1369,15,164,0,0,0,0,0,0,0,0,1,0,2,,"`(|\5!9y(ae>w=`nn6ptw3","Diaz","Efren"," ","Efren Diaz"," ","20760744"," "," ",1
+1,0,"20760744","Spanish Account Payments",7,11,7,0,0,0,0,7,4,2976,100,210,0,0,0,0,0,4,0,1564,1,0,2,,"`(|\5!9y(ae>w=`nn6ptw3","Diaz","Efren"," ","Efren Diaz"," ","20760744"," "," ",1
+1,0,"20760744","Spanish Customer Service",25,35,25,0,0,0,0,23,12,14911,359,2073,0,0,0,0,0,10,0,3871,1,0,2,,"`(|\5!9y(ae>w=`nn6ptw3","Diaz","Efren"," ","Efren Diaz"," ","20760744"," "," ",1
+1,0,"20760744","Spanish Transponder Maintenance",3,5,3,0,0,0,0,3,2,2040,41,0,0,0,0,0,0,2,0,1631,1,0,2,,"`(|\5!9y(ae>w=`nn6ptw3","Diaz","Efren"," ","Efren Diaz"," ","20760744"," "," ",1
+1,0,"20760744","Spanish Violation Payment",4,4,4,0,0,0,0,4,0,1676,51,0,0,0,0,0,0,0,0,0,1,0,2,,"`(|\5!9y(ae>w=`nn6ptw3","Diaz","Efren"," ","Efren Diaz"," ","20760744"," "," ",1
+1,0,"20760746","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"*ow9@}wz*x+2#zso<(s)]2","Ferrales","Mayelin"," ","Mayelin Ferrales"," ","20760746"," "," ",1
+1,0,"20760746","Escalation",6,6,6,0,0,0,5,5,0,4008,1279,0,0,0,0,0,0,0,0,0,1,0,2,,"*ow9@}wz*x+2#zso<(s)]2","Ferrales","Mayelin"," ","Mayelin Ferrales"," ","20760746"," "," ",1
+1,0,"20760746","Spanish Escalations",3,3,3,0,0,0,3,2,0,1021,66,0,0,0,0,0,0,0,0,0,1,0,2,,"*ow9@}wz*x+2#zso<(s)]2","Ferrales","Mayelin"," ","Mayelin Ferrales"," ","20760746"," "," ",1
+1,0,"20762485","Account Maintenance",1,1,1,0,0,0,0,1,0,305,15,0,0,0,0,0,0,0,0,0,1,0,2,,"`im7&efr&:qe09)s99a?`3","Katulic","Marylu"," ","Marylu Katulic"," ","20762485"," "," ",1
+1,0,"20762485","Account Payments",6,7,6,0,0,0,0,6,1,2940,90,110,0,0,0,0,0,1,0,777,1,0,2,,"`im7&efr&:qe09)s99a?`3","Katulic","Marylu"," ","Marylu Katulic"," ","20762485"," "," ",1
+1,0,"20762485","Customer Service",16,23,16,0,0,0,0,16,7,7721,377,117,0,0,0,0,0,7,0,1513,1,0,2,,"`im7&efr&:qe09)s99a?`3","Katulic","Marylu"," ","Marylu Katulic"," ","20762485"," "," ",1
+1,0,"20762485","New Accounts",1,2,1,0,0,0,0,1,1,897,26,0,0,0,0,0,0,1,0,887,1,0,2,,"`im7&efr&:qe09)s99a?`3","Katulic","Marylu"," ","Marylu Katulic"," ","20762485"," "," ",1
+1,0,"20762485","Transponder Maintenance",4,5,4,0,0,0,0,4,1,6220,61,1082,0,0,0,0,0,1,0,721,1,0,2,,"`im7&efr&:qe09)s99a?`3","Katulic","Marylu"," ","Marylu Katulic"," ","20762485"," "," ",1
+1,0,"20762485","Violation Payment",11,13,11,0,0,0,0,11,2,7577,209,158,0,0,0,0,0,2,0,1443,1,0,2,,"`im7&efr&:qe09)s99a?`3","Katulic","Marylu"," ","Marylu Katulic"," ","20762485"," "," ",1
+1,0,"20765233","-",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"p|o;^4b)&&au7>4=0;}o82","Johnson","Arletho"," ","Arletho Johnson"," ","20765233"," "," ",1
+1,0,"20765233","Account Maintenance",2,3,2,0,0,0,0,2,1,1230,30,0,0,0,0,0,0,1,0,692,1,0,2,,"p|o;^4b)&&au7>4=0;}o82","Johnson","Arletho"," ","Arletho Johnson"," ","20765233"," "," ",1
+1,0,"20765233","Account Payments",3,4,3,0,0,0,0,3,1,1966,45,0,0,0,0,0,0,1,0,422,1,0,2,,"p|o;^4b)&&au7>4=0;}o82","Johnson","Arletho"," ","Arletho Johnson"," ","20765233"," "," ",1
+1,0,"20765233","Account Updates",2,2,2,0,0,0,0,2,0,422,30,0,0,0,0,0,0,0,0,0,1,0,2,,"p|o;^4b)&&au7>4=0;}o82","Johnson","Arletho"," ","Arletho Johnson"," ","20765233"," "," ",1
+1,0,"20765233","Customer Service",25,28,25,0,0,2,0,25,3,11167,526,102,0,0,0,0,0,3,0,1692,1,0,2,,"p|o;^4b)&&au7>4=0;}o82","Johnson","Arletho"," ","Arletho Johnson"," ","20765233"," "," ",1
+1,0,"20765233","New Accounts",2,2,2,0,0,0,0,2,0,414,30,0,0,0,0,0,0,0,0,0,1,0,2,,"p|o;^4b)&&au7>4=0;}o82","Johnson","Arletho"," ","Arletho Johnson"," ","20765233"," "," ",1
+1,0,"20765233","Transponder Maintenance",7,9,7,0,0,0,0,7,2,3969,103,0,0,0,0,0,0,2,0,1151,1,0,2,,"p|o;^4b)&&au7>4=0;}o82","Johnson","Arletho"," ","Arletho Johnson"," ","20765233"," "," ",1
+1,0,"20765233","Violation Payment",11,15,11,0,0,1,0,11,4,4610,355,121,0,0,0,0,0,4,0,1361,1,0,2,,"p|o;^4b)&&au7>4=0;}o82","Johnson","Arletho"," ","Arletho Johnson"," ","20765233"," "," ",1
+1,0,"20765535","Account Payments",3,3,3,0,0,0,0,3,0,760,95,0,0,0,0,0,0,0,0,0,1,0,2,,"a)--@ty:^ym\]9/]4^n{@3","Jones","Samuel"," ","Samuel Jones"," ","20765535"," "," ",1
+1,0,"20765535","Customer Service",21,26,21,0,0,0,0,21,5,11798,516,0,0,0,0,0,0,5,0,889,1,0,2,,"a)--@ty:^ym\]9/]4^n{@3","Jones","Samuel"," ","Samuel Jones"," ","20765535"," "," ",1
+1,0,"20765535","New Accounts",2,2,2,0,0,0,0,2,0,977,28,0,0,0,0,0,0,0,0,0,1,0,2,,"a)--@ty:^ym\]9/]4^n{@3","Jones","Samuel"," ","Samuel Jones"," ","20765535"," "," ",1
+1,0,"20765535","Transponder Maintenance",8,10,8,0,0,0,0,8,2,3008,152,0,0,0,0,0,0,2,0,689,1,0,2,,"a)--@ty:^ym\]9/]4^n{@3","Jones","Samuel"," ","Samuel Jones"," ","20765535"," "," ",1
+1,0,"20765535","Violation Payment",15,20,15,0,0,0,0,15,5,8493,211,0,0,0,0,0,0,5,0,1218,1,0,2,,"a)--@ty:^ym\]9/]4^n{@3","Jones","Samuel"," ","Samuel Jones"," ","20765535"," "," ",1
+1,0,"20773782","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"@iyd*iyo&[m6(mqn4?y-m1","Coleman","Micah"," ","Micah Coleman"," ","20773782"," "," ",1
+1,0,"20773782","Account Maintenance",2,2,2,0,0,0,0,2,0,556,212,0,0,0,0,0,0,0,0,0,1,0,2,,"@iyd*iyo&[m6(mqn4?y-m1","Coleman","Micah"," ","Micah Coleman"," ","20773782"," "," ",1
+1,0,"20773782","Account Payments",7,7,7,0,0,0,0,7,0,1575,196,0,0,0,0,0,0,0,0,0,1,0,2,,"@iyd*iyo&[m6(mqn4?y-m1","Coleman","Micah"," ","Micah Coleman"," ","20773782"," "," ",1
+1,0,"20773782","Customer Service",40,41,40,0,0,0,0,40,1,16809,1617,449,0,0,0,0,0,1,0,299,1,0,2,,"@iyd*iyo&[m6(mqn4?y-m1","Coleman","Micah"," ","Micah Coleman"," ","20773782"," "," ",1
+1,0,"20773782","New Accounts",2,2,2,0,0,0,0,2,0,1309,30,0,0,0,0,0,0,0,0,0,1,0,2,,"@iyd*iyo&[m6(mqn4?y-m1","Coleman","Micah"," ","Micah Coleman"," ","20773782"," "," ",1
+1,0,"20773782","Transponder Maintenance",5,5,5,0,0,0,0,5,0,1790,270,0,0,0,0,0,0,0,0,0,1,0,2,,"@iyd*iyo&[m6(mqn4?y-m1","Coleman","Micah"," ","Micah Coleman"," ","20773782"," "," ",1
+1,0,"20773782","Violation Payment",11,11,11,0,0,1,0,11,0,3386,416,102,0,0,0,0,0,0,0,0,1,0,2,,"@iyd*iyo&[m6(mqn4?y-m1","Coleman","Micah"," ","Micah Coleman"," ","20773782"," "," ",1
+1,0,"20777498","Customer Service",12,15,12,0,0,0,0,12,3,7203,496,116,0,0,0,0,0,3,0,1624,1,0,2,,"vt9)x-]s*o~py}/pf}ih&2","Lawson","Aleatha"," ","Aleatha Lawson"," ","20777498"," "," ",1
+1,0,"20777498","New Accounts",1,1,1,0,0,0,0,1,0,1656,0,0,0,0,0,0,0,0,0,0,1,0,2,,"vt9)x-]s*o~py}/pf}ih&2","Lawson","Aleatha"," ","Aleatha Lawson"," ","20777498"," "," ",1
+1,0,"20777498","Transponder Maintenance",1,1,1,0,0,0,0,1,0,223,15,0,0,0,0,0,0,0,0,0,1,0,2,,"vt9)x-]s*o~py}/pf}ih&2","Lawson","Aleatha"," ","Aleatha Lawson"," ","20777498"," "," ",1
+1,0,"20777498","Violation Payment",6,7,6,0,0,0,0,6,1,6585,60,181,0,0,0,0,0,1,0,447,1,0,2,,"vt9)x-]s*o~py}/pf}ih&2","Lawson","Aleatha"," ","Aleatha Lawson"," ","20777498"," "," ",1
+1,0,"20777578","WebChat_Customer",21,21,21,0,0,0,0,21,0,12251,671,0,0,0,0,0,0,0,0,0,1,0,2,,"af6j+#my*i#^/poauhwm|1","Felipe","Basilio"," ","Basilio Felipe"," ","20777578"," "," ",1
+1,0,"20782581","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"?1sqnzf4*5ep\-mq^nb.43","Loaiza-Flankey","Angelica"," ","Angelica Loaiza-Flankey"," ","20782581"," "," ",1
+1,0,"20782581","Spanish Account Payments",13,17,13,0,0,0,0,13,3,7050,103,0,0,0,0,0,0,3,0,922,1,0,2,,"?1sqnzf4*5ep\-mq^nb.43","Loaiza-Flankey","Angelica"," ","Angelica Loaiza-Flankey"," ","20782581"," "," ",1
+1,0,"20782581","Spanish Account Updates",1,1,1,0,0,0,0,1,0,870,8,0,0,0,0,0,0,0,0,0,1,0,2,,"?1sqnzf4*5ep\-mq^nb.43","Loaiza-Flankey","Angelica"," ","Angelica Loaiza-Flankey"," ","20782581"," "," ",1
+1,0,"20782581","Spanish Customer Service",39,52,39,0,0,1,1,39,9,11529,338,70,0,0,0,0,0,9,0,724,1,0,2,,"?1sqnzf4*5ep\-mq^nb.43","Loaiza-Flankey","Angelica"," ","Angelica Loaiza-Flankey"," ","20782581"," "," ",1
+1,0,"20782581","Spanish Transponder Maintenance",3,4,3,0,0,0,0,3,1,805,29,0,0,0,0,0,0,1,0,282,1,0,2,,"?1sqnzf4*5ep\-mq^nb.43","Loaiza-Flankey","Angelica"," ","Angelica Loaiza-Flankey"," ","20782581"," "," ",1
+1,0,"20782581","Spanish Violation Payment",11,11,11,0,0,0,0,11,0,4728,115,0,0,0,0,0,0,0,0,0,1,0,2,,"?1sqnzf4*5ep\-mq^nb.43","Loaiza-Flankey","Angelica"," ","Angelica Loaiza-Flankey"," ","20782581"," "," ",1
+1,0,"20788527","Escalation",10,10,10,0,0,0,9,10,0,6766,0,427,0,0,0,0,0,0,0,0,1,0,2,,"`(objle4^\}&p];^->/=>4","Doleyres","Kenelm"," ","Kenelm Doleyres"," ","20788527"," "," ",1
+1,0,"20796651","Spanish Account Maintenance",2,2,2,0,0,0,0,2,0,946,150,0,0,0,0,0,0,0,0,0,1,0,2,,"?5@h*[|g&&u/,3m,|(vf&4","Cardenas","Sandra"," ","Sandra Cardenas"," ","20796651"," "," ",1
+1,0,"20796651","Spanish Account Payments",9,10,9,0,0,0,0,9,1,5815,73,361,0,0,0,0,0,1,0,387,1,0,2,,"?5@h*[|g&&u/,3m,|(vf&4","Cardenas","Sandra"," ","Sandra Cardenas"," ","20796651"," "," ",1
+1,0,"20796651","Spanish Customer Service",23,31,23,0,0,0,0,23,8,10457,618,457,0,0,0,0,0,8,0,4767,1,0,2,,"?5@h*[|g&&u/,3m,|(vf&4","Cardenas","Sandra"," ","Sandra Cardenas"," ","20796651"," "," ",1
+1,0,"20796651","Spanish New Accounts",1,1,1,0,0,0,0,1,0,793,151,0,0,0,0,0,0,0,0,0,1,0,2,,"?5@h*[|g&&u/,3m,|(vf&4","Cardenas","Sandra"," ","Sandra Cardenas"," ","20796651"," "," ",1
+1,0,"20796651","Spanish Transponder Maintenance",1,1,1,0,0,0,0,1,0,906,11,0,0,0,0,0,0,0,0,0,1,0,2,,"?5@h*[|g&&u/,3m,|(vf&4","Cardenas","Sandra"," ","Sandra Cardenas"," ","20796651"," "," ",1
+1,0,"20796651","Spanish Violation Payment",6,6,6,0,0,0,0,6,0,3963,288,544,0,0,0,0,0,0,0,0,1,0,2,,"?5@h*[|g&&u/,3m,|(vf&4","Cardenas","Sandra"," ","Sandra Cardenas"," ","20796651"," "," ",1
+1,0,"20797965","WebChat_Customer",30,30,30,0,0,0,0,30,0,8821,545,0,0,0,0,0,0,0,0,0,1,0,2,,"=~=*;6@5^{q/zss}y+:re4","Rivas","Ana"," ","Ana Rivas"," ","20797965"," "," ",1
+1,0,"20797965","WebChat_Customer_SP",1,1,1,0,0,0,0,1,0,261,0,0,0,0,0,0,0,0,0,0,1,0,2,,"=~=*;6@5^{q/zss}y+:re4","Rivas","Ana"," ","Ana Rivas"," ","20797965"," "," ",1
+1,0,"20797970","Spanish Account Payments",1,1,1,0,0,0,0,1,0,1671,3,0,0,0,0,0,0,0,0,0,1,0,2,,"+5z!2[|;&bibatc8<rz;,3","Rodriguez ","Arelis"," ","Arelis Rodriguez "," ","20797970"," "," ",1
+1,0,"20797970","Spanish Customer Service",5,8,5,0,0,0,0,5,3,3540,47,0,0,0,0,0,0,3,0,2465,1,0,2,,"+5z!2[|;&bibatc8<rz;,3","Rodriguez ","Arelis"," ","Arelis Rodriguez "," ","20797970"," "," ",1
+1,0,"20797970","Spanish Violation Payment",9,9,9,0,0,0,0,9,0,2961,103,0,0,0,0,0,0,0,0,0,1,0,2,,"+5z!2[|;&bibatc8<rz;,3","Rodriguez ","Arelis"," ","Arelis Rodriguez "," ","20797970"," "," ",1
+1,0,"20797970","Transponder Maintenance",4,4,4,0,0,0,0,4,0,1309,50,0,0,0,0,0,0,0,0,0,1,0,2,,"+5z!2[|;&bibatc8<rz;,3","Rodriguez ","Arelis"," ","Arelis Rodriguez "," ","20797970"," "," ",1
+1,0,"20797970","Violation Payment",2,3,2,0,0,0,0,2,1,1042,0,102,0,0,0,0,0,1,0,444,1,0,2,,"+5z!2[|;&bibatc8<rz;,3","Rodriguez ","Arelis"," ","Arelis Rodriguez "," ","20797970"," "," ",1
+1,0,"20800816","WebChat_Customer",27,27,27,0,0,0,0,27,0,9263,1119,0,0,0,0,0,0,0,0,0,1,0,2,,":6;cp)mv^v+lj$6+x8v|:1","Oyola","Vanessa"," ","Vanessa Oyola"," ","20800816"," "," ",1
+1,0,"20805832","WebChat_Customer",24,24,24,0,0,0,0,24,0,9296,360,0,0,0,0,0,0,0,0,0,1,0,2,,"!l$;?:=c&z>#<i[}gm`8g4","Connolly","Angie"," ","Angie Connolly"," ","20805832"," "," ",1
+1,0,"20805832","WebChat_Customer_SP",3,3,3,0,0,0,0,3,0,1128,61,0,0,0,0,0,0,0,0,0,1,0,2,,"!l$;?:=c&z>#<i[}gm`8g4","Connolly","Angie"," ","Angie Connolly"," ","20805832"," "," ",1
+1,0,"20807986","WebChat_Customer",20,20,20,0,0,0,0,20,0,13448,1456,0,0,0,0,0,0,0,0,0,1,0,2,,";c![#kt1&q>0`m&o/9]#-3","Candelaria","Carmen"," ","Carmen Candelaria"," ","20807986"," "," ",1
+1,0,"20812984","Spanish Customer Service",5,7,5,0,0,0,0,5,2,3074,142,147,0,0,0,0,0,2,0,725,1,0,2,,"q(1h)k>h^m#$u7x##|7*92","Peller","Maria"," ","Maria Peller"," ","20812984"," "," ",1
+1,0,"20818204","Account Maintenance",1,1,1,0,0,0,0,1,0,409,15,0,0,0,0,0,0,0,0,0,1,0,2,,"dn4mc@-|^]*ecj#n-39kv4","Daly","Amani"," ","Amani Daly"," ","20818204"," "," ",1
+1,0,"20818204","Account Payments",1,1,1,0,0,0,0,1,0,246,15,0,0,0,0,0,0,0,0,0,1,0,2,,"dn4mc@-|^]*ecj#n-39kv4","Daly","Amani"," ","Amani Daly"," ","20818204"," "," ",1
+1,0,"20818204","Account Updates",1,1,1,0,0,0,0,1,0,519,15,0,0,0,0,0,0,0,0,0,1,0,2,,"dn4mc@-|^]*ecj#n-39kv4","Daly","Amani"," ","Amani Daly"," ","20818204"," "," ",1
+1,0,"20818204","Customer Service",17,19,17,0,0,0,0,17,2,6829,197,212,0,0,0,0,0,2,0,517,1,0,2,,"dn4mc@-|^]*ecj#n-39kv4","Daly","Amani"," ","Amani Daly"," ","20818204"," "," ",1
+1,0,"20818204","New Accounts",1,1,1,0,0,0,0,1,0,969,10,0,0,0,0,0,0,0,0,0,1,0,2,,"dn4mc@-|^]*ecj#n-39kv4","Daly","Amani"," ","Amani Daly"," ","20818204"," "," ",1
+1,0,"20818204","Transponder Maintenance",5,5,5,0,0,0,0,5,0,1687,60,113,0,0,0,0,0,0,0,0,1,0,2,,"dn4mc@-|^]*ecj#n-39kv4","Daly","Amani"," ","Amani Daly"," ","20818204"," "," ",1
+1,0,"20818204","Violation Payment",10,14,10,0,0,0,0,10,4,4191,90,0,0,0,0,0,0,4,0,1184,1,0,2,,"dn4mc@-|^]*ecj#n-39kv4","Daly","Amani"," ","Amani Daly"," ","20818204"," "," ",1
+1,0,"20818688","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"qw$hc*.0*2#:a.&]wk33p4","Toyo","Shidly"," ","Shidly Toyo"," ","20818688"," "," ",1
+1,0,"20818688","Account Payments",4,5,4,0,0,0,0,4,1,1759,615,0,0,0,0,0,0,1,0,561,1,0,2,,"qw$hc*.0*2#:a.&]wk33p4","Toyo","Shidly"," ","Shidly Toyo"," ","20818688"," "," ",1
+1,0,"20818688","Customer Service",19,29,19,0,0,1,0,19,10,6982,2673,351,0,0,0,0,0,10,0,2609,1,0,2,,"qw$hc*.0*2#:a.&]wk33p4","Toyo","Shidly"," ","Shidly Toyo"," ","20818688"," "," ",1
+1,0,"20818688","New Accounts",3,6,3,0,0,0,0,3,3,1311,119,0,0,0,0,0,0,3,0,1016,1,0,2,,"qw$hc*.0*2#:a.&]wk33p4","Toyo","Shidly"," ","Shidly Toyo"," ","20818688"," "," ",1
+1,0,"20818688","Transponder Maintenance",4,5,4,0,0,0,0,4,1,1350,481,0,0,0,0,0,0,1,0,28,1,0,2,,"qw$hc*.0*2#:a.&]wk33p4","Toyo","Shidly"," ","Shidly Toyo"," ","20818688"," "," ",1
+1,0,"20818688","Violation Payment",10,12,10,0,0,0,0,10,2,4040,1378,88,0,0,0,0,0,2,0,1200,1,0,2,,"qw$hc*.0*2#:a.&]wk33p4","Toyo","Shidly"," ","Shidly Toyo"," ","20818688"," "," ",1
+1,0,"20818743","Account Payments",1,1,1,0,0,0,0,1,0,187,15,0,0,0,0,0,0,0,0,0,1,0,2,,"(5^eky!**vm\x{?n+w]i|2","Thomas","Sharlene"," ","Sharlene Thomas"," ","20818743"," "," ",1
+1,0,"20818743","Customer Service",9,11,9,0,0,0,0,9,2,5370,4493,0,0,0,0,0,0,2,0,1256,1,0,2,,"(5^eky!**vm\x{?n+w]i|2","Thomas","Sharlene"," ","Sharlene Thomas"," ","20818743"," "," ",1
+1,0,"20818743","New Accounts",1,1,1,0,0,0,0,1,0,225,59,0,0,0,0,0,0,0,0,0,1,0,2,,"(5^eky!**vm\x{?n+w]i|2","Thomas","Sharlene"," ","Sharlene Thomas"," ","20818743"," "," ",1
+1,0,"20818743","Transponder Maintenance",3,4,3,0,0,0,0,3,1,2685,2022,221,0,0,0,0,0,1,0,372,1,0,2,,"(5^eky!**vm\x{?n+w]i|2","Thomas","Sharlene"," ","Sharlene Thomas"," ","20818743"," "," ",1
+1,0,"20818743","Violation Payment",2,2,2,0,0,0,0,2,0,852,1949,0,0,0,0,0,0,0,0,0,1,0,2,,"(5^eky!**vm\x{?n+w]i|2","Thomas","Sharlene"," ","Sharlene Thomas"," ","20818743"," "," ",1
+1,0,"20824565","Account Maintenance",3,5,3,0,0,0,0,3,2,3105,201,0,0,0,0,0,0,2,0,1384,1,0,2,,"<mn=)m2y&:#|4ng,jx<cp2","Lundy","Mitchela"," ","Mitchela Lundy"," ","20824565"," "," ",1
+1,0,"20824565","Account Payments",1,1,1,0,0,0,0,1,0,269,143,0,0,0,0,0,0,0,0,0,1,0,2,,"<mn=)m2y&:#|4ng,jx<cp2","Lundy","Mitchela"," ","Mitchela Lundy"," ","20824565"," "," ",1
+1,0,"20824565","Customer Service",19,25,19,0,0,0,0,19,6,11319,2232,501,0,0,0,0,0,6,0,1865,1,0,2,,"<mn=)m2y&:#|4ng,jx<cp2","Lundy","Mitchela"," ","Mitchela Lundy"," ","20824565"," "," ",1
+1,0,"20824565","New Accounts",1,1,1,0,0,0,0,1,0,446,135,0,0,0,0,0,0,0,0,0,1,0,2,,"<mn=)m2y&:#|4ng,jx<cp2","Lundy","Mitchela"," ","Mitchela Lundy"," ","20824565"," "," ",1
+1,0,"20824565","Transponder Maintenance",2,2,2,0,0,0,0,2,0,1177,253,608,0,0,0,0,0,0,0,0,1,0,2,,"<mn=)m2y&:#|4ng,jx<cp2","Lundy","Mitchela"," ","Mitchela Lundy"," ","20824565"," "," ",1
+1,0,"20824565","Violation Payment",12,15,12,0,0,0,0,12,3,4883,1236,0,0,0,0,0,0,3,0,1227,1,0,2,,"<mn=)m2y&:#|4ng,jx<cp2","Lundy","Mitchela"," ","Mitchela Lundy"," ","20824565"," "," ",1
+1,0,"20824584","Escalation",5,5,5,0,0,0,4,4,1,4460,0,0,0,0,0,0,0,0,0,0,1,0,2,,"!k30\[ud&/~s,?8}7d;4k2","Anzalota","Jusmanny "," ","Jusmanny  Anzalota"," ","20824584"," "," ",1
+1,0,"20824584","Spanish Customer Service",2,2,2,0,0,0,0,2,0,1974,99,0,0,0,0,0,0,0,0,0,1,0,2,,"!k30\[ud&/~s,?8}7d;4k2","Anzalota","Jusmanny "," ","Jusmanny  Anzalota"," ","20824584"," "," ",1
+1,0,"20824584","Spanish Escalations",1,1,1,0,0,0,1,1,0,1479,0,0,0,0,0,0,0,0,0,0,1,0,2,,"!k30\[ud&/~s,?8}7d;4k2","Anzalota","Jusmanny "," ","Jusmanny  Anzalota"," ","20824584"," "," ",1
+1,0,"20832356","Spanish Account Maintenance",3,3,3,0,0,0,0,3,0,2205,45,0,0,0,0,0,0,0,0,0,1,0,2,,"fu3*jbtn(<y]z|]7dg[ak3","Rodriguez","Juan"," ","Juan Rodriguez"," ","20832356"," "," ",1
+1,0,"20832356","Spanish Account Payments",6,7,6,0,0,0,0,6,1,3354,90,226,0,0,0,0,0,1,0,284,1,0,2,,"fu3*jbtn(<y]z|]7dg[ak3","Rodriguez","Juan"," ","Juan Rodriguez"," ","20832356"," "," ",1
+1,0,"20832356","Spanish Customer Service",28,39,28,0,0,0,0,28,11,21536,392,321,0,0,0,0,0,11,0,6173,1,0,2,,"fu3*jbtn(<y]z|]7dg[ak3","Rodriguez","Juan"," ","Juan Rodriguez"," ","20832356"," "," ",1
+1,0,"20832356","Spanish New Accounts",3,3,3,0,0,0,0,3,0,1162,45,0,0,0,0,0,0,0,0,0,1,0,2,,"fu3*jbtn(<y]z|]7dg[ak3","Rodriguez","Juan"," ","Juan Rodriguez"," ","20832356"," "," ",1
+1,0,"20832356","Spanish Transponder Maintenance",2,3,2,0,0,0,0,2,1,865,19,0,0,0,0,0,0,1,0,243,1,0,2,,"fu3*jbtn(<y]z|]7dg[ak3","Rodriguez","Juan"," ","Juan Rodriguez"," ","20832356"," "," ",1
+1,0,"20832356","Spanish Violation Payment",5,5,5,0,0,0,0,5,0,3100,75,0,0,0,0,0,0,0,0,0,1,0,2,,"fu3*jbtn(<y]z|]7dg[ak3","Rodriguez","Juan"," ","Juan Rodriguez"," ","20832356"," "," ",1
+1,0,"52144803","WebChat_Customer",24,24,24,0,0,0,0,24,0,10093,65,0,0,0,0,0,0,0,0,0,1,0,2,,"@q^z2.)n(d7&;#<l`#^sh2","Angel","Ruth"," ","Ruth Angel"," ","52144803"," "," ",1
+1,0,"52144803","WebChat_Customer_SP",4,4,4,0,0,0,0,4,0,1548,0,0,0,0,0,0,0,0,0,0,1,0,2,,"@q^z2.)n(d7&;#<l`#^sh2","Angel","Ruth"," ","Ruth Angel"," ","52144803"," "," ",1
+1,0,"52184728","Customer Service",13,15,13,0,0,1,0,13,2,5199,158,88,0,0,0,0,0,2,0,843,1,0,2,,"|c4tya`$^`~`+tt!vr>u21","Parker","Fiona"," ","Fiona Parker"," ","52184728"," "," ",1
+1,0,"52184728","Escalation",4,4,4,0,0,0,4,3,0,1023,0,54,0,0,0,0,0,0,0,0,1,0,2,,"|c4tya`$^`~`+tt!vr>u21","Parker","Fiona"," ","Fiona Parker"," ","52184728"," "," ",1
+1,0,"52188259","-",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"1b&}^m`|*4mu^8i-8=x9}4","Moore","Nicole"," ","Nicole Moore"," ","52188259"," "," ",1
+1,0,"52188259","Account Maintenance",2,2,2,0,0,0,0,2,0,405,307,0,0,0,0,0,0,0,0,0,1,0,2,,"1b&}^m`|*4mu^8i-8=x9}4","Moore","Nicole"," ","Nicole Moore"," ","52188259"," "," ",1
+1,0,"52188259","Account Payments",1,2,1,0,0,0,0,1,1,792,15,0,0,0,0,0,0,1,0,72,1,0,2,,"1b&}^m`|*4mu^8i-8=x9}4","Moore","Nicole"," ","Nicole Moore"," ","52188259"," "," ",1
+1,0,"52188259","Customer Service",26,33,26,0,0,1,0,26,7,13031,1226,207,0,0,0,0,0,7,0,4914,1,0,2,,"1b&}^m`|*4mu^8i-8=x9}4","Moore","Nicole"," ","Nicole Moore"," ","52188259"," "," ",1
+1,0,"52188259","New Accounts",1,1,1,0,0,0,0,1,0,687,134,50,0,0,0,0,0,0,0,0,1,0,2,,"1b&}^m`|*4mu^8i-8=x9}4","Moore","Nicole"," ","Nicole Moore"," ","52188259"," "," ",1
+1,0,"52188259","Transponder Maintenance",6,8,6,0,0,0,0,6,2,3866,277,0,0,0,0,0,0,2,0,448,1,0,2,,"1b&}^m`|*4mu^8i-8=x9}4","Moore","Nicole"," ","Nicole Moore"," ","52188259"," "," ",1
+1,0,"52188259","Violation Payment",8,12,8,0,0,0,0,8,4,3850,276,0,0,0,0,0,0,4,0,1008,1,0,2,,"1b&}^m`|*4mu^8i-8=x9}4","Moore","Nicole"," ","Nicole Moore"," ","52188259"," "," ",1
+1,0,"52189718","Customer Service",9,9,9,0,0,0,0,9,0,2082,355,71,0,0,0,0,0,0,0,0,1,0,2,,"^0i<o35&^>7oy.?#:mt[w4","Gofphin","Darneisha"," ","Darneisha Gofphin"," ","52189718"," "," ",1
+1,0,"52189718","Transponder Maintenance",3,3,3,0,0,0,0,3,0,575,37,63,0,0,0,0,0,0,0,0,1,0,2,,"^0i<o35&^>7oy.?#:mt[w4","Gofphin","Darneisha"," ","Darneisha Gofphin"," ","52189718"," "," ",1
+1,0,"52189718","Violation Payment",5,5,5,0,0,1,0,5,0,1796,247,4,0,0,0,0,0,0,0,0,1,0,2,,"^0i<o35&^>7oy.?#:mt[w4","Gofphin","Darneisha"," ","Darneisha Gofphin"," ","52189718"," "," ",1
+1,0,"52232364","Escalation",6,6,6,0,0,0,6,5,0,2827,1124,545,0,0,0,0,0,0,0,0,1,0,2,,"3&zih<vu(ce6q|i)p;\>~3","Ocampo","Guadalupe"," ","Guadalupe Ocampo"," ","52232364"," "," ",1
+1,0,"52232364","Spanish Escalations",2,2,2,0,0,0,2,2,0,4503,311,1182,0,0,0,0,0,0,0,0,1,0,2,,"3&zih<vu(ce6q|i)p;\>~3","Ocampo","Guadalupe"," ","Guadalupe Ocampo"," ","52232364"," "," ",1
+1,0,"52253799","Escalation",5,5,5,0,0,0,5,4,0,1784,0,0,0,0,0,0,0,0,0,0,1,0,2,,"^/09dvit*{;2i-,&3{&<[3","Preston","Thomas"," ","Thomas Preston"," ","52253799"," "," ",1
+1,0,"52254226","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"(!1\wg7q^ja(o:hq^sw=@4","Jackson","Crystal"," ","Crystal Jackson"," ","52254226"," "," ",1
+1,0,"52254226","Account Payments",9,12,9,0,0,0,0,9,3,4156,112,0,0,0,0,0,0,3,0,1763,1,0,2,,"(!1\wg7q^ja(o:hq^sw=@4","Jackson","Crystal"," ","Crystal Jackson"," ","52254226"," "," ",1
+1,0,"52254226","Customer Service",29,38,29,0,0,0,0,29,9,13142,1234,0,0,0,0,0,0,9,0,3107,1,0,2,,"(!1\wg7q^ja(o:hq^sw=@4","Jackson","Crystal"," ","Crystal Jackson"," ","52254226"," "," ",1
+1,0,"52254226","Transponder Maintenance",7,7,7,0,0,0,0,7,0,1902,237,0,0,0,0,0,0,0,0,0,1,0,2,,"(!1\wg7q^ja(o:hq^sw=@4","Jackson","Crystal"," ","Crystal Jackson"," ","52254226"," "," ",1
+1,0,"52254226","Violation Payment",13,16,13,0,0,1,0,13,3,6070,697,180,0,0,0,0,0,3,0,804,1,0,2,,"(!1\wg7q^ja(o:hq^sw=@4","Jackson","Crystal"," ","Crystal Jackson"," ","52254226"," "," ",1
+1,0,"52257961","WebChat_Customer",20,20,20,0,0,0,0,20,0,11097,277,0,0,0,0,0,0,0,0,0,1,0,2,,"f=/:h2wz(@~<\}+$o<abe3","Melendez Ortiz","Mariely"," ","Mariely Melendez Ortiz"," ","52257961"," "," ",1
+1,0,"52257961","WebChat_Customer_SP",2,2,2,0,0,0,0,2,0,1059,0,0,0,0,0,0,0,0,0,0,1,0,2,,"f=/:h2wz(@~<\}+$o<abe3","Melendez Ortiz","Mariely"," ","Mariely Melendez Ortiz"," ","52257961"," "," ",1
+1,0,"52258742","Account Maintenance",1,1,1,0,0,0,0,1,0,300,0,0,0,0,0,0,0,0,0,0,1,0,2,,"#su,kk2i(1q[uz]ftx/?p4","Godoy","Alexis"," ","Alexis Godoy"," ","52258742"," "," ",1
+1,0,"52258742","Account Payments",2,2,2,0,0,0,0,2,0,1228,16,0,0,0,0,0,0,0,0,0,1,0,2,,"#su,kk2i(1q[uz]ftx/?p4","Godoy","Alexis"," ","Alexis Godoy"," ","52258742"," "," ",1
+1,0,"52258742","Account Updates",1,1,1,0,0,1,0,1,0,13,6,0,0,0,0,0,0,0,0,0,1,0,2,,"#su,kk2i(1q[uz]ftx/?p4","Godoy","Alexis"," ","Alexis Godoy"," ","52258742"," "," ",1
+1,0,"52258742","Customer Service",15,17,15,0,0,0,0,15,2,7749,67,0,0,0,0,0,0,2,0,1753,1,0,2,,"#su,kk2i(1q[uz]ftx/?p4","Godoy","Alexis"," ","Alexis Godoy"," ","52258742"," "," ",1
+1,0,"52258742","Transponder Maintenance",2,2,2,0,0,0,0,2,0,886,0,0,0,0,0,0,0,0,0,0,1,0,2,,"#su,kk2i(1q[uz]ftx/?p4","Godoy","Alexis"," ","Alexis Godoy"," ","52258742"," "," ",1
+1,0,"52258742","Violation Payment",14,16,14,0,0,0,0,14,2,4514,96,0,0,0,0,0,0,2,0,963,1,0,2,,"#su,kk2i(1q[uz]ftx/?p4","Godoy","Alexis"," ","Alexis Godoy"," ","52258742"," "," ",1
+1,0,"52263378","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"+0`qc<`j^`e$$05zor3:#2","Smith","Hope "," ","Hope  Smith"," ","52263378"," "," ",1
+1,0,"52263378","Customer Service",2,2,2,0,0,0,0,2,0,2531,17,152,0,0,0,0,0,0,0,0,1,0,2,,"+0`qc<`j^`e$$05zor3:#2","Smith","Hope "," ","Hope  Smith"," ","52263378"," "," ",1
+1,0,"52263378","Escalation",9,9,9,0,0,1,9,7,0,4541,0,376,0,0,0,0,0,0,0,0,1,0,2,,"+0`qc<`j^`e$$05zor3:#2","Smith","Hope "," ","Hope  Smith"," ","52263378"," "," ",1
+1,0,"52266504","WebChat_Customer",27,27,27,0,0,0,0,27,0,9759,435,0,0,0,0,0,0,0,0,0,1,0,2,,"^+ji{ura&\#4dv5$}&g]03","Ulysse","Verly "," ","Verly  Ulysse"," ","52266504"," "," ",1
+1,0,"52266809","Account Payments",2,2,2,0,0,0,0,2,0,1179,30,0,0,0,0,0,0,0,0,0,1,0,2,,"9n+k1@f1&fytna}[!9pbd2","Charlery","Pearl "," ","Pearl  Charlery"," ","52266809"," "," ",1
+1,0,"52266809","New Accounts",1,1,1,0,0,0,0,1,0,144,15,0,0,0,0,0,0,0,0,0,1,0,2,,"9n+k1@f1&fytna}[!9pbd2","Charlery","Pearl "," ","Pearl  Charlery"," ","52266809"," "," ",1
+1,0,"52266809","Transponder Maintenance",4,5,4,0,0,0,0,4,1,1838,96,0,0,0,0,0,0,1,0,218,1,0,2,,"9n+k1@f1&fytna}[!9pbd2","Charlery","Pearl "," ","Pearl  Charlery"," ","52266809"," "," ",1
+1,0,"52266809","Violation Payment",12,17,12,0,0,2,0,12,5,4440,363,64,0,0,0,0,0,5,0,2289,1,0,2,,"9n+k1@f1&fytna}[!9pbd2","Charlery","Pearl "," ","Pearl  Charlery"," ","52266809"," "," ",1
+1,0,"52269668","WebChat_Customer",25,25,25,0,0,0,0,25,0,11233,367,1,0,0,0,0,0,0,0,0,1,0,2,,"dfxrrahm&}}v1[n1];1n/4","Robinson","Alexia "," ","Alexia  Robinson"," ","52269668"," "," ",1
+1,0,"52270260","Spanish Account Maintenance",1,1,1,0,0,0,0,1,0,639,15,0,0,0,0,0,0,0,0,0,1,0,2,,"-ac-u]u5(.qj$s$uk>fsr1","Reyes","Zoraida"," ","Zoraida Reyes"," ","52270260"," "," ",1
+1,0,"52270260","Spanish Account Payments",4,5,4,0,0,0,0,4,1,2171,245,0,0,0,0,0,0,1,0,12,1,0,2,,"-ac-u]u5(.qj$s$uk>fsr1","Reyes","Zoraida"," ","Zoraida Reyes"," ","52270260"," "," ",1
+1,0,"52270260","Spanish Customer Service",31,39,31,0,0,0,0,31,8,14427,907,0,0,0,0,0,0,8,0,2343,1,0,2,,"-ac-u]u5(.qj$s$uk>fsr1","Reyes","Zoraida"," ","Zoraida Reyes"," ","52270260"," "," ",1
+1,0,"52270260","Spanish New Accounts",1,1,1,0,0,0,0,1,0,397,15,0,0,0,0,0,0,0,0,0,1,0,2,,"-ac-u]u5(.qj$s$uk>fsr1","Reyes","Zoraida"," ","Zoraida Reyes"," ","52270260"," "," ",1
+1,0,"52270260","Spanish Transponder Maintenance",2,3,2,0,0,0,0,2,1,1148,30,0,0,0,0,0,0,1,0,475,1,0,2,,"-ac-u]u5(.qj$s$uk>fsr1","Reyes","Zoraida"," ","Zoraida Reyes"," ","52270260"," "," ",1
+1,0,"52270260","Spanish Violation Payment",13,13,13,0,0,0,0,13,0,6398,277,0,0,0,0,0,0,0,0,0,1,0,2,,"-ac-u]u5(.qj$s$uk>fsr1","Reyes","Zoraida"," ","Zoraida Reyes"," ","52270260"," "," ",1
+1,0,"52270366","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"n16:3*7g(t*6;>1|,\t\&3","Watt","Hackeem "," ","Hackeem  Watt"," ","52270366"," "," ",1
+1,0,"52270366","Account Maintenance",1,1,1,0,0,0,0,1,0,628,15,0,0,0,0,0,0,0,0,0,1,0,2,,"n16:3*7g(t*6;>1|,\t\&3","Watt","Hackeem "," ","Hackeem  Watt"," ","52270366"," "," ",1
+1,0,"52270366","Account Payments",5,5,5,0,0,0,0,5,0,2029,641,125,0,0,0,0,0,0,0,0,1,0,2,,"n16:3*7g(t*6;>1|,\t\&3","Watt","Hackeem "," ","Hackeem  Watt"," ","52270366"," "," ",1
+1,0,"52270366","Customer Service",14,19,14,0,0,0,0,14,4,3919,996,33,0,0,0,0,0,4,0,644,1,0,2,,"n16:3*7g(t*6;>1|,\t\&3","Watt","Hackeem "," ","Hackeem  Watt"," ","52270366"," "," ",1
+1,0,"52270366","New Accounts",1,1,1,0,0,0,0,1,0,304,10,0,0,0,0,0,0,0,0,0,1,0,2,,"n16:3*7g(t*6;>1|,\t\&3","Watt","Hackeem "," ","Hackeem  Watt"," ","52270366"," "," ",1
+1,0,"52270366","Transponder Maintenance",6,7,6,0,0,0,0,6,1,943,253,27,0,0,0,0,0,1,0,249,1,0,2,,"n16:3*7g(t*6;>1|,\t\&3","Watt","Hackeem "," ","Hackeem  Watt"," ","52270366"," "," ",1
+1,0,"52270366","Violation Payment",12,19,12,0,0,1,0,12,7,3848,832,56,0,0,0,0,0,7,0,1070,1,0,2,,"n16:3*7g(t*6;>1|,\t\&3","Watt","Hackeem "," ","Hackeem  Watt"," ","52270366"," "," ",1
+1,0,"52275189","Customer Service",1,1,1,0,0,0,0,1,0,590,5,0,0,0,0,0,0,0,0,0,1,0,2,,"6|!41+{1&x~(o5i0zcc@53","Cabrera","Junia "," ","Junia  Cabrera"," ","52275189"," "," ",1
+1,0,"52275189","Spanish Account Maintenance",2,2,2,0,0,0,0,2,0,645,5,0,0,0,0,0,0,0,0,0,1,0,2,,"6|!41+{1&x~(o5i0zcc@53","Cabrera","Junia "," ","Junia  Cabrera"," ","52275189"," "," ",1
+1,0,"52275189","Spanish Account Payments",2,2,2,0,0,0,0,2,0,795,15,0,0,0,0,0,0,0,0,0,1,0,2,,"6|!41+{1&x~(o5i0zcc@53","Cabrera","Junia "," ","Junia  Cabrera"," ","52275189"," "," ",1
+1,0,"52275189","Spanish Customer Service",13,19,13,0,0,0,0,13,6,6673,62,156,0,0,0,0,0,6,0,483,1,0,2,,"6|!41+{1&x~(o5i0zcc@53","Cabrera","Junia "," ","Junia  Cabrera"," ","52275189"," "," ",1
+1,0,"52275189","Spanish Transponder Maintenance",1,6,1,0,0,0,0,1,5,36,15,0,0,0,0,0,0,5,0,108,1,0,2,,"6|!41+{1&x~(o5i0zcc@53","Cabrera","Junia "," ","Junia  Cabrera"," ","52275189"," "," ",1
+1,0,"52275189","Spanish Violation Payment",3,3,3,0,0,0,0,3,0,1053,13,0,0,0,0,0,0,0,0,0,1,0,2,,"6|!41+{1&x~(o5i0zcc@53","Cabrera","Junia "," ","Junia  Cabrera"," ","52275189"," "," ",1
+1,0,"52275189","Violation Payment",1,1,1,0,0,0,0,1,0,346,6,0,0,0,0,0,0,0,0,0,1,0,2,,"6|!41+{1&x~(o5i0zcc@53","Cabrera","Junia "," ","Junia  Cabrera"," ","52275189"," "," ",1
+1,0,"52277584","-",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,144,1,0,2,,"&-\3~/8=&{aix#3+]{0=,3","Hernandez","Palmira"," ","Palmira Hernandez"," ","52277584"," "," ",1
+1,0,"52277584","Spanish Account Payments",34,45,34,0,0,0,0,34,11,20786,476,204,0,0,0,0,0,11,0,3956,1,0,2,,"&-\3~/8=&{aix#3+]{0=,3","Hernandez","Palmira"," ","Palmira Hernandez"," ","52277584"," "," ",1
+1,0,"52277584","Spanish Transponder Maintenance",9,17,9,0,0,0,0,9,8,4479,135,0,0,0,0,0,0,8,0,2801,1,0,2,,"&-\3~/8=&{aix#3+]{0=,3","Hernandez","Palmira"," ","Palmira Hernandez"," ","52277584"," "," ",1
+1,0,"52282257","Account Maintenance",2,2,2,0,0,0,0,2,0,2365,30,0,0,0,0,0,0,0,0,0,1,0,2,,";]dvy<-c*-+f4)w,}=g;72","Durroh","James "," ","James  Durroh"," ","52282257"," "," ",1
+1,0,"52282257","Account Payments",3,3,3,0,0,0,0,3,0,1010,21,0,0,0,0,0,0,0,0,0,1,0,2,,";]dvy<-c*-+f4)w,}=g;72","Durroh","James "," ","James  Durroh"," ","52282257"," "," ",1
+1,0,"52282257","Transponder Maintenance",5,5,5,0,0,0,0,5,0,3751,60,0,0,0,0,0,0,0,0,0,1,0,2,,";]dvy<-c*-+f4)w,}=g;72","Durroh","James "," ","James  Durroh"," ","52282257"," "," ",1
+1,0,"52282257","Violation Payment",8,9,8,0,0,0,0,8,1,5176,201,0,0,0,0,0,0,1,0,420,1,0,2,,";]dvy<-c*-+f4)w,}=g;72","Durroh","James "," ","James  Durroh"," ","52282257"," "," ",1
+1,0,"52284395","Account Maintenance",2,3,2,0,0,0,0,2,1,708,15,0,0,0,0,0,0,1,0,161,1,0,2,,"]rhc$+p.*@a~6l@p>dol]2","Lowery","Suzanne "," ","Suzanne  Lowery"," ","52284395"," "," ",1
+1,0,"52284395","Account Payments",2,2,2,0,0,0,0,2,0,350,9,0,0,0,0,0,0,0,0,0,1,0,2,,"]rhc$+p.*@a~6l@p>dol]2","Lowery","Suzanne "," ","Suzanne  Lowery"," ","52284395"," "," ",1
+1,0,"52284395","Account Updates",1,1,1,0,0,0,0,1,0,244,5,0,0,0,0,0,0,0,0,0,1,0,2,,"]rhc$+p.*@a~6l@p>dol]2","Lowery","Suzanne "," ","Suzanne  Lowery"," ","52284395"," "," ",1
+1,0,"52284395","Customer Service",27,34,27,0,0,1,0,27,7,10777,295,223,0,0,0,0,0,7,0,4273,1,0,2,,"]rhc$+p.*@a~6l@p>dol]2","Lowery","Suzanne "," ","Suzanne  Lowery"," ","52284395"," "," ",1
+1,0,"52284395","New Accounts",1,1,1,0,0,0,0,1,0,455,6,0,0,0,0,0,0,0,0,0,1,0,2,,"]rhc$+p.*@a~6l@p>dol]2","Lowery","Suzanne "," ","Suzanne  Lowery"," ","52284395"," "," ",1
+1,0,"52284395","Transponder Maintenance",7,9,7,0,0,0,0,7,2,2828,76,0,0,0,0,0,0,2,0,941,1,0,2,,"]rhc$+p.*@a~6l@p>dol]2","Lowery","Suzanne "," ","Suzanne  Lowery"," ","52284395"," "," ",1
+1,0,"52284395","Violation Payment",13,19,13,0,0,0,0,13,6,5084,210,0,0,0,0,0,0,6,0,1699,1,0,2,,"]rhc$+p.*@a~6l@p>dol]2","Lowery","Suzanne "," ","Suzanne  Lowery"," ","52284395"," "," ",1
+1,0,"52288588","Spanish Account Maintenance",1,1,1,0,0,0,0,1,0,1273,0,0,0,0,0,0,0,0,0,0,1,0,2,,"f&(}=#?s(17v8$b2m0\^+4","Velasquez","Anyeli"," ","Anyeli Velasquez"," ","52288588"," "," ",1
+1,0,"52288588","Spanish Account Payments",9,14,9,0,0,0,0,9,5,2550,76,1,0,0,0,0,0,5,0,418,1,0,2,,"f&(}=#?s(17v8$b2m0\^+4","Velasquez","Anyeli"," ","Anyeli Velasquez"," ","52288588"," "," ",1
+1,0,"52288588","Spanish Customer Service",18,34,18,0,0,0,0,18,16,7723,141,0,0,0,0,0,0,16,0,2282,1,0,2,,"f&(}=#?s(17v8$b2m0\^+4","Velasquez","Anyeli"," ","Anyeli Velasquez"," ","52288588"," "," ",1
+1,0,"52288588","Spanish Transponder Maintenance",4,7,4,0,0,0,0,4,3,1468,2,0,0,0,0,0,0,3,0,46,1,0,2,,"f&(}=#?s(17v8$b2m0\^+4","Velasquez","Anyeli"," ","Anyeli Velasquez"," ","52288588"," "," ",1
+1,0,"52288588","Spanish Violation Payment",15,15,15,0,0,0,0,15,0,9189,349,131,0,0,0,0,0,0,0,0,1,0,2,,"f&(}=#?s(17v8$b2m0\^+4","Velasquez","Anyeli"," ","Anyeli Velasquez"," ","52288588"," "," ",1
+1,0,"52297632","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"7-rn.&j-^,atst/aq^gy]3","Taylor","Dominique "," ","Dominique  Taylor"," ","52297632"," "," ",1
+1,0,"52297632","Account Payments",4,4,4,0,0,0,0,4,0,2273,0,0,0,0,0,0,0,0,0,0,1,0,2,,"7-rn.&j-^,atst/aq^gy]3","Taylor","Dominique "," ","Dominique  Taylor"," ","52297632"," "," ",1
+1,0,"52297632","Customer Service",21,26,21,0,0,1,0,21,5,10288,236,246,0,0,0,0,0,5,0,2238,1,0,2,,"7-rn.&j-^,atst/aq^gy]3","Taylor","Dominique "," ","Dominique  Taylor"," ","52297632"," "," ",1
+1,0,"52297632","New Accounts",6,11,6,0,0,0,0,6,5,1857,32,0,0,0,0,0,0,5,0,436,1,0,2,,"7-rn.&j-^,atst/aq^gy]3","Taylor","Dominique "," ","Dominique  Taylor"," ","52297632"," "," ",1
+1,0,"52297632","Transponder Maintenance",6,7,6,0,0,0,0,6,1,1910,0,0,0,0,0,0,0,1,0,392,1,0,2,,"7-rn.&j-^,atst/aq^gy]3","Taylor","Dominique "," ","Dominique  Taylor"," ","52297632"," "," ",1
+1,0,"52297632","Violation Payment",11,13,11,0,0,0,0,11,2,5528,154,110,0,0,0,0,0,2,0,804,1,0,2,,"7-rn.&j-^,atst/aq^gy]3","Taylor","Dominique "," ","Dominique  Taylor"," ","52297632"," "," ",1
+1,0,"52300475","Account Payments",2,3,2,0,0,0,0,2,1,525,66,0,0,0,0,0,0,1,0,351,1,0,2,,"7t0<*wc^&6>j5q4sm/!)c3","Settles","Stytavia"," ","Stytavia Settles"," ","52300475"," "," ",1
+1,0,"52300475","Customer Service",18,25,18,0,0,0,0,18,7,6412,867,0,0,0,0,0,0,7,0,2173,1,0,2,,"7t0<*wc^&6>j5q4sm/!)c3","Settles","Stytavia"," ","Stytavia Settles"," ","52300475"," "," ",1
+1,0,"52300475","New Accounts",2,3,2,0,0,0,0,2,1,1518,194,428,0,0,0,0,0,1,0,588,1,0,2,,"7t0<*wc^&6>j5q4sm/!)c3","Settles","Stytavia"," ","Stytavia Settles"," ","52300475"," "," ",1
+1,0,"52300475","Transponder Maintenance",5,7,5,0,0,0,0,5,2,709,299,0,0,0,0,0,0,2,0,814,1,0,2,,"7t0<*wc^&6>j5q4sm/!)c3","Settles","Stytavia"," ","Stytavia Settles"," ","52300475"," "," ",1
+1,0,"52300475","Violation Payment",14,17,14,0,0,0,0,14,3,3869,1008,114,0,0,0,0,0,3,0,1175,1,0,2,,"7t0<*wc^&6>j5q4sm/!)c3","Settles","Stytavia"," ","Stytavia Settles"," ","52300475"," "," ",1
+1,0,"52301863","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,")}r,ep{#^;31h$7m\/iti3","Castillo","Yaima"," ","Yaima Castillo"," ","52301863"," "," ",1
+1,0,"52301863","Spanish Account Maintenance",2,2,2,0,0,0,0,2,0,819,411,0,0,0,0,0,0,0,0,0,1,0,2,,")}r,ep{#^;31h$7m\/iti3","Castillo","Yaima"," ","Yaima Castillo"," ","52301863"," "," ",1
+1,0,"52301863","Spanish Account Payments",2,3,2,0,0,0,0,2,1,155,30,0,0,0,0,0,0,1,0,146,1,0,2,,")}r,ep{#^;31h$7m\/iti3","Castillo","Yaima"," ","Yaima Castillo"," ","52301863"," "," ",1
+1,0,"52301863","Spanish Account Updates",1,1,1,0,0,0,0,1,0,151,0,0,0,0,0,0,0,0,0,0,1,0,2,,")}r,ep{#^;31h$7m\/iti3","Castillo","Yaima"," ","Yaima Castillo"," ","52301863"," "," ",1
+1,0,"52301863","Spanish Customer Service",39,50,37,0,2,0,0,37,13,9479,304,68,0,0,0,0,0,13,0,3725,1,0,2,,")}r,ep{#^;31h$7m\/iti3","Castillo","Yaima"," ","Yaima Castillo"," ","52301863"," "," ",1
+1,0,"52301863","Spanish New Accounts",5,5,5,0,0,0,0,5,0,2011,553,1,0,0,0,0,0,0,0,0,1,0,2,,")}r,ep{#^;31h$7m\/iti3","Castillo","Yaima"," ","Yaima Castillo"," ","52301863"," "," ",1
+1,0,"52301863","Spanish Transponder Maintenance",1,2,1,0,0,0,0,1,1,437,0,0,0,0,0,0,0,1,0,130,1,0,2,,")}r,ep{#^;31h$7m\/iti3","Castillo","Yaima"," ","Yaima Castillo"," ","52301863"," "," ",1
+1,0,"52301863","Spanish Violation Payment",21,21,21,0,0,0,0,21,0,5807,1303,54,0,0,0,0,0,0,0,0,1,0,2,,")}r,ep{#^;31h$7m\/iti3","Castillo","Yaima"," ","Yaima Castillo"," ","52301863"," "," ",1
+1,0,"52302066","Account Maintenance",2,3,2,0,0,0,0,2,1,624,279,0,0,0,0,0,0,1,0,5,1,0,2,,"q70u<nk#*,;?q\\o,?c,u2","Dixon","Lakeisha "," ","Lakeisha  Dixon"," ","52302066"," "," ",1
+1,0,"52302066","Account Payments",4,5,4,0,0,0,0,4,1,848,536,0,0,0,0,0,0,1,0,58,1,0,2,,"q70u<nk#*,;?q\\o,?c,u2","Dixon","Lakeisha "," ","Lakeisha  Dixon"," ","52302066"," "," ",1
+1,0,"52302066","Customer Service",11,13,11,0,0,0,0,11,2,5993,2907,263,0,0,0,0,0,2,0,302,1,0,2,,"q70u<nk#*,;?q\\o,?c,u2","Dixon","Lakeisha "," ","Lakeisha  Dixon"," ","52302066"," "," ",1
+1,0,"52302066","New Accounts",1,1,1,0,0,0,0,1,0,710,393,0,0,0,0,0,0,0,0,0,1,0,2,,"q70u<nk#*,;?q\\o,?c,u2","Dixon","Lakeisha "," ","Lakeisha  Dixon"," ","52302066"," "," ",1
+1,0,"52302066","Transponder Maintenance",7,8,7,0,0,0,0,7,1,3156,1606,0,0,0,0,0,0,1,0,473,1,0,2,,"q70u<nk#*,;?q\\o,?c,u2","Dixon","Lakeisha "," ","Lakeisha  Dixon"," ","52302066"," "," ",1
+1,0,"52302066","Violation Payment",12,14,12,0,0,0,0,12,2,4211,2621,205,0,0,0,0,0,2,0,69,1,0,2,,"q70u<nk#*,;?q\\o,?c,u2","Dixon","Lakeisha "," ","Lakeisha  Dixon"," ","52302066"," "," ",1
+1,0,"52303772","-",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,203,1,0,2,,"^{o>xy12^ni$(-67<x$4;4","King","Betty Annette  "," ","Betty Annette   King"," ","52303772"," "," ",1
+1,0,"52303772","Account Payments",4,5,4,0,0,0,0,4,1,2754,31,0,0,0,0,0,0,1,0,818,1,0,2,,"^{o>xy12^ni$(-67<x$4;4","King","Betty Annette  "," ","Betty Annette   King"," ","52303772"," "," ",1
+1,0,"52303772","Transponder Maintenance",7,8,7,0,0,0,0,7,1,3998,65,0,0,0,0,0,0,1,0,360,1,0,2,,"^{o>xy12^ni$(-67<x$4;4","King","Betty Annette  "," ","Betty Annette   King"," ","52303772"," "," ",1
+1,0,"52303772","Violation Payment",21,28,21,0,0,0,0,21,7,16384,205,433,0,0,0,0,0,7,0,3019,1,0,2,,"^{o>xy12^ni$(-67<x$4;4","King","Betty Annette  "," ","Betty Annette   King"," ","52303772"," "," ",1
+1,0,"52304729","Account Payments",2,2,2,0,0,0,0,2,0,2184,19,65,0,0,0,0,0,0,0,0,1,0,2,,"l1//3uqj(4yt13>!a@m+:3","Collins","Yazmin "," ","Yazmin  Collins"," ","52304729"," "," ",1
+1,0,"52304729","Customer Service",10,11,10,0,0,0,0,10,1,4065,599,163,0,0,0,0,0,1,0,222,1,0,2,,"l1//3uqj(4yt13>!a@m+:3","Collins","Yazmin "," ","Yazmin  Collins"," ","52304729"," "," ",1
+1,0,"52304729","Transponder Maintenance",3,4,3,0,0,0,0,3,1,1051,377,0,0,0,0,0,0,1,0,175,1,0,2,,"l1//3uqj(4yt13>!a@m+:3","Collins","Yazmin "," ","Yazmin  Collins"," ","52304729"," "," ",1
+1,0,"52304729","Violation Payment",3,4,3,0,0,0,0,3,1,1615,30,0,0,0,0,0,0,1,0,378,1,0,2,,"l1//3uqj(4yt13>!a@m+:3","Collins","Yazmin "," ","Yazmin  Collins"," ","52304729"," "," ",1
+1,0,"52306996","WebChat_Customer",23,23,23,0,0,0,0,23,0,13233,0,0,0,0,0,0,0,0,0,0,1,0,2,,")?@1\4iw^{72}or.u!n0k2","Ulett","Shanay "," ","Shanay  Ulett"," ","52306996"," "," ",1
+1,0,"52309014","Account Payments",2,3,2,0,0,0,0,2,1,467,19,0,0,0,0,0,0,1,0,262,1,0,2,,"\drtp;};*gu6z,>6oy;5|2","Rainey","Tynese "," ","Tynese  Rainey"," ","52309014"," "," ",1
+1,0,"52309014","Customer Service",8,9,8,0,0,0,0,8,1,3050,240,104,0,0,0,0,0,1,0,217,1,0,2,,"\drtp;};*gu6z,>6oy;5|2","Rainey","Tynese "," ","Tynese  Rainey"," ","52309014"," "," ",1
+1,0,"52309014","Transponder Maintenance",3,4,3,0,0,0,0,3,1,739,154,0,0,0,0,0,0,1,0,250,1,0,2,,"\drtp;};*gu6z,>6oy;5|2","Rainey","Tynese "," ","Tynese  Rainey"," ","52309014"," "," ",1
+1,0,"52309014","Violation Payment",2,4,2,0,0,0,0,2,2,440,104,0,0,0,0,0,0,2,0,409,1,0,2,,"\drtp;};*gu6z,>6oy;5|2","Rainey","Tynese "," ","Tynese  Rainey"," ","52309014"," "," ",1
+1,0,"52316120","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"1,^e3)={*{q(*86|;w>;24","Gaines","Priscilla "," ","Priscilla  Gaines"," ","52316120"," "," ",1
+1,0,"52316120","Account Maintenance",5,7,5,0,0,1,0,5,2,1894,15,168,0,0,0,0,0,2,0,552,1,0,2,,"1,^e3)={*{q(*86|;w>;24","Gaines","Priscilla "," ","Priscilla  Gaines"," ","52316120"," "," ",1
+1,0,"52316120","Account Payments",5,5,5,0,0,1,0,5,0,2141,13,58,0,0,0,0,0,0,0,0,1,0,2,,"1,^e3)={*{q(*86|;w>;24","Gaines","Priscilla "," ","Priscilla  Gaines"," ","52316120"," "," ",1
+1,0,"52316120","Customer Service",27,33,27,0,0,1,0,27,6,10686,39,7,0,0,0,0,0,6,0,1650,1,0,2,,"1,^e3)={*{q(*86|;w>;24","Gaines","Priscilla "," ","Priscilla  Gaines"," ","52316120"," "," ",1
+1,0,"52316120","New Accounts",1,1,1,0,0,0,0,1,0,540,0,0,0,0,0,0,0,0,0,0,1,0,2,,"1,^e3)={*{q(*86|;w>;24","Gaines","Priscilla "," ","Priscilla  Gaines"," ","52316120"," "," ",1
+1,0,"52316120","Transponder Maintenance",9,11,9,0,0,0,0,9,2,4058,15,41,0,0,0,0,0,2,0,437,1,0,2,,"1,^e3)={*{q(*86|;w>;24","Gaines","Priscilla "," ","Priscilla  Gaines"," ","52316120"," "," ",1
+1,0,"52316120","Violation Payment",16,21,16,0,0,0,0,16,5,5559,63,0,0,0,0,0,0,5,0,1592,1,0,2,,"1,^e3)={*{q(*86|;w>;24","Gaines","Priscilla "," ","Priscilla  Gaines"," ","52316120"," "," ",1
+1,0,"52316133","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"<w,:|x<t*s}l~n$zy=0~13","Brown Jr","Larry "," ","Larry  Brown Jr"," ","52316133"," "," ",1
+1,0,"52316133","Account Maintenance",2,2,2,0,0,0,0,2,0,388,30,0,0,0,0,0,0,0,0,0,1,0,2,,"<w,:|x<t*s}l~n$zy=0~13","Brown Jr","Larry "," ","Larry  Brown Jr"," ","52316133"," "," ",1
+1,0,"52316133","Account Payments",4,5,4,0,0,0,0,4,1,1472,42,0,0,0,0,0,0,1,0,297,1,0,2,,"<w,:|x<t*s}l~n$zy=0~13","Brown Jr","Larry "," ","Larry  Brown Jr"," ","52316133"," "," ",1
+1,0,"52316133","Account Updates",1,1,1,0,0,0,0,1,0,421,15,0,0,0,0,0,0,0,0,0,1,0,2,,"<w,:|x<t*s}l~n$zy=0~13","Brown Jr","Larry "," ","Larry  Brown Jr"," ","52316133"," "," ",1
+1,0,"52316133","Customer Service",14,19,14,0,0,0,0,14,5,6656,380,0,0,0,0,0,0,5,0,3104,1,0,2,,"<w,:|x<t*s}l~n$zy=0~13","Brown Jr","Larry "," ","Larry  Brown Jr"," ","52316133"," "," ",1
+1,0,"52316133","New Accounts",4,5,4,0,0,0,0,4,1,1886,49,0,0,0,0,0,0,1,0,455,1,0,2,,"<w,:|x<t*s}l~n$zy=0~13","Brown Jr","Larry "," ","Larry  Brown Jr"," ","52316133"," "," ",1
+1,0,"52316133","Transponder Maintenance",6,6,6,0,0,0,0,6,0,3239,239,0,0,0,0,0,0,0,0,0,1,0,2,,"<w,:|x<t*s}l~n$zy=0~13","Brown Jr","Larry "," ","Larry  Brown Jr"," ","52316133"," "," ",1
+1,0,"52316133","Violation Payment",8,10,8,0,0,0,0,8,2,6665,313,386,0,0,0,0,0,2,0,1183,1,0,2,,"<w,:|x<t*s}l~n$zy=0~13","Brown Jr","Larry "," ","Larry  Brown Jr"," ","52316133"," "," ",1
+1,0,"52318671","Account Payments",3,4,3,0,0,0,0,3,1,950,101,0,0,0,0,0,0,1,0,280,1,0,2,,"<?i.lz)7(1;9~=|s~p1gx3","Ruiz","Paola "," ","Paola  Ruiz"," ","52318671"," "," ",1
+1,0,"52318671","Customer Service",7,9,7,0,0,0,0,7,2,2177,284,0,0,0,0,0,0,2,0,310,1,0,2,,"<?i.lz)7(1;9~=|s~p1gx3","Ruiz","Paola "," ","Paola  Ruiz"," ","52318671"," "," ",1
+1,0,"52318671","Transponder Maintenance",6,7,6,0,0,0,0,6,1,2332,52,118,0,0,0,0,0,1,0,326,1,0,2,,"<?i.lz)7(1;9~=|s~p1gx3","Ruiz","Paola "," ","Paola  Ruiz"," ","52318671"," "," ",1
+1,0,"52318671","Violation Payment",6,8,6,0,0,0,0,6,2,1966,316,102,0,0,0,0,0,2,0,508,1,0,2,,"<?i.lz)7(1;9~=|s~p1gx3","Ruiz","Paola "," ","Paola  Ruiz"," ","52318671"," "," ",1
+1,0,"52319711","-",0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,4,1,0,2,,"$u~\[t,8^a~|91wux9~i>1","Gonzalez","Ingrid "," ","Ingrid  Gonzalez"," ","52319711"," "," ",1
+1,0,"52319711","Spanish Account Maintenance",2,2,2,0,0,0,0,2,0,674,30,0,0,0,0,0,0,0,0,0,1,0,2,,"$u~\[t,8^a~|91wux9~i>1","Gonzalez","Ingrid "," ","Ingrid  Gonzalez"," ","52319711"," "," ",1
+1,0,"52319711","Spanish Account Payments",8,10,8,0,0,0,0,8,2,2955,120,0,0,0,0,0,0,2,0,847,1,0,2,,"$u~\[t,8^a~|91wux9~i>1","Gonzalez","Ingrid "," ","Ingrid  Gonzalez"," ","52319711"," "," ",1
+1,0,"52319711","Spanish Account Updates",1,1,1,0,0,0,0,1,0,232,12,0,0,0,0,0,0,0,0,0,1,0,2,,"$u~\[t,8^a~|91wux9~i>1","Gonzalez","Ingrid "," ","Ingrid  Gonzalez"," ","52319711"," "," ",1
+1,0,"52319711","Spanish Customer Service",34,42,34,0,0,1,0,34,8,12465,485,247,0,0,0,0,0,8,0,1584,1,0,2,,"$u~\[t,8^a~|91wux9~i>1","Gonzalez","Ingrid "," ","Ingrid  Gonzalez"," ","52319711"," "," ",1
+1,0,"52319711","Spanish New Accounts",1,1,1,0,0,0,0,1,0,265,15,0,0,0,0,0,0,0,0,0,1,0,2,,"$u~\[t,8^a~|91wux9~i>1","Gonzalez","Ingrid "," ","Ingrid  Gonzalez"," ","52319711"," "," ",1
+1,0,"52319711","Spanish Transponder Maintenance",5,8,5,0,0,0,0,5,3,1499,75,0,0,0,0,0,0,3,0,787,1,0,2,,"$u~\[t,8^a~|91wux9~i>1","Gonzalez","Ingrid "," ","Ingrid  Gonzalez"," ","52319711"," "," ",1
+1,0,"52319711","Spanish Violation Payment",12,12,12,0,0,0,0,12,0,4194,358,0,0,0,0,0,0,0,0,0,1,0,2,,"$u~\[t,8^a~|91wux9~i>1","Gonzalez","Ingrid "," ","Ingrid  Gonzalez"," ","52319711"," "," ",1
+1,0,"52327910","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"~ax&{5d+^*7[6s--7/gyi4","Arango","Andrea"," ","Andrea Arango"," ","52327910"," "," ",1
+1,0,"52327910","Escalation",6,6,6,0,0,0,6,6,0,6077,118,1736,0,0,0,0,0,0,0,0,1,0,2,,"~ax&{5d+^*7[6s--7/gyi4","Arango","Andrea"," ","Andrea Arango"," ","52327910"," "," ",1
+1,0,"52327910","Spanish Escalations",2,2,2,0,0,0,1,2,0,2309,0,68,0,0,0,0,0,0,0,0,1,0,2,,"~ax&{5d+^*7[6s--7/gyi4","Arango","Andrea"," ","Andrea Arango"," ","52327910"," "," ",1
+1,0,"52328419","-",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,52,1,0,2,,"`:l*;.,p^auy^)u./{zmj4","Turner","Antoinette"," ","Antoinette Turner"," ","52328419"," "," ",1
+1,0,"52328419","Account Payments",4,6,4,0,0,0,0,4,2,1359,206,0,0,0,0,0,0,2,0,861,1,0,2,,"`:l*;.,p^auy^)u./{zmj4","Turner","Antoinette"," ","Antoinette Turner"," ","52328419"," "," ",1
+1,0,"52328419","Customer Service",16,19,16,0,0,0,0,16,3,6466,814,56,0,0,0,0,0,3,0,1545,1,0,2,,"`:l*;.,p^auy^)u./{zmj4","Turner","Antoinette"," ","Antoinette Turner"," ","52328419"," "," ",1
+1,0,"52328419","Transponder Maintenance",9,13,9,0,0,0,0,9,4,4098,94,173,0,0,0,0,0,4,0,996,1,0,2,,"`:l*;.,p^auy^)u./{zmj4","Turner","Antoinette"," ","Antoinette Turner"," ","52328419"," "," ",1
+1,0,"52328419","Violation Payment",10,11,10,0,0,0,0,10,1,5077,278,273,0,0,0,0,0,1,0,1009,1,0,2,,"`:l*;.,p^auy^)u./{zmj4","Turner","Antoinette"," ","Antoinette Turner"," ","52328419"," "," ",1
+1,0,"52328434","Escalation",7,7,7,0,0,0,6,7,0,4206,4,755,0,0,0,0,0,0,0,0,1,0,2,,"<lllc-!5*+#-+|01-z1()2","Arroyo","Jenyse "," ","Jenyse  Arroyo"," ","52328434"," "," ",1
+1,0,"52328434","Spanish Escalations",2,2,2,0,0,0,2,2,0,2003,0,220,0,0,0,0,0,0,0,0,1,0,2,,"<lllc-!5*+#-+|01-z1()2","Arroyo","Jenyse "," ","Jenyse  Arroyo"," ","52328434"," "," ",1
+1,0,"52329360","Account Payments",2,3,2,0,0,0,0,2,1,785,12,10,0,0,0,0,0,1,0,437,1,0,2,,"1=\7r8}\^ra20pl#$e[]53","Narain","Natasha "," ","Natasha  Narain"," ","52329360"," "," ",1
+1,0,"52329360","Customer Service",28,35,28,0,0,0,0,28,7,11450,244,0,0,0,0,0,0,7,0,3723,1,0,2,,"1=\7r8}\^ra20pl#$e[]53","Narain","Natasha "," ","Natasha  Narain"," ","52329360"," "," ",1
+1,0,"52329360","New Accounts",5,5,5,0,0,0,0,5,0,1577,34,0,0,0,0,0,0,0,0,0,1,0,2,,"1=\7r8}\^ra20pl#$e[]53","Narain","Natasha "," ","Natasha  Narain"," ","52329360"," "," ",1
+1,0,"52329360","Transponder Maintenance",4,7,4,0,0,0,0,4,3,1607,19,0,0,0,0,0,0,3,0,1147,1,0,2,,"1=\7r8}\^ra20pl#$e[]53","Narain","Natasha "," ","Natasha  Narain"," ","52329360"," "," ",1
+1,0,"52329360","Violation Payment",19,25,19,0,0,0,0,19,6,6441,149,0,0,0,0,0,0,6,0,1208,1,0,2,,"1=\7r8}\^ra20pl#$e[]53","Narain","Natasha "," ","Natasha  Narain"," ","52329360"," "," ",1
+1,0,"52330513","WebChat_Customer",26,26,26,0,0,0,0,26,0,11029,15,0,0,0,0,0,0,0,0,0,1,0,2,,"o-^oozb&*oq?#o3;9sa;b4","Ledesma","Suleyka "," ","Suleyka  Ledesma"," ","52330513"," "," ",1
+1,0,"52330515","Account Maintenance",1,1,1,0,0,0,0,1,0,278,0,0,0,0,0,0,0,0,0,0,1,0,2,,"uwz>ax0<^5>xw\,q(qqp;1","Smart","Tyeshia "," ","Tyeshia  Smart"," ","52330515"," "," ",1
+1,0,"52330515","Account Payments",3,3,3,0,0,0,0,3,0,1490,181,0,0,0,0,0,0,0,0,0,1,0,2,,"uwz>ax0<^5>xw\,q(qqp;1","Smart","Tyeshia "," ","Tyeshia  Smart"," ","52330515"," "," ",1
+1,0,"52330515","Customer Service",17,20,17,0,0,1,0,17,3,7324,330,1036,0,0,0,0,0,3,0,941,1,0,2,,"uwz>ax0<^5>xw\,q(qqp;1","Smart","Tyeshia "," ","Tyeshia  Smart"," ","52330515"," "," ",1
+1,0,"52330515","Transponder Maintenance",4,4,4,0,0,0,0,4,0,1315,0,0,0,0,0,0,0,0,0,0,1,0,2,,"uwz>ax0<^5>xw\,q(qqp;1","Smart","Tyeshia "," ","Tyeshia  Smart"," ","52330515"," "," ",1
+1,0,"52330515","Violation Payment",14,16,14,0,0,0,0,14,2,4587,151,193,0,0,0,0,0,2,0,694,1,0,2,,"uwz>ax0<^5>xw\,q(qqp;1","Smart","Tyeshia "," ","Tyeshia  Smart"," ","52330515"," "," ",1
+1,0,"52334659","Customer Service",4,4,4,0,0,0,0,4,0,2116,0,0,0,0,0,0,0,0,0,0,1,0,2,,"unb{:`0:*?u]53lvf3iz-1","Nesbeth","Kadine "," ","Kadine  Nesbeth"," ","52334659"," "," ",1
+1,0,"52334659","Escalation",7,7,7,0,0,0,7,5,0,3596,5,0,0,0,0,0,0,0,0,0,1,0,2,,"unb{:`0:*?u]53lvf3iz-1","Nesbeth","Kadine "," ","Kadine  Nesbeth"," ","52334659"," "," ",1
+1,0,"52335014","Account Payments",2,2,2,0,0,0,0,2,0,956,446,0,0,0,0,0,0,0,0,0,1,0,2,,"-e<ts0*-(imcx{|()=3mx4","Steffey","Samantha "," ","Samantha  Steffey"," ","52335014"," "," ",1
+1,0,"52335014","Customer Service",10,11,10,0,0,0,0,10,1,4542,35,275,0,0,0,0,0,1,0,333,1,0,2,,"-e<ts0*-(imcx{|()=3mx4","Steffey","Samantha "," ","Samantha  Steffey"," ","52335014"," "," ",1
+1,0,"52335014","New Accounts",1,1,1,0,0,0,0,1,0,585,0,0,0,0,0,0,0,0,0,0,1,0,2,,"-e<ts0*-(imcx{|()=3mx4","Steffey","Samantha "," ","Samantha  Steffey"," ","52335014"," "," ",1
+1,0,"52335014","Transponder Maintenance",3,4,3,0,0,0,0,3,0,601,0,0,0,0,0,0,0,0,0,0,1,0,2,,"-e<ts0*-(imcx{|()=3mx4","Steffey","Samantha "," ","Samantha  Steffey"," ","52335014"," "," ",1
+1,0,"52335014","Violation Payment",1,1,1,0,0,0,0,1,0,203,13,0,0,0,0,0,0,0,0,0,1,0,2,,"-e<ts0*-(imcx{|()=3mx4","Steffey","Samantha "," ","Samantha  Steffey"," ","52335014"," "," ",1
+1,0,"52335536","Spanish Account Maintenance",2,2,2,0,0,0,0,2,0,1773,20,262,0,0,0,0,0,0,0,0,1,0,2,,"tx3e~duy*4}hp,tz=*ti,4","Hernandez","Jovette "," ","Jovette  Hernandez"," ","52335536"," "," ",1
+1,0,"52335536","Spanish Account Payments",2,2,2,0,0,0,0,2,0,1195,30,94,0,0,0,0,0,0,0,0,1,0,2,,"tx3e~duy*4}hp,tz=*ti,4","Hernandez","Jovette "," ","Jovette  Hernandez"," ","52335536"," "," ",1
+1,0,"52335536","Spanish Account Updates",1,1,1,0,0,0,0,1,0,170,15,0,0,0,0,0,0,0,0,0,1,0,2,,"tx3e~duy*4}hp,tz=*ti,4","Hernandez","Jovette "," ","Jovette  Hernandez"," ","52335536"," "," ",1
+1,0,"52335536","Spanish Customer Service",27,37,27,0,0,0,0,27,10,10382,763,166,0,0,0,0,0,10,0,7152,1,0,2,,"tx3e~duy*4}hp,tz=*ti,4","Hernandez","Jovette "," ","Jovette  Hernandez"," ","52335536"," "," ",1
+1,0,"52335536","Spanish Transponder Maintenance",1,2,1,0,0,0,0,1,1,216,15,0,0,0,0,0,0,1,0,379,1,0,2,,"tx3e~duy*4}hp,tz=*ti,4","Hernandez","Jovette "," ","Jovette  Hernandez"," ","52335536"," "," ",1
+1,0,"52335536","Spanish Violation Payment",3,3,3,0,0,0,0,3,0,2043,41,413,0,0,0,0,0,0,0,0,1,0,2,,"tx3e~duy*4}hp,tz=*ti,4","Hernandez","Jovette "," ","Jovette  Hernandez"," ","52335536"," "," ",1
+1,0,"52338595","WebChat_Customer",18,18,18,0,0,0,0,18,0,13006,432,0,0,0,0,0,0,0,0,0,1,0,2,,"ujz:aq[>&.#!7d(y[m9ty4","Kellyman","Ashley "," ","Ashley  Kellyman"," ","52338595"," "," ",1
+1,0,"52341023","Account Payments",2,3,2,0,0,0,0,2,1,545,0,0,0,0,0,0,0,1,0,191,1,0,2,,"4m+$$}rb&-eqb^,\9mo[;2","Halliday Lewin","Christeen"," ","Christeen Halliday Lewin"," ","52341023"," "," ",1
+1,0,"52341023","Customer Service",18,24,18,0,0,1,0,18,6,7739,27,0,0,0,0,0,0,6,0,2626,1,0,2,,"4m+$$}rb&-eqb^,\9mo[;2","Halliday Lewin","Christeen"," ","Christeen Halliday Lewin"," ","52341023"," "," ",1
+1,0,"52341023","New Accounts",2,2,2,0,0,0,0,2,0,1202,0,0,0,0,0,0,0,0,0,0,1,0,2,,"4m+$$}rb&-eqb^,\9mo[;2","Halliday Lewin","Christeen"," ","Christeen Halliday Lewin"," ","52341023"," "," ",1
+1,0,"52341023","Violation Payment",11,14,11,0,0,0,0,11,3,5668,14,0,0,0,0,0,0,3,0,1420,1,0,2,,"4m+$$}rb&-eqb^,\9mo[;2","Halliday Lewin","Christeen"," ","Christeen Halliday Lewin"," ","52341023"," "," ",1
+1,0,"52344489","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"dc/?{/.z&l7pfelk,z;lw4","Salazar","Danny"," ","Danny Salazar"," ","52344489"," "," ",1
+1,0,"52344489","Spanish Account Payments",2,2,2,0,0,0,0,2,0,646,347,258,0,0,0,0,0,0,0,0,1,0,2,,"dc/?{/.z&l7pfelk,z;lw4","Salazar","Danny"," ","Danny Salazar"," ","52344489"," "," ",1
+1,0,"52344489","Spanish Account Updates",1,1,1,0,0,0,0,1,0,99,298,0,0,0,0,0,0,0,0,0,1,0,2,,"dc/?{/.z&l7pfelk,z;lw4","Salazar","Danny"," ","Danny Salazar"," ","52344489"," "," ",1
+1,0,"52344489","Spanish Customer Service",18,22,18,0,0,0,0,18,4,12734,6243,842,0,0,0,0,0,4,0,3120,1,0,2,,"dc/?{/.z&l7pfelk,z;lw4","Salazar","Danny"," ","Danny Salazar"," ","52344489"," "," ",1
+1,0,"52344489","Spanish New Accounts",2,2,2,0,0,0,0,2,0,1422,776,0,0,0,0,0,0,0,0,0,1,0,2,,"dc/?{/.z&l7pfelk,z;lw4","Salazar","Danny"," ","Danny Salazar"," ","52344489"," "," ",1
+1,0,"52344489","Spanish Violation Payment",3,3,3,0,0,0,0,3,0,780,451,104,0,0,0,0,0,0,0,0,1,0,2,,"dc/?{/.z&l7pfelk,z;lw4","Salazar","Danny"," ","Danny Salazar"," ","52344489"," "," ",1
+1,0,"52345374","Account Maintenance",3,3,3,0,0,0,0,3,0,3360,156,0,0,0,0,0,0,0,0,0,1,0,2,,"ly>)c&jl(!;l2*)/;j{b}2","Ellis","Alasia "," ","Alasia  Ellis"," ","52345374"," "," ",1
+1,0,"52345374","Account Payments",8,10,8,0,0,0,0,8,2,4214,188,0,0,0,0,0,0,2,0,1425,1,0,2,,"ly>)c&jl(!;l2*)/;j{b}2","Ellis","Alasia "," ","Alasia  Ellis"," ","52345374"," "," ",1
+1,0,"52345374","Transponder Maintenance",14,20,14,0,0,0,0,14,6,6845,210,0,0,0,0,0,0,6,0,1932,1,0,2,,"ly>)c&jl(!;l2*)/;j{b}2","Ellis","Alasia "," ","Alasia  Ellis"," ","52345374"," "," ",1
+1,0,"52345374","Violation Payment",16,23,16,0,0,0,0,16,7,5105,225,68,0,0,0,0,0,7,0,3567,1,0,2,,"ly>)c&jl(!;l2*)/;j{b}2","Ellis","Alasia "," ","Alasia  Ellis"," ","52345374"," "," ",1
+1,0,"52345410","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"hzmnyu3b^g;?b1xbu@}}63","Tolbert","Vatessa"," ","Vatessa Tolbert"," ","52345410"," "," ",1
+1,0,"52345410","Account Maintenance",2,3,2,0,0,0,0,2,1,607,37,0,0,0,0,0,0,1,0,442,1,0,2,,"hzmnyu3b^g;?b1xbu@}}63","Tolbert","Vatessa"," ","Vatessa Tolbert"," ","52345410"," "," ",1
+1,0,"52345410","Account Payments",3,8,3,0,0,0,0,3,5,413,30,0,0,0,0,0,0,5,0,495,1,0,2,,"hzmnyu3b^g;?b1xbu@}}63","Tolbert","Vatessa"," ","Vatessa Tolbert"," ","52345410"," "," ",1
+1,0,"52345410","Customer Service",14,19,13,0,1,1,0,13,6,6999,775,806,0,0,0,0,0,6,0,980,1,0,2,,"hzmnyu3b^g;?b1xbu@}}63","Tolbert","Vatessa"," ","Vatessa Tolbert"," ","52345410"," "," ",1
+1,0,"52345410","New Accounts",1,2,1,0,0,0,0,1,1,960,15,4,0,0,0,0,0,1,0,986,1,0,2,,"hzmnyu3b^g;?b1xbu@}}63","Tolbert","Vatessa"," ","Vatessa Tolbert"," ","52345410"," "," ",1
+1,0,"52345410","Transponder Maintenance",4,6,4,0,0,0,0,4,2,1655,468,175,0,0,0,0,0,2,0,183,1,0,2,,"hzmnyu3b^g;?b1xbu@}}63","Tolbert","Vatessa"," ","Vatessa Tolbert"," ","52345410"," "," ",1
+1,0,"52345410","Violation Payment",22,35,22,0,0,0,0,22,13,8040,525,798,0,0,0,0,0,13,0,1817,1,0,2,,"hzmnyu3b^g;?b1xbu@}}63","Tolbert","Vatessa"," ","Vatessa Tolbert"," ","52345410"," "," ",1
+1,0,"52345425","-",0,4,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,3,0,582,1,0,2,,"n;su@g?t^gq163m#+;{n(2","Winsley","Princess"," ","Princess Winsley"," ","52345425"," "," ",1
+1,0,"52345425","Account Maintenance",1,1,1,0,0,0,0,1,0,217,0,0,0,0,0,0,0,0,0,0,1,0,2,,"n;su@g?t^gq163m#+;{n(2","Winsley","Princess"," ","Princess Winsley"," ","52345425"," "," ",1
+1,0,"52345425","Account Payments",5,5,5,0,0,0,0,5,0,2323,0,0,0,0,0,0,0,0,0,0,1,0,2,,"n;su@g?t^gq163m#+;{n(2","Winsley","Princess"," ","Princess Winsley"," ","52345425"," "," ",1
+1,0,"52345425","Account Updates",1,1,1,0,0,0,0,1,0,331,0,0,0,0,0,0,0,0,0,0,1,0,2,,"n;su@g?t^gq163m#+;{n(2","Winsley","Princess"," ","Princess Winsley"," ","52345425"," "," ",1
+1,0,"52345425","Customer Service",20,21,20,0,0,0,0,20,1,10657,534,634,0,0,0,0,0,1,0,197,1,0,2,,"n;su@g?t^gq163m#+;{n(2","Winsley","Princess"," ","Princess Winsley"," ","52345425"," "," ",1
+1,0,"52345425","New Accounts",1,2,1,0,0,0,0,1,1,26,0,0,0,0,0,0,0,1,0,102,1,0,2,,"n;su@g?t^gq163m#+;{n(2","Winsley","Princess"," ","Princess Winsley"," ","52345425"," "," ",1
+1,0,"52345425","Transponder Maintenance",4,6,4,0,0,0,0,4,2,316,0,4,0,0,0,0,0,2,0,188,1,0,2,,"n;su@g?t^gq163m#+;{n(2","Winsley","Princess"," ","Princess Winsley"," ","52345425"," "," ",1
+1,0,"52345425","Violation Payment",14,17,14,0,0,0,0,14,3,4193,139,0,0,0,0,0,0,3,0,559,1,0,2,,"n;su@g?t^gq163m#+;{n(2","Winsley","Princess"," ","Princess Winsley"," ","52345425"," "," ",1
+1,0,"52345773","Account Payments",1,1,1,0,0,0,0,1,0,614,15,0,0,0,0,0,0,0,0,0,1,0,2,,"/^xr.a#l*!a=qv^i}-9`~4","Adamski","Halina"," ","Halina Adamski"," ","52345773"," "," ",1
+1,0,"52345773","Customer Service",14,19,14,0,0,0,0,14,5,9393,491,555,0,0,0,0,0,5,0,2445,1,0,2,,"/^xr.a#l*!a=qv^i}-9`~4","Adamski","Halina"," ","Halina Adamski"," ","52345773"," "," ",1
+1,0,"52345773","Transponder Maintenance",1,1,1,0,0,0,0,1,0,155,15,0,0,0,0,0,0,0,0,0,1,0,2,,"/^xr.a#l*!a=qv^i}-9`~4","Adamski","Halina"," ","Halina Adamski"," ","52345773"," "," ",1
+1,0,"52345773","Violation Payment",6,6,6,0,0,0,0,6,0,2490,90,0,0,0,0,0,0,0,0,0,1,0,2,,"/^xr.a#l*!a=qv^i}-9`~4","Adamski","Halina"," ","Halina Adamski"," ","52345773"," "," ",1
+1,0,"52350165","Spanish Account Maintenance",1,1,1,0,0,0,0,1,0,472,0,0,0,0,0,0,0,0,0,0,1,0,2,,"j];s6ot{*w~],~-b5v^mo3","Haro","Liliana "," ","Liliana  Haro"," ","52350165"," "," ",1
+1,0,"52350165","Spanish Account Payments",7,9,7,0,0,0,0,7,2,2630,40,0,0,0,0,0,0,2,0,543,1,0,2,,"j];s6ot{*w~],~-b5v^mo3","Haro","Liliana "," ","Liliana  Haro"," ","52350165"," "," ",1
+1,0,"52350165","Spanish Customer Service",23,27,23,0,0,0,0,23,4,11656,66,141,0,0,0,0,0,4,0,1338,1,0,2,,"j];s6ot{*w~],~-b5v^mo3","Haro","Liliana "," ","Liliana  Haro"," ","52350165"," "," ",1
+1,0,"52350165","Spanish New Accounts",2,2,2,0,0,0,0,2,0,1188,3,0,0,0,0,0,0,0,0,0,1,0,2,,"j];s6ot{*w~],~-b5v^mo3","Haro","Liliana "," ","Liliana  Haro"," ","52350165"," "," ",1
+1,0,"52350165","Spanish Transponder Maintenance",1,2,1,0,0,0,0,1,1,252,0,0,0,0,0,0,0,1,0,243,1,0,2,,"j];s6ot{*w~],~-b5v^mo3","Haro","Liliana "," ","Liliana  Haro"," ","52350165"," "," ",1
+1,0,"52350165","Spanish Violation Payment",13,13,13,0,0,0,0,13,0,6152,45,173,0,0,0,0,0,0,0,0,1,0,2,,"j];s6ot{*w~],~-b5v^mo3","Haro","Liliana "," ","Liliana  Haro"," ","52350165"," "," ",1
+1,0,"52350231","Spanish Account Maintenance",1,1,1,0,0,0,0,1,0,1665,9,0,0,0,0,0,0,0,0,0,1,0,2,,"k:g=z$0d^;+;]d2ir\f![3","Rios Vargas","Nuvia "," ","Nuvia  Rios Vargas"," ","52350231"," "," ",1
+1,0,"52350231","Spanish Account Payments",4,5,4,0,0,0,0,4,1,3221,100,0,0,0,0,0,0,1,0,981,1,0,2,,"k:g=z$0d^;+;]d2ir\f![3","Rios Vargas","Nuvia "," ","Nuvia  Rios Vargas"," ","52350231"," "," ",1
+1,0,"52350231","Spanish Customer Service",8,9,8,0,0,0,0,8,1,7242,258,0,0,0,0,0,0,1,0,1241,1,0,2,,"k:g=z$0d^;+;]d2ir\f![3","Rios Vargas","Nuvia "," ","Nuvia  Rios Vargas"," ","52350231"," "," ",1
+1,0,"52350231","Spanish New Accounts",1,1,1,0,0,0,0,1,0,987,0,0,0,0,0,0,0,0,0,0,1,0,2,,"k:g=z$0d^;+;]d2ir\f![3","Rios Vargas","Nuvia "," ","Nuvia  Rios Vargas"," ","52350231"," "," ",1
+1,0,"52350231","Spanish Violation Payment",6,6,6,0,0,0,0,6,0,9497,352,0,0,0,0,0,0,0,0,0,1,0,2,,"k:g=z$0d^;+;]d2ir\f![3","Rios Vargas","Nuvia "," ","Nuvia  Rios Vargas"," ","52350231"," "," ",1
+1,0,"52352290","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"/c=d7;}l*+y?),}gbg80e4","Filus","Ashley"," ","Ashley Filus"," ","52352290"," "," ",1
+1,0,"52352290","Account Maintenance",3,3,3,0,0,0,0,3,0,1476,228,0,0,0,0,0,0,0,0,0,1,0,2,,"/c=d7;}l*+y?),}gbg80e4","Filus","Ashley"," ","Ashley Filus"," ","52352290"," "," ",1
+1,0,"52352290","Account Payments",4,5,4,0,0,0,0,4,1,1206,208,0,0,0,0,0,0,1,0,276,1,0,2,,"/c=d7;}l*+y?),}gbg80e4","Filus","Ashley"," ","Ashley Filus"," ","52352290"," "," ",1
+1,0,"52352290","Account Updates",1,1,1,0,0,0,0,1,0,217,15,0,0,0,0,0,0,0,0,0,1,0,2,,"/c=d7;}l*+y?),}gbg80e4","Filus","Ashley"," ","Ashley Filus"," ","52352290"," "," ",1
+1,0,"52352290","Customer Service",28,36,28,0,0,0,0,28,8,10166,1126,0,0,0,0,0,0,8,0,2321,1,0,2,,"/c=d7;}l*+y?),}gbg80e4","Filus","Ashley"," ","Ashley Filus"," ","52352290"," "," ",1
+1,0,"52352290","New Accounts",1,1,1,0,0,0,0,1,0,320,87,0,0,0,0,0,0,0,0,0,1,0,2,,"/c=d7;}l*+y?),}gbg80e4","Filus","Ashley"," ","Ashley Filus"," ","52352290"," "," ",1
+1,0,"52352290","Transponder Maintenance",5,7,5,0,0,0,0,5,2,1083,112,0,0,0,0,0,0,2,0,618,1,0,2,,"/c=d7;}l*+y?),}gbg80e4","Filus","Ashley"," ","Ashley Filus"," ","52352290"," "," ",1
+1,0,"52352290","Violation Payment",12,15,12,0,0,0,0,12,3,5476,422,0,0,0,0,0,0,3,0,798,1,0,2,,"/c=d7;}l*+y?),}gbg80e4","Filus","Ashley"," ","Ashley Filus"," ","52352290"," "," ",1
+1,0,"52352830","Spanish Account Maintenance",1,1,1,0,0,0,0,1,0,46,15,0,0,0,0,0,0,0,0,0,1,0,2,,"ath#pa{o^r;<,5a36\>){3","De La Cruz","Porfirio"," ","Porfirio De La Cruz"," ","52352830"," "," ",1
+1,0,"52352830","Spanish Account Payments",10,14,10,0,0,0,0,10,4,4601,370,0,0,0,0,0,0,4,0,1882,1,0,2,,"ath#pa{o^r;<,5a36\>){3","De La Cruz","Porfirio"," ","Porfirio De La Cruz"," ","52352830"," "," ",1
+1,0,"52352830","Spanish Customer Service",32,46,32,0,0,0,0,32,14,15379,1150,0,0,0,0,0,0,14,0,6906,1,0,2,,"ath#pa{o^r;<,5a36\>){3","De La Cruz","Porfirio"," ","Porfirio De La Cruz"," ","52352830"," "," ",1
+1,0,"52352830","Spanish New Accounts",1,1,1,0,0,0,0,1,0,604,38,0,0,0,0,0,0,0,0,0,1,0,2,,"ath#pa{o^r;<,5a36\>){3","De La Cruz","Porfirio"," ","Porfirio De La Cruz"," ","52352830"," "," ",1
+1,0,"52352830","Spanish Violation Payment",14,14,14,0,0,0,0,14,0,6258,594,216,0,0,0,0,0,0,0,0,1,0,2,,"ath#pa{o^r;<,5a36\>){3","De La Cruz","Porfirio"," ","Porfirio De La Cruz"," ","52352830"," "," ",1
+1,0,"52352833","Account Payments",2,4,2,0,0,0,0,2,2,640,202,0,0,0,0,0,0,2,0,563,1,0,2,,"8c:[9h^r^k#@--*wo:j(h2","Borromeo","Elaine "," ","Elaine  Borromeo"," ","52352833"," "," ",1
+1,0,"52352833","Customer Service",9,11,9,0,0,0,0,9,2,8914,533,697,0,0,0,0,0,2,0,1418,1,0,2,,"8c:[9h^r^k#@--*wo:j(h2","Borromeo","Elaine "," ","Elaine  Borromeo"," ","52352833"," "," ",1
+1,0,"52352833","New Accounts",1,2,1,0,0,0,0,1,1,44,9,0,0,0,0,0,0,1,0,41,1,0,2,,"8c:[9h^r^k#@--*wo:j(h2","Borromeo","Elaine "," ","Elaine  Borromeo"," ","52352833"," "," ",1
+1,0,"52352833","Transponder Maintenance",6,8,6,0,0,0,0,6,2,2417,417,0,0,0,0,0,0,2,0,104,1,0,2,,"8c:[9h^r^k#@--*wo:j(h2","Borromeo","Elaine "," ","Elaine  Borromeo"," ","52352833"," "," ",1
+1,0,"52352833","Violation Payment",15,19,15,0,0,0,0,15,4,6872,512,570,0,0,0,0,0,4,0,1594,1,0,2,,"8c:[9h^r^k#@--*wo:j(h2","Borromeo","Elaine "," ","Elaine  Borromeo"," ","52352833"," "," ",1
+1,0,"52353054","-",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,":fba4s,?^4~0tz];}p[672","Leviston","Vicki"," ","Vicki Leviston"," ","52353054"," "," ",1
+1,0,"52353054","Account Maintenance",1,2,1,0,0,0,0,1,1,45,4,0,0,0,0,0,0,1,0,61,1,0,2,,":fba4s,?^4~0tz];}p[672","Leviston","Vicki"," ","Vicki Leviston"," ","52353054"," "," ",1
+1,0,"52353054","Account Payments",3,4,3,0,0,0,0,3,1,924,10,0,0,0,0,0,0,1,0,199,1,0,2,,":fba4s,?^4~0tz];}p[672","Leviston","Vicki"," ","Vicki Leviston"," ","52353054"," "," ",1
+1,0,"52353054","Customer Service",25,33,25,0,0,1,0,25,8,11405,143,220,0,0,0,0,0,8,0,2805,1,0,2,,":fba4s,?^4~0tz];}p[672","Leviston","Vicki"," ","Vicki Leviston"," ","52353054"," "," ",1
+1,0,"52353054","New Accounts",2,3,2,0,0,0,0,2,1,461,23,0,0,0,0,0,0,1,0,290,1,0,2,,":fba4s,?^4~0tz];}p[672","Leviston","Vicki"," ","Vicki Leviston"," ","52353054"," "," ",1
+1,0,"52353054","Transponder Maintenance",6,8,6,0,0,0,0,6,2,2446,22,0,0,0,0,0,0,2,0,625,1,0,2,,":fba4s,?^4~0tz];}p[672","Leviston","Vicki"," ","Vicki Leviston"," ","52353054"," "," ",1
+1,0,"52353054","Violation Payment",12,21,12,0,0,1,0,12,3,4898,88,107,0,0,0,0,0,3,0,749,1,0,2,,":fba4s,?^4~0tz];}p[672","Leviston","Vicki"," ","Vicki Leviston"," ","52353054"," "," ",1
+1,0,"52354037","-",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,52,1,0,2,,";+v2j9o!*my#45s^m{+g$1","Chapman","Jacqueline "," ","Jacqueline  Chapman"," ","52354037"," "," ",1
+1,0,"52354037","Account Payments",4,5,4,0,0,0,0,4,1,1647,32,0,0,0,0,0,0,1,0,462,1,0,2,,";+v2j9o!*my#45s^m{+g$1","Chapman","Jacqueline "," ","Jacqueline  Chapman"," ","52354037"," "," ",1
+1,0,"52354037","Customer Service",14,18,14,0,0,0,0,14,4,10317,1030,339,0,0,0,0,0,4,0,1814,1,0,2,,";+v2j9o!*my#45s^m{+g$1","Chapman","Jacqueline "," ","Jacqueline  Chapman"," ","52354037"," "," ",1
+1,0,"52354037","New Accounts",4,9,4,0,0,0,0,4,1,1927,247,0,0,0,0,0,0,1,0,508,1,0,2,,";+v2j9o!*my#45s^m{+g$1","Chapman","Jacqueline "," ","Jacqueline  Chapman"," ","52354037"," "," ",1
+1,0,"52354037","Transponder Maintenance",6,8,6,0,0,0,0,6,2,4782,482,0,0,0,0,0,0,2,0,1974,1,0,2,,";+v2j9o!*my#45s^m{+g$1","Chapman","Jacqueline "," ","Jacqueline  Chapman"," ","52354037"," "," ",1
+1,0,"52354037","Violation Payment",15,20,15,0,0,0,0,15,5,7360,562,322,0,0,0,0,0,5,0,2114,1,0,2,,";+v2j9o!*my#45s^m{+g$1","Chapman","Jacqueline "," ","Jacqueline  Chapman"," ","52354037"," "," ",1
+1,0,"52355156","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"a>:[{6/-(2ehwu:*^08wa1","Morris","Keshawnna"," ","Keshawnna Morris"," ","52355156"," "," ",1
+1,0,"52355156","Escalation",5,5,5,0,0,1,5,5,0,2187,103,125,0,0,0,0,0,0,0,0,1,0,2,,"a>:[{6/-(2ehwu:*^08wa1","Morris","Keshawnna"," ","Keshawnna Morris"," ","52355156"," "," ",1
+1,0,"52355600","WebChat_Customer",26,26,26,0,0,0,0,26,0,10627,7,0,0,0,0,0,0,0,0,0,1,0,2,,"g[[v^f8/(}+|/7qm#`3r81","Jimenez","Abigail"," ","Abigail Jimenez"," ","52355600"," "," ",1
+1,0,"52357360","Spanish Account Maintenance",2,2,2,0,0,0,0,2,0,741,26,112,0,0,0,0,0,0,0,0,1,0,2,,"#x[-z*|;*+u4q?7z^t:#g4","Mercado","Jarrim"," ","Jarrim Mercado"," ","52357360"," "," ",1
+1,0,"52357360","Spanish Account Payments",7,10,7,0,0,0,0,7,2,2728,305,108,0,0,0,0,0,2,0,863,1,0,2,,"#x[-z*|;*+u4q?7z^t:#g4","Mercado","Jarrim"," ","Jarrim Mercado"," ","52357360"," "," ",1
+1,0,"52357360","Spanish Customer Service",34,46,34,0,0,1,0,33,12,17099,1664,882,0,0,0,0,0,11,0,3644,1,0,2,,"#x[-z*|;*+u4q?7z^t:#g4","Mercado","Jarrim"," ","Jarrim Mercado"," ","52357360"," "," ",1
+1,0,"52357360","Spanish Transponder Maintenance",1,1,1,0,0,0,0,1,0,204,9,0,0,0,0,0,0,0,0,0,1,0,2,,"#x[-z*|;*+u4q?7z^t:#g4","Mercado","Jarrim"," ","Jarrim Mercado"," ","52357360"," "," ",1
+1,0,"52357360","Spanish Violation Payment",11,11,11,0,0,0,0,11,0,5790,572,783,0,0,0,0,0,0,0,0,1,0,2,,"#x[-z*|;*+u4q?7z^t:#g4","Mercado","Jarrim"," ","Jarrim Mercado"," ","52357360"," "," ",1
+1,0,"52357552","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"^?~;2z08*qq>!5hyue&~@1","Jeoboam","Bedelene"," ","Bedelene Jeoboam"," ","52357552"," "," ",1
+1,0,"52357552","Account Maintenance",1,1,1,0,0,0,0,1,0,570,172,0,0,0,0,0,0,0,0,0,1,0,2,,"^?~;2z08*qq>!5hyue&~@1","Jeoboam","Bedelene"," ","Bedelene Jeoboam"," ","52357552"," "," ",1
+1,0,"52357552","Account Payments",2,2,2,0,0,0,0,2,0,1228,243,0,0,0,0,0,0,0,0,0,1,0,2,,"^?~;2z08*qq>!5hyue&~@1","Jeoboam","Bedelene"," ","Bedelene Jeoboam"," ","52357552"," "," ",1
+1,0,"52357552","Customer Service",20,28,20,0,0,1,0,20,8,8140,2587,189,0,0,0,0,0,8,0,2610,1,0,2,,"^?~;2z08*qq>!5hyue&~@1","Jeoboam","Bedelene"," ","Bedelene Jeoboam"," ","52357552"," "," ",1
+1,0,"52357552","New Accounts",4,4,4,0,0,0,0,4,0,1913,266,0,0,0,0,0,0,0,0,0,1,0,2,,"^?~;2z08*qq>!5hyue&~@1","Jeoboam","Bedelene"," ","Bedelene Jeoboam"," ","52357552"," "," ",1
+1,0,"52357552","Transponder Maintenance",8,12,8,0,0,0,0,8,4,4691,732,0,0,0,0,0,0,4,0,1972,1,0,2,,"^?~;2z08*qq>!5hyue&~@1","Jeoboam","Bedelene"," ","Bedelene Jeoboam"," ","52357552"," "," ",1
+1,0,"52357552","Violation Payment",9,14,9,0,0,0,0,9,5,3435,974,387,0,0,0,0,0,5,0,352,1,0,2,,"^?~;2z08*qq>!5hyue&~@1","Jeoboam","Bedelene"," ","Bedelene Jeoboam"," ","52357552"," "," ",1
+1,0,"52358726","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"\<}>u~ak*[uhe{k{uga*|4","Lynch","Camryn "," ","Camryn  Lynch"," ","52358726"," "," ",1
+1,0,"52358726","Account Maintenance",2,2,2,0,0,0,0,2,0,487,30,0,0,0,0,0,0,0,0,0,1,0,2,,"\<}>u~ak*[uhe{k{uga*|4","Lynch","Camryn "," ","Camryn  Lynch"," ","52358726"," "," ",1
+1,0,"52358726","Account Payments",7,9,7,0,0,0,0,7,2,1518,97,0,0,0,0,0,0,2,0,455,1,0,2,,"\<}>u~ak*[uhe{k{uga*|4","Lynch","Camryn "," ","Camryn  Lynch"," ","52358726"," "," ",1
+1,0,"52358726","Account Updates",1,1,1,0,0,0,0,1,0,706,15,0,0,0,0,0,0,0,0,0,1,0,2,,"\<}>u~ak*[uhe{k{uga*|4","Lynch","Camryn "," ","Camryn  Lynch"," ","52358726"," "," ",1
+1,0,"52358726","Customer Service",35,42,35,0,0,0,0,35,7,10718,503,320,0,0,0,0,0,7,0,3471,1,0,2,,"\<}>u~ak*[uhe{k{uga*|4","Lynch","Camryn "," ","Camryn  Lynch"," ","52358726"," "," ",1
+1,0,"52358726","New Accounts",2,3,2,0,0,0,0,2,1,270,30,0,0,0,0,0,0,1,0,1051,1,0,2,,"\<}>u~ak*[uhe{k{uga*|4","Lynch","Camryn "," ","Camryn  Lynch"," ","52358726"," "," ",1
+1,0,"52358726","Transponder Maintenance",8,9,8,0,0,0,0,8,1,2075,115,0,0,0,0,0,0,1,0,775,1,0,2,,"\<}>u~ak*[uhe{k{uga*|4","Lynch","Camryn "," ","Camryn  Lynch"," ","52358726"," "," ",1
+1,0,"52358726","Violation Payment",14,18,14,0,0,0,0,14,4,2698,210,0,0,0,0,0,0,4,0,802,1,0,2,,"\<}>u~ak*[uhe{k{uga*|4","Lynch","Camryn "," ","Camryn  Lynch"," ","52358726"," "," ",1
+1,0,"52360243","Account Payments",2,3,2,0,0,0,0,2,1,801,29,0,0,0,0,0,0,1,0,302,1,0,2,,"md-997y|&4}7}k\{v|yv$2","McIntosh Ross","Lorraine"," ","Lorraine McIntosh Ross"," ","52360243"," "," ",1
+1,0,"52360243","Customer Service",18,21,18,0,0,0,0,18,3,10365,237,1240,0,0,0,0,0,3,0,1415,1,0,2,,"md-997y|&4}7}k\{v|yv$2","McIntosh Ross","Lorraine"," ","Lorraine McIntosh Ross"," ","52360243"," "," ",1
+1,0,"52360243","Transponder Maintenance",3,4,3,0,0,0,0,3,1,1217,550,0,0,0,0,0,0,1,0,316,1,0,2,,"md-997y|&4}7}k\{v|yv$2","McIntosh Ross","Lorraine"," ","Lorraine McIntosh Ross"," ","52360243"," "," ",1
+1,0,"52360243","Violation Payment",16,20,16,0,0,0,0,16,4,9469,721,725,0,0,0,0,0,4,0,1576,1,0,2,,"md-997y|&4}7}k\{v|yv$2","McIntosh Ross","Lorraine"," ","Lorraine McIntosh Ross"," ","52360243"," "," ",1
+1,0,"52360722","Account Maintenance",1,1,1,0,0,0,0,1,0,292,15,0,0,0,0,0,0,0,0,0,1,0,2,,"2\*r\25)(-+>]xtx:r)9h1","Dirks","Alexis "," ","Alexis  Dirks"," ","52360722"," "," ",1
+1,0,"52360722","Account Payments",2,2,2,0,0,0,0,2,0,398,30,0,0,0,0,0,0,0,0,0,1,0,2,,"2\*r\25)(-+>]xtx:r)9h1","Dirks","Alexis "," ","Alexis  Dirks"," ","52360722"," "," ",1
+1,0,"52360722","Customer Service",25,32,25,0,0,0,0,25,7,12366,889,0,0,0,0,0,0,7,0,2846,1,0,2,,"2\*r\25)(-+>]xtx:r)9h1","Dirks","Alexis "," ","Alexis  Dirks"," ","52360722"," "," ",1
+1,0,"52360722","New Accounts",2,2,2,0,0,0,0,2,0,2479,30,0,0,0,0,0,0,0,0,0,1,0,2,,"2\*r\25)(-+>]xtx:r)9h1","Dirks","Alexis "," ","Alexis  Dirks"," ","52360722"," "," ",1
+1,0,"52360722","Transponder Maintenance",6,7,6,0,0,0,0,6,1,3164,284,0,0,0,0,0,0,1,0,360,1,0,2,,"2\*r\25)(-+>]xtx:r)9h1","Dirks","Alexis "," ","Alexis  Dirks"," ","52360722"," "," ",1
+1,0,"52360722","Violation Payment",10,12,10,0,0,0,0,10,2,4910,359,223,0,0,0,0,0,2,0,680,1,0,2,,"2\*r\25)(-+>]xtx:r)9h1","Dirks","Alexis "," ","Alexis  Dirks"," ","52360722"," "," ",1
+1,0,"52360741","Spanish Account Maintenance",2,2,2,0,0,0,0,2,0,541,43,0,0,0,0,0,0,0,0,0,1,0,2,,"22ij@-y}^<>q*r4$$(6~o2","Velez","Hector "," ","Hector  Velez"," ","52360741"," "," ",1
+1,0,"52360741","Spanish Account Payments",5,7,5,0,0,0,0,5,2,1654,96,0,0,0,0,0,0,2,0,825,1,0,2,,"22ij@-y}^<>q*r4$$(6~o2","Velez","Hector "," ","Hector  Velez"," ","52360741"," "," ",1
+1,0,"52360741","Spanish Customer Service",29,39,29,0,0,0,0,29,10,18633,101,240,0,0,0,0,0,10,0,5803,1,0,2,,"22ij@-y}^<>q*r4$$(6~o2","Velez","Hector "," ","Hector  Velez"," ","52360741"," "," ",1
+1,0,"52360741","Spanish Transponder Maintenance",5,7,5,0,0,0,0,5,2,2337,15,0,0,0,0,0,0,2,0,1095,1,0,2,,"22ij@-y}^<>q*r4$$(6~o2","Velez","Hector "," ","Hector  Velez"," ","52360741"," "," ",1
+1,0,"52360741","Spanish Violation Payment",9,9,9,0,0,0,0,9,0,4749,0,0,0,0,0,0,0,0,0,0,1,0,2,,"22ij@-y}^<>q*r4$$(6~o2","Velez","Hector "," ","Hector  Velez"," ","52360741"," "," ",1
+1,0,"52360851","-",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"q7`?`!wh&a+y04h32b=961","Reid","Dale "," ","Dale  Reid"," ","52360851"," "," ",1
+1,0,"52360851","Customer Service",15,16,14,0,1,0,0,14,2,10314,238,127,0,0,0,0,0,2,0,1134,1,0,2,,"q7`?`!wh&a+y04h32b=961","Reid","Dale "," ","Dale  Reid"," ","52360851"," "," ",1
+1,0,"52360851","New Accounts",1,2,1,0,0,0,0,1,1,124,15,0,0,0,0,0,0,1,0,1388,1,0,2,,"q7`?`!wh&a+y04h32b=961","Reid","Dale "," ","Dale  Reid"," ","52360851"," "," ",1
+1,0,"52360851","Transponder Maintenance",5,5,5,0,0,0,0,5,0,3027,115,39,0,0,0,0,0,0,0,0,1,0,2,,"q7`?`!wh&a+y04h32b=961","Reid","Dale "," ","Dale  Reid"," ","52360851"," "," ",1
+1,0,"52360851","Violation Payment",15,20,15,0,0,1,0,15,5,12320,425,378,0,0,0,0,0,5,0,2821,1,0,2,,"q7`?`!wh&a+y04h32b=961","Reid","Dale "," ","Dale  Reid"," ","52360851"," "," ",1
+1,0,"52362944","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"|9rpd8xk&]>7`[h[0ks/,2","Brewer","Tawanda"," ","Tawanda Brewer"," ","52362944"," "," ",1
+1,0,"52362944","Account Maintenance",1,1,1,0,0,0,0,1,0,375,143,0,0,0,0,0,0,0,0,0,1,0,2,,"|9rpd8xk&]>7`[h[0ks/,2","Brewer","Tawanda"," ","Tawanda Brewer"," ","52362944"," "," ",1
+1,0,"52362944","Account Payments",6,10,6,0,0,0,0,6,4,2696,253,385,0,0,0,0,0,4,0,135,1,0,2,,"|9rpd8xk&]>7`[h[0ks/,2","Brewer","Tawanda"," ","Tawanda Brewer"," ","52362944"," "," ",1
+1,0,"52362944","Customer Service",22,38,22,0,0,0,0,22,16,7083,914,0,0,0,0,0,0,16,0,563,1,0,2,,"|9rpd8xk&]>7`[h[0ks/,2","Brewer","Tawanda"," ","Tawanda Brewer"," ","52362944"," "," ",1
+1,0,"52362944","Transponder Maintenance",5,7,5,0,0,0,0,5,2,1591,189,237,0,0,0,0,0,2,0,63,1,0,2,,"|9rpd8xk&]>7`[h[0ks/,2","Brewer","Tawanda"," ","Tawanda Brewer"," ","52362944"," "," ",1
+1,0,"52362944","Violation Payment",11,16,11,0,0,1,0,11,5,7672,1259,740,0,0,0,0,0,5,0,651,1,0,2,,"|9rpd8xk&]>7`[h[0ks/,2","Brewer","Tawanda"," ","Tawanda Brewer"," ","52362944"," "," ",1
+1,0,"52363134","-",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,">7ad-;er*>yalo=!{i!hg4","Marinelli","Donna"," ","Donna Marinelli"," ","52363134"," "," ",1
+1,0,"52363134","Account Payments",2,2,2,0,0,0,0,2,0,941,161,0,0,0,0,0,0,0,0,0,1,0,2,,">7ad-;er*>yalo=!{i!hg4","Marinelli","Donna"," ","Donna Marinelli"," ","52363134"," "," ",1
+1,0,"52363134","Account Updates",1,1,1,0,0,0,0,1,0,481,61,0,0,0,0,0,0,0,0,0,1,0,2,,">7ad-;er*>yalo=!{i!hg4","Marinelli","Donna"," ","Donna Marinelli"," ","52363134"," "," ",1
+1,0,"52363134","Customer Service",15,20,15,0,0,1,0,15,5,11711,1803,197,0,0,0,0,0,5,0,5621,1,0,2,,">7ad-;er*>yalo=!{i!hg4","Marinelli","Donna"," ","Donna Marinelli"," ","52363134"," "," ",1
+1,0,"52363134","Transponder Maintenance",5,5,5,0,0,0,0,5,0,4139,869,716,0,0,0,0,0,0,0,0,1,0,2,,">7ad-;er*>yalo=!{i!hg4","Marinelli","Donna"," ","Donna Marinelli"," ","52363134"," "," ",1
+1,0,"52363134","Violation Payment",8,9,8,0,0,0,0,8,1,6612,982,0,0,0,0,0,0,1,0,439,1,0,2,,">7ad-;er*>yalo=!{i!hg4","Marinelli","Donna"," ","Donna Marinelli"," ","52363134"," "," ",1
+1,0,"52363137","Account Payments",1,1,1,0,0,0,0,1,0,214,0,0,0,0,0,0,0,0,0,0,1,0,2,,"~;9oi@+-^5+w/l~w7j#is3","Pender","Jonathan"," ","Jonathan Pender"," ","52363137"," "," ",1
+1,0,"52363137","Customer Service",12,16,12,0,0,2,0,12,4,3726,15,0,0,0,0,0,0,4,0,1080,1,0,2,,"~;9oi@+-^5+w/l~w7j#is3","Pender","Jonathan"," ","Jonathan Pender"," ","52363137"," "," ",1
+1,0,"52363137","Transponder Maintenance",2,3,2,0,0,0,0,2,1,1225,0,0,0,0,0,0,0,1,0,748,1,0,2,,"~;9oi@+-^5+w/l~w7j#is3","Pender","Jonathan"," ","Jonathan Pender"," ","52363137"," "," ",1
+1,0,"52363137","Violation Payment",4,4,4,0,0,0,0,4,0,1570,121,0,0,0,0,0,0,0,0,0,1,0,2,,"~;9oi@+-^5+w/l~w7j#is3","Pender","Jonathan"," ","Jonathan Pender"," ","52363137"," "," ",1
+1,0,"52365143","Account Payments",1,1,1,0,0,0,0,1,0,321,4,0,0,0,0,0,0,0,0,0,1,0,2,,"m}&r.+t?*$+n^(i;\|0/<2","Martineau","Joseph "," ","Joseph  Martineau"," ","52365143"," "," ",1
+1,0,"52365143","Account Updates",1,1,1,0,0,0,0,1,0,345,1,0,0,0,0,0,0,0,0,0,1,0,2,,"m}&r.+t?*$+n^(i;\|0/<2","Martineau","Joseph "," ","Joseph  Martineau"," ","52365143"," "," ",1
+1,0,"52365143","Customer Service",14,15,14,0,0,0,0,14,1,4790,16,0,0,0,0,0,0,1,0,468,1,0,2,,"m}&r.+t?*$+n^(i;\|0/<2","Martineau","Joseph "," ","Joseph  Martineau"," ","52365143"," "," ",1
+1,0,"52365143","New Accounts",1,1,1,0,0,0,0,1,0,47,0,0,0,0,0,0,0,0,0,0,1,0,2,,"m}&r.+t?*$+n^(i;\|0/<2","Martineau","Joseph "," ","Joseph  Martineau"," ","52365143"," "," ",1
+1,0,"52365143","Transponder Maintenance",1,2,1,0,0,0,0,1,1,377,7,0,0,0,0,0,0,1,0,380,1,0,2,,"m}&r.+t?*$+n^(i;\|0/<2","Martineau","Joseph "," ","Joseph  Martineau"," ","52365143"," "," ",1
+1,0,"52365143","Violation Payment",9,10,9,0,0,0,0,9,1,3384,0,0,0,0,0,0,0,1,0,280,1,0,2,,"m}&r.+t?*$+n^(i;\|0/<2","Martineau","Joseph "," ","Joseph  Martineau"," ","52365143"," "," ",1
+1,0,"52366506","Account Maintenance",1,1,1,0,0,0,0,1,0,707,6,0,0,0,0,0,0,0,0,0,1,0,2,,"i[v3?#z!(a>63rl=&p2n|3","Gonzalez","Delila "," ","Delila  Gonzalez"," ","52366506"," "," ",1
+1,0,"52366506","Account Payments",2,2,2,0,0,0,0,2,0,712,102,0,0,0,0,0,0,0,0,0,1,0,2,,"i[v3?#z!(a>63rl=&p2n|3","Gonzalez","Delila "," ","Delila  Gonzalez"," ","52366506"," "," ",1
+1,0,"52366506","Customer Service",13,18,13,0,0,0,0,13,5,3974,98,184,0,0,0,0,0,5,0,1183,1,0,2,,"i[v3?#z!(a>63rl=&p2n|3","Gonzalez","Delila "," ","Delila  Gonzalez"," ","52366506"," "," ",1
+1,0,"52366506","New Accounts",1,1,1,0,0,0,0,1,0,130,3,0,0,0,0,0,0,0,0,0,1,0,2,,"i[v3?#z!(a>63rl=&p2n|3","Gonzalez","Delila "," ","Delila  Gonzalez"," ","52366506"," "," ",1
+1,0,"52366506","Transponder Maintenance",3,3,3,0,0,0,0,3,0,556,148,0,0,0,0,0,0,0,0,0,1,0,2,,"i[v3?#z!(a>63rl=&p2n|3","Gonzalez","Delila "," ","Delila  Gonzalez"," ","52366506"," "," ",1
+1,0,"52366506","Violation Payment",10,13,10,0,0,0,0,10,3,2208,130,0,0,0,0,0,0,3,0,764,1,0,2,,"i[v3?#z!(a>63rl=&p2n|3","Gonzalez","Delila "," ","Delila  Gonzalez"," ","52366506"," "," ",1
+1,0,"52367436","Customer Service",2,2,2,0,0,0,0,2,0,2924,428,0,0,0,0,0,0,0,0,0,1,0,2,,"\r|]d5,i&\~~m0)[kgw)!1","Sanders","Latavia"," ","Latavia Sanders"," ","52367436"," "," ",1
+1,0,"52367436","Violation Payment",3,3,3,0,0,0,0,3,0,5294,3874,740,0,0,0,0,0,0,0,0,1,0,2,,"\r|]d5,i&\~~m0)[kgw)!1","Sanders","Latavia"," ","Latavia Sanders"," ","52367436"," "," ",1
+1,0,"52369217","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"n?&`+h6m&7a:~wmxoz-n=4","Wehrhahn","Rodolfo"," ","Rodolfo Wehrhahn"," ","52369217"," "," ",1
+1,0,"52369217","Spanish Account Maintenance",1,1,1,0,0,0,0,1,0,326,20,0,0,0,0,0,0,0,0,0,1,0,2,,"n?&`+h6m&7a:~wmxoz-n=4","Wehrhahn","Rodolfo"," ","Rodolfo Wehrhahn"," ","52369217"," "," ",1
+1,0,"52369217","Spanish Account Payments",9,9,9,0,0,0,0,9,0,4354,191,44,0,0,0,0,0,0,0,0,1,0,2,,"n?&`+h6m&7a:~wmxoz-n=4","Wehrhahn","Rodolfo"," ","Rodolfo Wehrhahn"," ","52369217"," "," ",1
+1,0,"52369217","Spanish Customer Service",25,33,25,0,0,0,0,25,8,9012,895,0,0,0,0,0,0,8,0,1401,1,0,2,,"n?&`+h6m&7a:~wmxoz-n=4","Wehrhahn","Rodolfo"," ","Rodolfo Wehrhahn"," ","52369217"," "," ",1
+1,0,"52369217","Spanish Transponder Maintenance",2,2,2,0,0,0,0,2,0,731,66,0,0,0,0,0,0,0,0,0,1,0,2,,"n?&`+h6m&7a:~wmxoz-n=4","Wehrhahn","Rodolfo"," ","Rodolfo Wehrhahn"," ","52369217"," "," ",1
+1,0,"52369217","Spanish Violation Payment",9,9,9,0,0,1,0,9,0,3806,272,151,0,0,0,0,0,0,0,0,1,0,2,,"n?&`+h6m&7a:~wmxoz-n=4","Wehrhahn","Rodolfo"," ","Rodolfo Wehrhahn"," ","52369217"," "," ",1
+1,0,"52369767","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"#-~i\|a8&b>^n]k$:pm)i3","Cher-Enfant","Harold"," ","Harold Cher-Enfant"," ","52369767"," "," ",1
+1,0,"52369767","Account Maintenance",1,2,1,0,0,0,0,1,1,336,5,0,0,0,0,0,0,1,0,329,1,0,2,,"#-~i\|a8&b>^n]k$:pm)i3","Cher-Enfant","Harold"," ","Harold Cher-Enfant"," ","52369767"," "," ",1
+1,0,"52369767","Account Payments",4,8,4,0,0,0,0,4,4,1396,21,0,0,0,0,0,0,4,0,1331,1,0,2,,"#-~i\|a8&b>^n]k$:pm)i3","Cher-Enfant","Harold"," ","Harold Cher-Enfant"," ","52369767"," "," ",1
+1,0,"52369767","Customer Service",21,27,21,0,0,0,0,21,6,8625,158,356,0,0,0,0,0,6,0,2802,1,0,2,,"#-~i\|a8&b>^n]k$:pm)i3","Cher-Enfant","Harold"," ","Harold Cher-Enfant"," ","52369767"," "," ",1
+1,0,"52369767","New Accounts",3,3,3,0,0,0,0,3,0,3191,32,372,0,0,0,0,0,0,0,0,1,0,2,,"#-~i\|a8&b>^n]k$:pm)i3","Cher-Enfant","Harold"," ","Harold Cher-Enfant"," ","52369767"," "," ",1
+1,0,"52369767","Transponder Maintenance",8,12,8,0,0,0,0,8,1,3772,75,354,0,0,0,0,0,1,0,777,1,0,2,,"#-~i\|a8&b>^n]k$:pm)i3","Cher-Enfant","Harold"," ","Harold Cher-Enfant"," ","52369767"," "," ",1
+1,0,"52369767","Violation Payment",16,20,16,0,0,1,0,16,4,7953,138,240,0,0,0,0,0,4,0,2706,1,0,2,,"#-~i\|a8&b>^n]k$:pm)i3","Cher-Enfant","Harold"," ","Harold Cher-Enfant"," ","52369767"," "," ",1
+1,0,"52369901","-",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,600,1,0,2,,"rc4th`+v&[u?*?+)<jeb\1","Gonzalez","Gerard"," ","Gerard Gonzalez"," ","52369901"," "," ",1
+1,0,"52369901","Spanish Account Maintenance",2,2,2,0,0,0,0,2,0,178,25,0,0,0,0,0,0,0,0,0,1,0,2,,"rc4th`+v&[u?*?+)<jeb\1","Gonzalez","Gerard"," ","Gerard Gonzalez"," ","52369901"," "," ",1
+1,0,"52369901","Spanish Account Payments",2,3,2,0,0,0,0,2,1,1643,24,0,0,0,0,0,0,1,0,638,1,0,2,,"rc4th`+v&[u?*?+)<jeb\1","Gonzalez","Gerard"," ","Gerard Gonzalez"," ","52369901"," "," ",1
+1,0,"52369901","Spanish Customer Service",10,15,10,0,0,0,0,10,5,7332,177,207,0,0,0,0,0,5,0,2550,1,0,2,,"rc4th`+v&[u?*?+)<jeb\1","Gonzalez","Gerard"," ","Gerard Gonzalez"," ","52369901"," "," ",1
+1,0,"52369901","Spanish New Accounts",5,5,5,0,0,0,0,5,0,3798,256,162,0,0,0,0,0,0,0,0,1,0,2,,"rc4th`+v&[u?*?+)<jeb\1","Gonzalez","Gerard"," ","Gerard Gonzalez"," ","52369901"," "," ",1
+1,0,"52369901","Spanish Transponder Maintenance",1,1,1,0,0,0,0,1,0,593,36,0,0,0,0,0,0,0,0,0,1,0,2,,"rc4th`+v&[u?*?+)<jeb\1","Gonzalez","Gerard"," ","Gerard Gonzalez"," ","52369901"," "," ",1
+1,0,"52369901","Spanish Violation Payment",6,6,6,0,0,0,0,6,0,9192,671,1015,0,0,0,0,0,0,0,0,1,0,2,,"rc4th`+v&[u?*?+)<jeb\1","Gonzalez","Gerard"," ","Gerard Gonzalez"," ","52369901"," "," ",1
+1,0,"52370530","Spanish Account Payments",4,5,4,0,0,0,0,4,1,4010,15,0,0,0,0,0,0,1,0,204,1,0,2,,"24m4$zwu&(yfl8#n7.}7:1","Colon","Anthony"," ","Anthony Colon"," ","52370530"," "," ",1
+1,0,"52370530","Spanish Customer Service",21,31,21,0,0,0,0,21,10,19104,41,0,0,0,0,0,0,10,0,3959,1,0,2,,"24m4$zwu&(yfl8#n7.}7:1","Colon","Anthony"," ","Anthony Colon"," ","52370530"," "," ",1
+1,0,"52370530","Spanish New Accounts",1,1,1,0,0,0,0,1,0,150,0,0,0,0,0,0,0,0,0,0,1,0,2,,"24m4$zwu&(yfl8#n7.}7:1","Colon","Anthony"," ","Anthony Colon"," ","52370530"," "," ",1
+1,0,"52370530","Spanish Violation Payment",5,5,5,0,0,0,0,5,0,2217,0,0,0,0,0,0,0,0,0,0,1,0,2,,"24m4$zwu&(yfl8#n7.}7:1","Colon","Anthony"," ","Anthony Colon"," ","52370530"," "," ",1
+1,0,"52370616","Account Payments",2,2,2,0,0,0,0,2,0,699,195,0,0,0,0,0,0,0,0,0,1,0,2,,":^`d}66^(+>,2slysy3nt4","Dorvelia","Stervenscia"," ","Stervenscia Dorvelia"," ","52370616"," "," ",1
+1,0,"52370616","Customer Service",24,31,24,0,0,1,0,24,7,10656,1720,186,0,0,0,0,0,7,0,2624,1,0,2,,":^`d}66^(+>,2slysy3nt4","Dorvelia","Stervenscia"," ","Stervenscia Dorvelia"," ","52370616"," "," ",1
+1,0,"52370616","New Accounts",1,1,1,0,0,0,0,1,0,809,100,0,0,0,0,0,0,0,0,0,1,0,2,,":^`d}66^(+>,2slysy3nt4","Dorvelia","Stervenscia"," ","Stervenscia Dorvelia"," ","52370616"," "," ",1
+1,0,"52370616","Transponder Maintenance",5,7,5,0,0,0,0,5,2,2483,249,0,0,0,0,0,0,2,0,446,1,0,2,,":^`d}66^(+>,2slysy3nt4","Dorvelia","Stervenscia"," ","Stervenscia Dorvelia"," ","52370616"," "," ",1
+1,0,"52370616","Violation Payment",8,10,8,0,0,0,0,8,2,4380,495,68,0,0,0,0,0,2,0,694,1,0,2,,":^`d}66^(+>,2slysy3nt4","Dorvelia","Stervenscia"," ","Stervenscia Dorvelia"," ","52370616"," "," ",1
+1,0,"52371007","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"&ht=(fj.(/m`i$\z`wk?w4","Holmes","Kiana"," ","Kiana Holmes"," ","52371007"," "," ",1
+1,0,"52371007","Account Maintenance",2,2,2,0,0,0,0,2,0,624,279,0,0,0,0,0,0,0,0,0,1,0,2,,"&ht=(fj.(/m`i$\z`wk?w4","Holmes","Kiana"," ","Kiana Holmes"," ","52371007"," "," ",1
+1,0,"52371007","Account Payments",3,3,3,0,0,1,0,3,0,441,188,5,0,0,0,0,0,0,0,0,1,0,2,,"&ht=(fj.(/m`i$\z`wk?w4","Holmes","Kiana"," ","Kiana Holmes"," ","52371007"," "," ",1
+1,0,"52371007","Customer Service",18,23,18,0,0,1,0,18,5,6244,1111,5,0,0,0,0,0,5,0,2403,1,0,2,,"&ht=(fj.(/m`i$\z`wk?w4","Holmes","Kiana"," ","Kiana Holmes"," ","52371007"," "," ",1
+1,0,"52371007","New Accounts",1,1,1,0,0,0,0,1,0,318,151,0,0,0,0,0,0,0,0,0,1,0,2,,"&ht=(fj.(/m`i$\z`wk?w4","Holmes","Kiana"," ","Kiana Holmes"," ","52371007"," "," ",1
+1,0,"52371007","Transponder Maintenance",6,6,6,0,0,0,0,6,0,2094,341,0,0,0,0,0,0,0,0,0,1,0,2,,"&ht=(fj.(/m`i$\z`wk?w4","Holmes","Kiana"," ","Kiana Holmes"," ","52371007"," "," ",1
+1,0,"52371007","Violation Payment",8,9,8,0,0,1,0,8,1,4203,637,933,0,0,0,0,0,1,0,32,1,0,2,,"&ht=(fj.(/m`i$\z`wk?w4","Holmes","Kiana"," ","Kiana Holmes"," ","52371007"," "," ",1
+1,0,"52372342","-",0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,2,1,0,2,,"\+`&p5m@*8}hnyd)st{ow4","Southall","Ta-Tanisha"," ","Ta-Tanisha Southall"," ","52372342"," "," ",1
+1,0,"52372342","Account Maintenance",3,3,3,0,0,1,0,3,0,1023,50,132,0,0,0,0,0,0,0,0,1,0,2,,"\+`&p5m@*8}hnyd)st{ow4","Southall","Ta-Tanisha"," ","Ta-Tanisha Southall"," ","52372342"," "," ",1
+1,0,"52372342","Account Payments",7,7,7,0,0,0,0,7,0,3155,223,0,0,0,0,0,0,0,0,0,1,0,2,,"\+`&p5m@*8}hnyd)st{ow4","Southall","Ta-Tanisha"," ","Ta-Tanisha Southall"," ","52372342"," "," ",1
+1,0,"52372342","Customer Service",33,42,33,0,0,0,0,33,9,15573,624,655,0,0,0,0,0,9,0,4758,1,0,2,,"\+`&p5m@*8}hnyd)st{ow4","Southall","Ta-Tanisha"," ","Ta-Tanisha Southall"," ","52372342"," "," ",1
+1,0,"52372342","New Accounts",1,2,1,0,0,0,0,1,1,392,15,0,0,0,0,0,0,1,0,385,1,0,2,,"\+`&p5m@*8}hnyd)st{ow4","Southall","Ta-Tanisha"," ","Ta-Tanisha Southall"," ","52372342"," "," ",1
+1,0,"52372342","Transponder Maintenance",8,12,8,0,0,0,0,8,4,2587,104,0,0,0,0,0,0,4,0,1125,1,0,2,,"\+`&p5m@*8}hnyd)st{ow4","Southall","Ta-Tanisha"," ","Ta-Tanisha Southall"," ","52372342"," "," ",1
+1,0,"52372342","Violation Payment",10,13,10,0,0,0,0,10,3,2246,101,0,0,0,0,0,0,3,0,689,1,0,2,,"\+`&p5m@*8}hnyd)st{ow4","Southall","Ta-Tanisha"," ","Ta-Tanisha Southall"," ","52372342"," "," ",1
+1,0,"52372351","-",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,392,1,0,2,,"{.c1xkmo()#!m~~3fg#ya2","Hunt","Jamir"," ","Jamir Hunt"," ","52372351"," "," ",1
+1,0,"52372351","Account Maintenance",1,1,1,0,0,0,0,1,0,670,15,0,0,0,0,0,0,0,0,0,1,0,2,,"{.c1xkmo()#!m~~3fg#ya2","Hunt","Jamir"," ","Jamir Hunt"," ","52372351"," "," ",1
+1,0,"52372351","Account Payments",3,5,3,0,0,0,0,3,2,1447,30,0,0,0,0,0,0,2,0,804,1,0,2,,"{.c1xkmo()#!m~~3fg#ya2","Hunt","Jamir"," ","Jamir Hunt"," ","52372351"," "," ",1
+1,0,"52372351","Account Updates",1,1,1,0,0,0,0,1,0,228,171,0,0,0,0,0,0,0,0,0,1,0,2,,"{.c1xkmo()#!m~~3fg#ya2","Hunt","Jamir"," ","Jamir Hunt"," ","52372351"," "," ",1
+1,0,"52372351","Customer Service",16,21,16,0,0,0,0,16,5,8478,728,1,0,0,0,0,0,5,0,2262,1,0,2,,"{.c1xkmo()#!m~~3fg#ya2","Hunt","Jamir"," ","Jamir Hunt"," ","52372351"," "," ",1
+1,0,"52372351","New Accounts",1,1,1,0,0,0,0,1,0,257,15,0,0,0,0,0,0,0,0,0,1,0,2,,"{.c1xkmo()#!m~~3fg#ya2","Hunt","Jamir"," ","Jamir Hunt"," ","52372351"," "," ",1
+1,0,"52372351","Transponder Maintenance",6,8,6,0,0,0,0,6,2,3964,80,0,0,0,0,0,0,2,0,1197,1,0,2,,"{.c1xkmo()#!m~~3fg#ya2","Hunt","Jamir"," ","Jamir Hunt"," ","52372351"," "," ",1
+1,0,"52372351","Violation Payment",17,21,17,0,0,0,0,17,4,8042,649,0,0,0,0,0,0,4,0,771,1,0,2,,"{.c1xkmo()#!m~~3fg#ya2","Hunt","Jamir"," ","Jamir Hunt"," ","52372351"," "," ",1
+1,0,"52372586","Account Payments",2,4,2,0,0,0,0,2,2,483,30,0,0,0,0,0,0,2,0,155,1,0,2,,"}2>bf@z[*|;q{do+)h[,v4","Horne","Rose"," ","Rose Horne"," ","52372586"," "," ",1
+1,0,"52372586","Customer Service",17,21,17,0,0,0,0,17,4,11002,382,421,0,0,0,0,0,4,0,3013,1,0,2,,"}2>bf@z[*|;q{do+)h[,v4","Horne","Rose"," ","Rose Horne"," ","52372586"," "," ",1
+1,0,"52372586","Transponder Maintenance",4,5,4,0,0,0,0,4,1,4837,441,713,0,0,0,0,0,1,0,412,1,0,2,,"}2>bf@z[*|;q{do+)h[,v4","Horne","Rose"," ","Rose Horne"," ","52372586"," "," ",1
+1,0,"52372586","Violation Payment",8,10,8,0,0,0,0,8,2,6846,590,274,0,0,0,0,0,2,0,1171,1,0,2,,"}2>bf@z[*|;q{do+)h[,v4","Horne","Rose"," ","Rose Horne"," ","52372586"," "," ",1
+1,0,"52372769","-",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"ajty;(\r(.m^y^[&7r/(r4","Davis","Diana"," ","Diana Davis"," ","52372769"," "," ",1
+1,0,"52372769","Customer Service",12,16,12,0,0,2,0,12,4,12205,2070,271,0,0,0,0,0,4,0,5766,1,0,2,,"ajty;(\r(.m^y^[&7r/(r4","Davis","Diana"," ","Diana Davis"," ","52372769"," "," ",1
+1,0,"52372769","New Accounts",1,1,1,0,0,0,0,1,0,1636,130,0,0,0,0,0,0,0,0,0,1,0,2,,"ajty;(\r(.m^y^[&7r/(r4","Davis","Diana"," ","Diana Davis"," ","52372769"," "," ",1
+1,0,"52372769","Transponder Maintenance",2,2,2,0,0,0,0,2,0,1604,138,0,0,0,0,0,0,0,0,0,1,0,2,,"ajty;(\r(.m^y^[&7r/(r4","Davis","Diana"," ","Diana Davis"," ","52372769"," "," ",1
+1,0,"52372769","Violation Payment",6,9,6,0,0,0,0,6,3,4962,426,0,0,0,0,0,0,3,0,2812,1,0,2,,"ajty;(\r(.m^y^[&7r/(r4","Davis","Diana"," ","Diana Davis"," ","52372769"," "," ",1
+1,0,"52372911","Account Payments",1,2,1,0,0,0,0,1,1,43,15,0,0,0,0,0,0,1,0,462,1,0,2,,",b>$n`(&*l3lo!i2v@\|f2","West","Demetra"," ","Demetra West"," ","52372911"," "," ",1
+1,0,"52372911","Customer Service",14,19,14,0,0,0,0,14,5,9091,2360,0,0,0,0,0,0,5,0,4127,1,0,2,,",b>$n`(&*l3lo!i2v@\|f2","West","Demetra"," ","Demetra West"," ","52372911"," "," ",1
+1,0,"52372911","Transponder Maintenance",2,2,2,0,0,0,0,2,0,1926,408,0,0,0,0,0,0,0,0,0,1,0,2,,",b>$n`(&*l3lo!i2v@\|f2","West","Demetra"," ","Demetra West"," ","52372911"," "," ",1
+1,0,"52372911","Violation Payment",2,3,2,0,0,0,0,2,1,711,381,0,0,0,0,0,0,1,0,40,1,0,2,,",b>$n`(&*l3lo!i2v@\|f2","West","Demetra"," ","Demetra West"," ","52372911"," "," ",1
+1,0,"52373266","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"=<&08ns\^t+x/){)67<~<3","Williams","Crystal"," ","Crystal Williams"," ","52373266"," "," ",1
+1,0,"52373266","Account Maintenance",1,2,1,0,0,0,0,1,1,358,15,0,0,0,0,0,0,1,0,771,1,0,2,,"=<&08ns\^t+x/){)67<~<3","Williams","Crystal"," ","Crystal Williams"," ","52373266"," "," ",1
+1,0,"52373266","Account Payments",3,3,3,0,0,0,0,3,0,1805,45,0,0,0,0,0,0,0,0,0,1,0,2,,"=<&08ns\^t+x/){)67<~<3","Williams","Crystal"," ","Crystal Williams"," ","52373266"," "," ",1
+1,0,"52373266","Customer Service",34,48,34,0,0,0,0,34,14,11254,749,0,0,0,0,0,0,14,0,6027,1,0,2,,"=<&08ns\^t+x/){)67<~<3","Williams","Crystal"," ","Crystal Williams"," ","52373266"," "," ",1
+1,0,"52373266","Transponder Maintenance",4,6,4,0,0,0,0,4,2,1699,381,0,0,0,0,0,0,2,0,542,1,0,2,,"=<&08ns\^t+x/){)67<~<3","Williams","Crystal"," ","Crystal Williams"," ","52373266"," "," ",1
+1,0,"52373266","Violation Payment",17,20,17,0,0,0,0,17,3,5483,889,0,0,0,0,0,0,3,0,810,1,0,2,,"=<&08ns\^t+x/){)67<~<3","Williams","Crystal"," ","Crystal Williams"," ","52373266"," "," ",1
+1,0,"52373281","Spanish Account Maintenance",2,2,2,0,0,0,0,2,0,2036,196,0,0,0,0,0,0,0,0,0,1,0,2,,"57v~vf1~(<i1<=7=nl>9`2","Hernandez","Rosmar"," ","Rosmar Hernandez"," ","52373281"," "," ",1
+1,0,"52373281","Spanish Account Payments",3,3,3,0,0,0,0,3,0,1318,219,0,0,0,0,0,0,0,0,0,1,0,2,,"57v~vf1~(<i1<=7=nl>9`2","Hernandez","Rosmar"," ","Rosmar Hernandez"," ","52373281"," "," ",1
+1,0,"52373281","Spanish Account Updates",1,1,1,0,0,0,0,1,0,963,15,0,0,0,0,0,0,0,0,0,1,0,2,,"57v~vf1~(<i1<=7=nl>9`2","Hernandez","Rosmar"," ","Rosmar Hernandez"," ","52373281"," "," ",1
+1,0,"52373281","Spanish Customer Service",15,18,15,0,0,0,0,14,4,7925,1131,0,0,0,0,0,0,3,0,1099,1,0,2,,"57v~vf1~(<i1<=7=nl>9`2","Hernandez","Rosmar"," ","Rosmar Hernandez"," ","52373281"," "," ",1
+1,0,"52373281","Spanish New Accounts",2,2,2,0,0,0,0,2,0,1016,30,0,0,0,0,0,0,0,0,0,1,0,2,,"57v~vf1~(<i1<=7=nl>9`2","Hernandez","Rosmar"," ","Rosmar Hernandez"," ","52373281"," "," ",1
+1,0,"52373281","Spanish Violation Payment",6,6,6,0,0,0,0,6,0,2562,370,134,0,0,0,0,0,0,0,0,1,0,2,,"57v~vf1~(<i1<=7=nl>9`2","Hernandez","Rosmar"," ","Rosmar Hernandez"," ","52373281"," "," ",1
+1,0,"52373296","Customer Service",3,3,3,0,0,0,0,3,0,1033,45,0,0,0,0,0,0,0,0,0,1,0,2,,"f~v8@]3@^k}9n$zyc*,`b4","Brown","Brielle"," ","Brielle Brown"," ","52373296"," "," ",1
+1,0,"52373296","New Accounts",1,1,1,0,0,0,0,1,0,437,15,0,0,0,0,0,0,0,0,0,1,0,2,,"f~v8@]3@^k}9n$zyc*,`b4","Brown","Brielle"," ","Brielle Brown"," ","52373296"," "," ",1
+1,0,"52373296","Transponder Maintenance",1,1,1,0,0,0,0,1,0,780,0,149,0,0,0,0,0,0,0,0,1,0,2,,"f~v8@]3@^k}9n$zyc*,`b4","Brown","Brielle"," ","Brielle Brown"," ","52373296"," "," ",1
+1,0,"52373296","Violation Payment",4,4,4,0,0,0,0,4,0,1224,60,0,0,0,0,0,0,0,0,0,1,0,2,,"f~v8@]3@^k}9n$zyc*,`b4","Brown","Brielle"," ","Brielle Brown"," ","52373296"," "," ",1
+1,0,"52373412","Account Maintenance",1,2,1,0,0,0,0,1,1,751,15,0,0,0,0,0,0,1,0,666,1,0,2,,"gyc2c0?[&[ua{>gte-\5g1","Anthony","Gwendolyn"," ","Gwendolyn Anthony"," ","52373412"," "," ",1
+1,0,"52373412","Account Payments",5,5,5,0,0,0,0,5,0,1740,75,0,0,0,0,0,0,0,0,0,1,0,2,,"gyc2c0?[&[ua{>gte-\5g1","Anthony","Gwendolyn"," ","Gwendolyn Anthony"," ","52373412"," "," ",1
+1,0,"52373412","Account Updates",1,1,1,0,0,0,0,1,0,571,15,0,0,0,0,0,0,0,0,0,1,0,2,,"gyc2c0?[&[ua{>gte-\5g1","Anthony","Gwendolyn"," ","Gwendolyn Anthony"," ","52373412"," "," ",1
+1,0,"52373412","Customer Service",38,49,38,0,0,0,0,38,11,14184,1034,784,0,0,0,0,0,11,0,2959,1,0,2,,"gyc2c0?[&[ua{>gte-\5g1","Anthony","Gwendolyn"," ","Gwendolyn Anthony"," ","52373412"," "," ",1
+1,0,"52373412","New Accounts",4,5,4,0,0,0,0,4,1,2221,223,60,0,0,0,0,0,1,0,753,1,0,2,,"gyc2c0?[&[ua{>gte-\5g1","Anthony","Gwendolyn"," ","Gwendolyn Anthony"," ","52373412"," "," ",1
+1,0,"52373412","Transponder Maintenance",5,6,5,0,0,0,0,5,1,1478,238,0,0,0,0,0,0,1,0,397,1,0,2,,"gyc2c0?[&[ua{>gte-\5g1","Anthony","Gwendolyn"," ","Gwendolyn Anthony"," ","52373412"," "," ",1
+1,0,"52373412","Violation Payment",14,20,14,0,0,0,0,14,6,3941,444,246,0,0,0,0,0,6,0,1277,1,0,2,,"gyc2c0?[&[ua{>gte-\5g1","Anthony","Gwendolyn"," ","Gwendolyn Anthony"," ","52373412"," "," ",1
+1,0,"52373582","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"i[\^2gvc*{7w-w\d)oj.h3","Luna","Maria"," ","Maria Luna"," ","52373582"," "," ",1
+1,0,"52373582","Spanish Account Maintenance",3,3,3,0,0,0,0,3,0,909,15,0,0,0,0,0,0,0,0,0,1,0,2,,"i[\^2gvc*{7w-w\d)oj.h3","Luna","Maria"," ","Maria Luna"," ","52373582"," "," ",1
+1,0,"52373582","Spanish Account Payments",2,3,2,0,0,0,0,2,1,1001,15,0,0,0,0,0,0,1,0,276,1,0,2,,"i[\^2gvc*{7w-w\d)oj.h3","Luna","Maria"," ","Maria Luna"," ","52373582"," "," ",1
+1,0,"52373582","Spanish Account Updates",1,1,1,0,0,0,0,1,0,1868,0,0,0,0,0,0,0,0,0,0,1,0,2,,"i[\^2gvc*{7w-w\d)oj.h3","Luna","Maria"," ","Maria Luna"," ","52373582"," "," ",1
+1,0,"52373582","Spanish Customer Service",17,20,17,0,0,0,0,17,3,9647,60,0,0,0,0,0,0,3,0,1822,1,0,2,,"i[\^2gvc*{7w-w\d)oj.h3","Luna","Maria"," ","Maria Luna"," ","52373582"," "," ",1
+1,0,"52373582","Spanish New Accounts",1,1,1,0,0,0,0,1,0,19,11,0,0,0,0,0,0,0,0,0,1,0,2,,"i[\^2gvc*{7w-w\d)oj.h3","Luna","Maria"," ","Maria Luna"," ","52373582"," "," ",1
+1,0,"52373582","Spanish Transponder Maintenance",1,2,1,0,0,0,0,1,1,11,15,0,0,0,0,0,0,1,0,248,1,0,2,,"i[\^2gvc*{7w-w\d)oj.h3","Luna","Maria"," ","Maria Luna"," ","52373582"," "," ",1
+1,0,"52373582","Spanish Violation Payment",12,12,12,0,0,0,0,12,0,6834,7,0,0,0,0,0,0,0,0,0,1,0,2,,"i[\^2gvc*{7w-w\d)oj.h3","Luna","Maria"," ","Maria Luna"," ","52373582"," "," ",1
+1,0,"52373851","Account Payments",5,5,5,0,0,0,0,5,0,2774,640,75,0,0,0,0,0,0,0,0,1,0,2,,")6`j=pf9&nyl1\z5alvee1","Grimes","Todd"," ","Todd Grimes"," ","52373851"," "," ",1
+1,0,"52373851","Customer Service",19,23,19,0,0,0,0,19,4,11732,2220,254,0,0,0,0,0,4,0,1469,1,0,2,,")6`j=pf9&nyl1\z5alvee1","Grimes","Todd"," ","Todd Grimes"," ","52373851"," "," ",1
+1,0,"52373851","New Accounts",2,3,2,0,0,0,0,2,1,2878,36,0,0,0,0,0,0,1,0,1905,1,0,2,,")6`j=pf9&nyl1\z5alvee1","Grimes","Todd"," ","Todd Grimes"," ","52373851"," "," ",1
+1,0,"52373851","Transponder Maintenance",4,5,4,0,0,0,0,4,1,2314,517,0,0,0,0,0,0,1,0,1161,1,0,2,,")6`j=pf9&nyl1\z5alvee1","Grimes","Todd"," ","Todd Grimes"," ","52373851"," "," ",1
+1,0,"52373851","Violation Payment",13,16,13,0,0,0,0,13,3,8963,1148,1192,0,0,0,0,0,3,0,1073,1,0,2,,")6`j=pf9&nyl1\z5alvee1","Grimes","Todd"," ","Todd Grimes"," ","52373851"," "," ",1
+1,0,"52374036","Spanish Account Maintenance",1,1,1,0,0,0,0,1,0,316,15,0,0,0,0,0,0,0,0,0,1,0,2,,"[t$wexih*a7)h}b/,v=~:4","Rodriguez","Aniuska"," ","Aniuska Rodriguez"," ","52374036"," "," ",1
+1,0,"52374036","Spanish Account Payments",9,15,9,0,0,0,0,9,6,3554,81,276,0,0,0,0,0,6,0,2733,1,0,2,,"[t$wexih*a7)h}b/,v=~:4","Rodriguez","Aniuska"," ","Aniuska Rodriguez"," ","52374036"," "," ",1
+1,0,"52374036","Spanish Customer Service",26,40,26,0,0,0,0,26,14,10060,244,0,0,0,0,0,0,14,0,4495,1,0,2,,"[t$wexih*a7)h}b/,v=~:4","Rodriguez","Aniuska"," ","Aniuska Rodriguez"," ","52374036"," "," ",1
+1,0,"52374036","Spanish New Accounts",2,2,2,0,0,0,0,2,0,834,26,0,0,0,0,0,0,0,0,0,1,0,2,,"[t$wexih*a7)h}b/,v=~:4","Rodriguez","Aniuska"," ","Aniuska Rodriguez"," ","52374036"," "," ",1
+1,0,"52374036","Spanish Transponder Maintenance",3,4,3,0,0,0,0,3,1,1102,27,0,0,0,0,0,0,1,0,248,1,0,2,,"[t$wexih*a7)h}b/,v=~:4","Rodriguez","Aniuska"," ","Aniuska Rodriguez"," ","52374036"," "," ",1
+1,0,"52374036","Spanish Violation Payment",12,12,12,0,0,0,0,12,0,5597,112,0,0,0,0,0,0,0,0,0,1,0,2,,"[t$wexih*a7)h}b/,v=~:4","Rodriguez","Aniuska"," ","Aniuska Rodriguez"," ","52374036"," "," ",1
+1,0,"52374649","-",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"f`1/[2<t&t3q9~;>=2p~}2","Jacobson","Michael"," ","Michael Jacobson"," ","52374649"," "," ",1
+1,0,"52374649","Account Maintenance",1,1,1,0,0,0,0,1,0,795,15,0,0,0,0,0,0,0,0,0,1,0,2,,"f`1/[2<t&t3q9~;>=2p~}2","Jacobson","Michael"," ","Michael Jacobson"," ","52374649"," "," ",1
+1,0,"52374649","Account Payments",5,7,5,0,0,0,0,5,2,1608,75,0,0,0,0,0,0,2,0,892,1,0,2,,"f`1/[2<t&t3q9~;>=2p~}2","Jacobson","Michael"," ","Michael Jacobson"," ","52374649"," "," ",1
+1,0,"52374649","Customer Service",14,16,14,0,0,1,0,14,2,9324,142,735,0,0,0,0,0,2,0,1336,1,0,2,,"f`1/[2<t&t3q9~;>=2p~}2","Jacobson","Michael"," ","Michael Jacobson"," ","52374649"," "," ",1
+1,0,"52374649","New Accounts",3,3,3,0,0,0,0,3,0,2246,30,0,0,0,0,0,0,0,0,0,1,0,2,,"f`1/[2<t&t3q9~;>=2p~}2","Jacobson","Michael"," ","Michael Jacobson"," ","52374649"," "," ",1
+1,0,"52374649","Transponder Maintenance",2,2,2,0,0,0,0,2,0,3760,0,0,0,0,0,0,0,0,0,0,1,0,2,,"f`1/[2<t&t3q9~;>=2p~}2","Jacobson","Michael"," ","Michael Jacobson"," ","52374649"," "," ",1
+1,0,"52374649","Violation Payment",11,14,11,0,0,0,0,11,3,3320,165,149,0,0,0,0,0,3,0,2173,1,0,2,,"f`1/[2<t&t3q9~;>=2p~}2","Jacobson","Michael"," ","Michael Jacobson"," ","52374649"," "," ",1
+1,0,"52374731","Account Payments",5,7,5,0,0,0,0,5,2,1647,75,0,0,0,0,0,0,2,0,1514,1,0,2,,"k}({+)n4^we.ki{`>`6q@2","Emmanuel","Leyda"," ","Leyda Emmanuel"," ","52374731"," "," ",1
+1,0,"52374731","Customer Service",17,26,17,0,0,0,0,17,9,4990,404,0,0,0,0,0,0,9,0,4691,1,0,2,,"k}({+)n4^we.ki{`>`6q@2","Emmanuel","Leyda"," ","Leyda Emmanuel"," ","52374731"," "," ",1
+1,0,"52374731","New Accounts",2,2,2,0,0,0,0,2,0,1551,21,0,0,0,0,0,0,0,0,0,1,0,2,,"k}({+)n4^we.ki{`>`6q@2","Emmanuel","Leyda"," ","Leyda Emmanuel"," ","52374731"," "," ",1
+1,0,"52374731","Transponder Maintenance",2,3,2,0,0,0,0,2,1,269,30,0,0,0,0,0,0,1,0,448,1,0,2,,"k}({+)n4^we.ki{`>`6q@2","Emmanuel","Leyda"," ","Leyda Emmanuel"," ","52374731"," "," ",1
+1,0,"52374731","Violation Payment",13,14,13,0,0,0,0,13,1,9725,926,0,0,0,0,0,0,1,0,336,1,0,2,,"k}({+)n4^we.ki{`>`6q@2","Emmanuel","Leyda"," ","Leyda Emmanuel"," ","52374731"," "," ",1
+1,0,"52374739","Account Maintenance",1,1,1,0,0,0,0,1,0,443,0,0,0,0,0,0,0,0,0,0,1,0,2,,">c!4>3q6(,}~hc(goc~$21","Bell","Zhanya"," ","Zhanya Bell"," ","52374739"," "," ",1
+1,0,"52374739","Account Payments",6,7,6,0,0,1,0,6,1,1993,81,0,0,0,0,0,0,1,0,823,1,0,2,,">c!4>3q6(,}~hc(goc~$21","Bell","Zhanya"," ","Zhanya Bell"," ","52374739"," "," ",1
+1,0,"52374739","Customer Service",23,31,23,0,0,0,0,23,8,9128,210,244,0,0,0,0,0,8,0,2611,1,0,2,,">c!4>3q6(,}~hc(goc~$21","Bell","Zhanya"," ","Zhanya Bell"," ","52374739"," "," ",1
+1,0,"52374739","New Accounts",4,5,4,0,0,1,0,4,1,883,4,0,0,0,0,0,0,1,0,679,1,0,2,,">c!4>3q6(,}~hc(goc~$21","Bell","Zhanya"," ","Zhanya Bell"," ","52374739"," "," ",1
+1,0,"52374739","Transponder Maintenance",3,4,3,0,0,0,0,3,1,2564,4,0,0,0,0,0,0,1,0,250,1,0,2,,">c!4>3q6(,}~hc(goc~$21","Bell","Zhanya"," ","Zhanya Bell"," ","52374739"," "," ",1
+1,0,"52374739","Violation Payment",17,20,17,0,0,0,0,17,3,7011,260,0,0,0,0,0,0,3,0,573,1,0,2,,">c!4>3q6(,}~hc(goc~$21","Bell","Zhanya"," ","Zhanya Bell"," ","52374739"," "," ",1
+1,0,"52375602","Account Maintenance",2,2,2,0,0,0,0,2,0,428,30,0,0,0,0,0,0,0,0,0,1,0,2,,"+m:j6x-$*$e]+/.n(>\y#4","Starke","Danielle"," ","Danielle Starke"," ","52375602"," "," ",1
+1,0,"52375602","Account Payments",2,4,2,0,0,0,0,2,2,656,21,0,0,0,0,0,0,2,0,590,1,0,2,,"+m:j6x-$*$e]+/.n(>\y#4","Starke","Danielle"," ","Danielle Starke"," ","52375602"," "," ",1
+1,0,"52375602","Customer Service",16,20,16,0,0,0,0,16,4,7598,504,0,0,0,0,0,0,4,0,1998,1,0,2,,"+m:j6x-$*$e]+/.n(>\y#4","Starke","Danielle"," ","Danielle Starke"," ","52375602"," "," ",1
+1,0,"52375602","New Accounts",2,2,2,0,0,0,0,2,0,583,30,0,0,0,0,0,0,0,0,0,1,0,2,,"+m:j6x-$*$e]+/.n(>\y#4","Starke","Danielle"," ","Danielle Starke"," ","52375602"," "," ",1
+1,0,"52375602","Transponder Maintenance",1,2,1,0,0,0,0,1,1,490,15,0,0,0,0,0,0,1,0,468,1,0,2,,"+m:j6x-$*$e]+/.n(>\y#4","Starke","Danielle"," ","Danielle Starke"," ","52375602"," "," ",1
+1,0,"52375602","Violation Payment",7,8,7,0,0,0,0,7,1,4342,105,475,0,0,0,0,0,1,0,265,1,0,2,,"+m:j6x-$*$e]+/.n(>\y#4","Starke","Danielle"," ","Danielle Starke"," ","52375602"," "," ",1
+1,0,"52377897","-",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,284,1,0,2,,"+d[[&2l}(xyru.2a6[;oz2","Scott","Sean"," ","Sean Scott"," ","52377897"," "," ",1
+1,0,"52377897","Account Maintenance",1,2,1,0,0,0,0,1,1,34,15,0,0,0,0,0,0,1,0,189,1,0,2,,"+d[[&2l}(xyru.2a6[;oz2","Scott","Sean"," ","Sean Scott"," ","52377897"," "," ",1
+1,0,"52377897","Account Payments",3,3,3,0,0,0,0,3,0,593,22,0,0,0,0,0,0,0,0,0,1,0,2,,"+d[[&2l}(xyru.2a6[;oz2","Scott","Sean"," ","Sean Scott"," ","52377897"," "," ",1
+1,0,"52377897","Customer Service",29,37,29,0,0,0,0,29,8,12631,235,0,0,0,0,0,0,8,0,2379,1,0,2,,"+d[[&2l}(xyru.2a6[;oz2","Scott","Sean"," ","Sean Scott"," ","52377897"," "," ",1
+1,0,"52377897","New Accounts",2,2,2,0,0,0,0,2,0,1583,27,0,0,0,0,0,0,0,0,0,1,0,2,,"+d[[&2l}(xyru.2a6[;oz2","Scott","Sean"," ","Sean Scott"," ","52377897"," "," ",1
+1,0,"52377897","Transponder Maintenance",7,9,7,0,0,0,0,7,0,2706,71,79,0,0,0,0,0,0,0,0,1,0,2,,"+d[[&2l}(xyru.2a6[;oz2","Scott","Sean"," ","Sean Scott"," ","52377897"," "," ",1
+1,0,"52377897","Violation Payment",13,22,13,0,0,0,0,13,9,3050,161,0,0,0,0,0,0,9,0,4615,1,0,2,,"+d[[&2l}(xyru.2a6[;oz2","Scott","Sean"," ","Sean Scott"," ","52377897"," "," ",1
+1,0,"52379283","Account Payments",4,7,4,0,0,0,0,4,3,972,15,0,0,0,0,0,0,3,0,1016,1,0,2,,"k,$|`.0!*z~j=80i8wdu61","Petitfrere","Shannon"," ","Shannon Petitfrere"," ","52379283"," "," ",1
+1,0,"52379283","Customer Service",20,25,20,0,0,0,0,20,5,9573,361,22,0,0,0,0,0,5,0,2143,1,0,2,,"k,$|`.0!*z~j=80i8wdu61","Petitfrere","Shannon"," ","Shannon Petitfrere"," ","52379283"," "," ",1
+1,0,"52379283","Transponder Maintenance",6,11,6,0,0,0,0,6,5,3403,99,648,0,0,0,0,0,5,0,2239,1,0,2,,"k,$|`.0!*z~j=80i8wdu61","Petitfrere","Shannon"," ","Shannon Petitfrere"," ","52379283"," "," ",1
+1,0,"52379283","Violation Payment",12,16,12,0,0,0,0,12,4,6321,856,0,0,0,0,0,0,4,0,1145,1,0,2,,"k,$|`.0!*z~j=80i8wdu61","Petitfrere","Shannon"," ","Shannon Petitfrere"," ","52379283"," "," ",1
+1,0,"52379535","-",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"~d@[jr89(`;;a3.vd/c.o1","Washington","Jeremiah"," ","Jeremiah Washington"," ","52379535"," "," ",1
+1,0,"52379535","Account Maintenance",3,3,3,0,0,0,0,3,0,1350,147,353,0,0,0,0,0,0,0,0,1,0,2,,"~d@[jr89(`;;a3.vd/c.o1","Washington","Jeremiah"," ","Jeremiah Washington"," ","52379535"," "," ",1
+1,0,"52379535","Account Payments",3,3,3,0,0,0,0,3,0,1382,93,159,0,0,0,0,0,0,0,0,1,0,2,,"~d@[jr89(`;;a3.vd/c.o1","Washington","Jeremiah"," ","Jeremiah Washington"," ","52379535"," "," ",1
+1,0,"52379535","Customer Service",18,20,18,0,0,3,0,18,2,9035,616,865,0,0,0,0,0,2,0,1338,1,0,2,,"~d@[jr89(`;;a3.vd/c.o1","Washington","Jeremiah"," ","Jeremiah Washington"," ","52379535"," "," ",1
+1,0,"52379535","New Accounts",3,3,3,0,0,1,0,3,0,2618,105,494,0,0,0,0,0,0,0,0,1,0,2,,"~d@[jr89(`;;a3.vd/c.o1","Washington","Jeremiah"," ","Jeremiah Washington"," ","52379535"," "," ",1
+1,0,"52379535","Transponder Maintenance",4,4,4,0,0,0,0,4,0,2360,180,731,0,0,0,0,0,0,0,0,1,0,2,,"~d@[jr89(`;;a3.vd/c.o1","Washington","Jeremiah"," ","Jeremiah Washington"," ","52379535"," "," ",1
+1,0,"52379535","Violation Payment",12,15,12,0,0,2,0,12,3,4783,358,597,0,0,0,0,0,3,0,964,1,0,2,,"~d@[jr89(`;;a3.vd/c.o1","Washington","Jeremiah"," ","Jeremiah Washington"," ","52379535"," "," ",1
+1,0,"52379730","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"~17!j`}i*d+~`fwqz0cla4","Maldonado","Awilda"," ","Awilda Maldonado"," ","52379730"," "," ",1
+1,0,"52379730","Spanish Account Maintenance",1,1,1,0,0,0,0,1,0,226,16,0,0,0,0,0,0,0,0,0,1,0,2,,"~17!j`}i*d+~`fwqz0cla4","Maldonado","Awilda"," ","Awilda Maldonado"," ","52379730"," "," ",1
+1,0,"52379730","Spanish Account Payments",4,6,4,0,0,0,0,4,2,669,68,0,0,0,0,0,0,2,0,730,1,0,2,,"~17!j`}i*d+~`fwqz0cla4","Maldonado","Awilda"," ","Awilda Maldonado"," ","52379730"," "," ",1
+1,0,"52379730","Spanish Customer Service",22,30,22,0,0,1,0,22,8,12893,1409,166,0,0,0,0,0,8,0,5927,1,0,2,,"~17!j`}i*d+~`fwqz0cla4","Maldonado","Awilda"," ","Awilda Maldonado"," ","52379730"," "," ",1
+1,0,"52379730","Spanish New Accounts",2,2,2,0,0,0,0,2,0,1640,69,0,0,0,0,0,0,0,0,0,1,0,2,,"~17!j`}i*d+~`fwqz0cla4","Maldonado","Awilda"," ","Awilda Maldonado"," ","52379730"," "," ",1
+1,0,"52379730","Spanish Transponder Maintenance",3,3,3,0,0,0,0,3,0,1509,147,0,0,0,0,0,0,0,0,0,1,0,2,,"~17!j`}i*d+~`fwqz0cla4","Maldonado","Awilda"," ","Awilda Maldonado"," ","52379730"," "," ",1
+1,0,"52379730","Spanish Violation Payment",6,6,6,0,0,0,0,6,0,3671,225,0,0,0,0,0,0,0,0,0,1,0,2,,"~17!j`}i*d+~`fwqz0cla4","Maldonado","Awilda"," ","Awilda Maldonado"," ","52379730"," "," ",1
+1,0,"52380003","Account Maintenance",2,2,2,0,0,0,0,2,0,489,30,0,0,0,0,0,0,0,0,0,1,0,2,,"6@7oqk{d&se4.?<8+t>j-1","Millard","Silvana"," ","Silvana Millard"," ","52380003"," "," ",1
+1,0,"52380003","Account Payments",2,2,2,0,0,0,0,2,0,425,30,0,0,0,0,0,0,0,0,0,1,0,2,,"6@7oqk{d&se4.?<8+t>j-1","Millard","Silvana"," ","Silvana Millard"," ","52380003"," "," ",1
+1,0,"52380003","Customer Service",21,22,21,0,0,0,0,21,1,7196,704,262,0,0,0,0,0,1,0,739,1,0,2,,"6@7oqk{d&se4.?<8+t>j-1","Millard","Silvana"," ","Silvana Millard"," ","52380003"," "," ",1
+1,0,"52380003","Transponder Maintenance",3,3,3,0,0,0,0,3,0,916,60,0,0,0,0,0,0,0,0,0,1,0,2,,"6@7oqk{d&se4.?<8+t>j-1","Millard","Silvana"," ","Silvana Millard"," ","52380003"," "," ",1
+1,0,"52380003","Violation Payment",6,6,6,0,0,0,0,6,0,2006,53,0,0,0,0,0,0,0,0,0,1,0,2,,"6@7oqk{d&se4.?<8+t>j-1","Millard","Silvana"," ","Silvana Millard"," ","52380003"," "," ",1
+1,0,"52382970","-",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"}fp7l7n;^?ur^g)l$0hr/4","Galloway","Gary"," ","Gary Galloway"," ","52382970"," "," ",1
+1,0,"52382970","Violation Payment",21,26,21,0,0,2,0,21,5,18583,1680,779,0,0,0,0,0,5,0,3396,1,0,2,,"}fp7l7n;^?ur^g)l$0hr/4","Galloway","Gary"," ","Gary Galloway"," ","52382970"," "," ",1
+1,0,"52382984","-",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"7r~1!|ig&ta4.iqt]1=`24","Linton","Mary"," ","Mary Linton"," ","52382984"," "," ",1
+1,0,"52382984","Account Payments",8,9,8,0,0,0,0,8,1,3383,494,0,0,0,0,0,0,1,0,238,1,0,2,,"7r~1!|ig&ta4.iqt]1=`24","Linton","Mary"," ","Mary Linton"," ","52382984"," "," ",1
+1,0,"52382984","Customer Service",24,31,24,0,0,0,0,24,7,7119,1879,107,0,0,0,0,0,7,0,2080,1,0,2,,"7r~1!|ig&ta4.iqt]1=`24","Linton","Mary"," ","Mary Linton"," ","52382984"," "," ",1
+1,0,"52382984","New Accounts",2,2,2,0,0,0,0,2,0,1241,16,0,0,0,0,0,0,0,0,0,1,0,2,,"7r~1!|ig&ta4.iqt]1=`24","Linton","Mary"," ","Mary Linton"," ","52382984"," "," ",1
+1,0,"52382984","Transponder Maintenance",8,9,8,0,0,0,0,8,1,3197,620,0,0,0,0,0,0,1,0,457,1,0,2,,"7r~1!|ig&ta4.iqt]1=`24","Linton","Mary"," ","Mary Linton"," ","52382984"," "," ",1
+1,0,"52382984","Violation Payment",13,16,13,0,0,1,0,13,3,6162,1474,605,0,0,0,0,0,3,0,1288,1,0,2,,"7r~1!|ig&ta4.iqt]1=`24","Linton","Mary"," ","Mary Linton"," ","52382984"," "," ",1
+1,0,"52383081","Account Maintenance",4,5,4,0,0,0,0,4,1,3711,851,0,0,0,0,0,0,1,0,1452,1,0,2,,"z]~j(g#?(1qrz$]mrfqee2","Gonzalez","Brenda"," ","Brenda Gonzalez"," ","52383081"," "," ",1
+1,0,"52383081","Transponder Maintenance",29,35,29,0,0,0,0,29,6,19130,2484,989,0,0,0,0,0,6,0,4839,1,0,2,,"z]~j(g#?(1qrz$]mrfqee2","Gonzalez","Brenda"," ","Brenda Gonzalez"," ","52383081"," "," ",1
+1,0,"52383348","-",0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,55,1,0,2,,"1vb5\6ta(nq+gs=((?|f$3","Sotomayor","Carlos"," ","Carlos Sotomayor"," ","52383348"," "," ",1
+1,0,"52383348","Spanish Account Maintenance",3,3,3,0,0,0,0,3,0,2940,387,865,0,0,0,0,0,0,0,0,1,0,2,,"1vb5\6ta(nq+gs=((?|f$3","Sotomayor","Carlos"," ","Carlos Sotomayor"," ","52383348"," "," ",1
+1,0,"52383348","Spanish Account Payments",3,3,3,0,0,0,0,3,0,2369,250,229,0,0,0,0,0,0,0,0,1,0,2,,"1vb5\6ta(nq+gs=((?|f$3","Sotomayor","Carlos"," ","Carlos Sotomayor"," ","52383348"," "," ",1
+1,0,"52383348","Spanish Customer Service",23,33,23,0,0,0,0,23,10,12629,2069,970,0,0,0,0,0,10,0,7065,1,0,2,,"1vb5\6ta(nq+gs=((?|f$3","Sotomayor","Carlos"," ","Carlos Sotomayor"," ","52383348"," "," ",1
+1,0,"52383348","Spanish New Accounts",1,1,1,0,0,0,0,1,0,468,86,83,0,0,0,0,0,0,0,0,1,0,2,,"1vb5\6ta(nq+gs=((?|f$3","Sotomayor","Carlos"," ","Carlos Sotomayor"," ","52383348"," "," ",1
+1,0,"52383348","Spanish Transponder Maintenance",1,1,1,0,0,0,0,1,0,204,53,21,0,0,0,0,0,0,0,0,1,0,2,,"1vb5\6ta(nq+gs=((?|f$3","Sotomayor","Carlos"," ","Carlos Sotomayor"," ","52383348"," "," ",1
+1,0,"52383348","Spanish Violation Payment",6,6,6,0,0,0,0,6,0,4451,401,1136,0,0,0,0,0,0,0,0,1,0,2,,"1vb5\6ta(nq+gs=((?|f$3","Sotomayor","Carlos"," ","Carlos Sotomayor"," ","52383348"," "," ",1
+1,0,"52384849","Account Payments",6,8,6,0,0,0,0,6,2,5590,45,0,0,0,0,0,0,2,0,2891,1,0,2,,"4yw|)&zj*/a&uovke&)[u3","Sharron","Crystal"," ","Crystal Sharron"," ","52384849"," "," ",1
+1,0,"52384849","Violation Payment",26,35,26,0,0,0,0,26,9,20226,365,0,0,0,0,0,0,9,0,10459,1,0,2,,"4yw|)&zj*/a&uovke&)[u3","Sharron","Crystal"," ","Crystal Sharron"," ","52384849"," "," ",1
+1,0,"52384873","Account Payments",1,1,1,0,0,0,0,1,0,339,65,0,0,0,0,0,0,0,0,0,1,0,2,,"$6~8j?r)&k**>kx2!om,!4","Persaud","Giovannie"," ","Giovannie Persaud"," ","52384873"," "," ",1
+1,0,"52384873","Customer Service",12,18,12,0,0,0,0,12,6,11697,2447,798,0,0,0,0,0,6,0,4302,1,0,2,,"$6~8j?r)&k**>kx2!om,!4","Persaud","Giovannie"," ","Giovannie Persaud"," ","52384873"," "," ",1
+1,0,"52384873","Violation Payment",5,8,5,0,0,0,0,5,3,5841,1656,1182,0,0,0,0,0,3,0,486,1,0,2,,"$6~8j?r)&k**>kx2!om,!4","Persaud","Giovannie"," ","Giovannie Persaud"," ","52384873"," "," ",1
+1,0,"52384899","Spanish Account Payments",5,8,5,0,0,0,0,5,3,2533,258,46,0,0,0,0,0,3,0,1341,1,0,2,,"co`.;4/t^3eo+?>ehm$<=2","Ordoñez","Oscar"," ","Oscar Ordoñez"," ","52384899"," "," ",1
+1,0,"52384899","Spanish Customer Service",16,23,16,0,0,0,0,16,7,9191,626,35,0,0,0,0,0,7,0,4315,1,0,2,,"co`.;4/t^3eo+?>ehm$<=2","Ordoñez","Oscar"," ","Oscar Ordoñez"," ","52384899"," "," ",1
+1,0,"52384899","Spanish Transponder Maintenance",3,4,3,0,0,0,0,3,1,1638,30,16,0,0,0,0,0,1,0,311,1,0,2,,"co`.;4/t^3eo+?>ehm$<=2","Ordoñez","Oscar"," ","Oscar Ordoñez"," ","52384899"," "," ",1
+1,0,"52384899","Spanish Violation Payment",10,10,10,0,0,0,0,10,0,6056,594,447,0,0,0,0,0,0,0,0,1,0,2,,"co`.;4/t^3eo+?>ehm$<=2","Ordoñez","Oscar"," ","Oscar Ordoñez"," ","52384899"," "," ",1
+1,0,"52385065","Account Maintenance",1,2,1,0,0,0,0,1,1,251,15,0,0,0,0,0,0,1,0,212,1,0,2,,"|:w,h-a9(2;ba(ud4g7j34","Saintuny","Emmanuel"," ","Emmanuel Saintuny"," ","52385065"," "," ",1
+1,0,"52385065","Account Payments",2,3,2,0,0,0,0,2,1,1092,122,0,0,0,0,0,0,1,0,834,1,0,2,,"|:w,h-a9(2;ba(ud4g7j34","Saintuny","Emmanuel"," ","Emmanuel Saintuny"," ","52385065"," "," ",1
+1,0,"52385065","Customer Service",30,37,30,0,0,0,0,30,7,14389,1835,445,0,0,0,0,0,7,0,2853,1,0,2,,"|:w,h-a9(2;ba(ud4g7j34","Saintuny","Emmanuel"," ","Emmanuel Saintuny"," ","52385065"," "," ",1
+1,0,"52385065","Transponder Maintenance",5,6,5,0,0,0,0,5,1,1734,154,0,0,0,0,0,0,1,0,170,1,0,2,,"|:w,h-a9(2;ba(ud4g7j34","Saintuny","Emmanuel"," ","Emmanuel Saintuny"," ","52385065"," "," ",1
+1,0,"52385065","Violation Payment",11,17,11,0,0,0,0,11,6,4261,633,0,0,0,0,0,0,6,0,1322,1,0,2,,"|:w,h-a9(2;ba(ud4g7j34","Saintuny","Emmanuel"," ","Emmanuel Saintuny"," ","52385065"," "," ",1
+1,0,"52386143","Account Payments",1,1,1,0,0,0,0,1,0,126,162,0,0,0,0,0,0,0,0,0,1,0,2,,"o2?pr^aj*o30=3d]~9[~&4","Nelson","Ayanna"," ","Ayanna Nelson"," ","52386143"," "," ",1
+1,0,"52386143","Account Updates",1,1,1,0,0,0,0,1,0,751,61,0,0,0,0,0,0,0,0,0,1,0,2,,"o2?pr^aj*o30=3d]~9[~&4","Nelson","Ayanna"," ","Ayanna Nelson"," ","52386143"," "," ",1
+1,0,"52386143","Customer Service",29,40,29,0,0,0,0,28,12,10574,868,821,0,0,0,0,0,11,0,3083,1,0,2,,"o2?pr^aj*o30=3d]~9[~&4","Nelson","Ayanna"," ","Ayanna Nelson"," ","52386143"," "," ",1
+1,0,"52386143","Transponder Maintenance",4,4,4,0,0,0,0,4,0,1245,187,151,0,0,0,0,0,0,0,0,1,0,2,,"o2?pr^aj*o30=3d]~9[~&4","Nelson","Ayanna"," ","Ayanna Nelson"," ","52386143"," "," ",1
+1,0,"52386143","Violation Payment",7,8,7,0,0,0,0,7,1,2416,81,216,0,0,0,0,0,1,0,558,1,0,2,,"o2?pr^aj*o30=3d]~9[~&4","Nelson","Ayanna"," ","Ayanna Nelson"," ","52386143"," "," ",1
+1,0,"52387626","-",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,451,1,0,2,,"qopjy*xp^\>/-u.n{t;:$2","Gonzalez","Norberto"," ","Norberto Gonzalez"," ","52387626"," "," ",1
+1,0,"52387626","Spanish Account Maintenance",2,2,2,0,0,0,0,2,0,1204,36,0,0,0,0,0,0,0,0,0,1,0,2,,"qopjy*xp^\>/-u.n{t;:$2","Gonzalez","Norberto"," ","Norberto Gonzalez"," ","52387626"," "," ",1
+1,0,"52387626","Spanish Account Payments",13,15,13,0,0,0,0,13,2,7480,221,406,0,0,0,0,0,2,0,248,1,0,2,,"qopjy*xp^\>/-u.n{t;:$2","Gonzalez","Norberto"," ","Norberto Gonzalez"," ","52387626"," "," ",1
+1,0,"52387626","Spanish Customer Service",27,40,27,0,0,0,0,27,13,14245,837,481,0,0,0,0,0,13,0,4463,1,0,2,,"qopjy*xp^\>/-u.n{t;:$2","Gonzalez","Norberto"," ","Norberto Gonzalez"," ","52387626"," "," ",1
+1,0,"52387626","Spanish Transponder Maintenance",3,4,3,0,0,0,0,3,1,1164,45,0,0,0,0,0,0,1,0,598,1,0,2,,"qopjy*xp^\>/-u.n{t;:$2","Gonzalez","Norberto"," ","Norberto Gonzalez"," ","52387626"," "," ",1
+1,0,"52388584","-",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,65,1,0,2,,"].^!|r=,(@3b57~z]4p<)4","Ducamel","Sunbright"," ","Sunbright Ducamel"," ","52388584"," "," ",1
+1,0,"52388584","Account Maintenance",5,6,5,0,0,0,0,5,1,2255,75,0,0,0,0,0,0,1,0,590,1,0,2,,"].^!|r=,(@3b57~z]4p<)4","Ducamel","Sunbright"," ","Sunbright Ducamel"," ","52388584"," "," ",1
+1,0,"52388584","Account Payments",26,36,26,0,0,0,0,26,10,13241,413,0,0,0,0,0,0,10,0,4549,1,0,2,,"].^!|r=,(@3b57~z]4p<)4","Ducamel","Sunbright"," ","Sunbright Ducamel"," ","52388584"," "," ",1
+1,0,"52388584","Account Updates",1,1,1,0,0,0,0,1,0,649,15,0,0,0,0,0,0,0,0,0,1,0,2,,"].^!|r=,(@3b57~z]4p<)4","Ducamel","Sunbright"," ","Sunbright Ducamel"," ","52388584"," "," ",1
+1,0,"52388584","New Accounts",16,20,16,0,0,0,0,16,4,10056,627,0,0,0,0,0,0,4,0,1977,1,0,2,,"].^!|r=,(@3b57~z]4p<)4","Ducamel","Sunbright"," ","Sunbright Ducamel"," ","52388584"," "," ",1
+1,0,"52389717","-",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,28,1,0,2,,"hm38q{4m(oas1l2@rf!mj4","Dominguez","John"," ","John Dominguez"," ","52389717"," "," ",1
+1,0,"52389717","Spanish Account Maintenance",1,1,1,0,0,0,0,1,0,420,273,30,0,0,0,0,0,0,0,0,1,0,2,,"hm38q{4m(oas1l2@rf!mj4","Dominguez","John"," ","John Dominguez"," ","52389717"," "," ",1
+1,0,"52389717","Spanish Account Payments",8,11,8,0,0,0,0,8,3,5544,1259,84,0,0,0,0,0,3,0,2201,1,0,2,,"hm38q{4m(oas1l2@rf!mj4","Dominguez","John"," ","John Dominguez"," ","52389717"," "," ",1
+1,0,"52389717","Spanish Customer Service",30,42,30,0,0,0,0,30,12,14594,5415,728,0,0,0,0,0,12,0,3456,1,0,2,,"hm38q{4m(oas1l2@rf!mj4","Dominguez","John"," ","John Dominguez"," ","52389717"," "," ",1
+1,0,"52389717","Spanish Transponder Maintenance",1,1,1,0,0,0,0,1,0,52,197,0,0,0,0,0,0,0,0,0,1,0,2,,"hm38q{4m(oas1l2@rf!mj4","Dominguez","John"," ","John Dominguez"," ","52389717"," "," ",1
+1,0,"52389717","Spanish Violation Payment",4,4,4,0,0,0,0,4,0,1651,779,111,0,0,0,0,0,0,0,0,1,0,2,,"hm38q{4m(oas1l2@rf!mj4","Dominguez","John"," ","John Dominguez"," ","52389717"," "," ",1
+1,0,"52389736","Account Payments",1,1,1,0,0,0,0,1,0,257,6,0,0,0,0,0,0,0,0,0,1,0,2,,"~yq2]xd4*f3qh>/5l8;}d4","Paul","Jenesis"," ","Jenesis Paul"," ","52389736"," "," ",1
+1,0,"52389736","Customer Service",14,18,14,0,0,0,0,14,4,4539,254,112,0,0,0,0,0,4,0,1081,1,0,2,,"~yq2]xd4*f3qh>/5l8;}d4","Paul","Jenesis"," ","Jenesis Paul"," ","52389736"," "," ",1
+1,0,"52389736","New Accounts",3,3,3,0,0,0,0,3,0,1362,42,0,0,0,0,0,0,0,0,0,1,0,2,,"~yq2]xd4*f3qh>/5l8;}d4","Paul","Jenesis"," ","Jenesis Paul"," ","52389736"," "," ",1
+1,0,"52389736","Transponder Maintenance",5,5,5,0,0,0,0,5,0,1111,63,0,0,0,0,0,0,0,0,0,1,0,2,,"~yq2]xd4*f3qh>/5l8;}d4","Paul","Jenesis"," ","Jenesis Paul"," ","52389736"," "," ",1
+1,0,"52389736","Violation Payment",13,18,13,0,0,1,0,13,5,3623,223,222,0,0,0,0,0,5,0,1716,1,0,2,,"~yq2]xd4*f3qh>/5l8;}d4","Paul","Jenesis"," ","Jenesis Paul"," ","52389736"," "," ",1
+1,0,"52392308","-",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"^w5>*v)x*@*s5zt.8kk)t1","Barreto","Arielis"," ","Arielis Barreto"," ","52392308"," "," ",1
+1,0,"52392308","Spanish Account Maintenance",1,1,1,0,0,0,0,1,0,232,76,0,0,0,0,0,0,0,0,0,1,0,2,,"^w5>*v)x*@*s5zt.8kk)t1","Barreto","Arielis"," ","Arielis Barreto"," ","52392308"," "," ",1
+1,0,"52392308","Spanish Account Payments",3,6,3,0,0,0,0,3,3,1029,192,0,0,0,0,0,0,3,0,1019,1,0,2,,"^w5>*v)x*@*s5zt.8kk)t1","Barreto","Arielis"," ","Arielis Barreto"," ","52392308"," "," ",1
+1,0,"52392308","Spanish Account Updates",1,1,1,0,0,0,0,1,0,159,125,0,0,0,0,0,0,0,0,0,1,0,2,,"^w5>*v)x*@*s5zt.8kk)t1","Barreto","Arielis"," ","Arielis Barreto"," ","52392308"," "," ",1
+1,0,"52392308","Spanish Customer Service",24,29,24,0,0,1,0,24,5,9727,1897,380,0,0,0,0,0,5,0,1663,1,0,2,,"^w5>*v)x*@*s5zt.8kk)t1","Barreto","Arielis"," ","Arielis Barreto"," ","52392308"," "," ",1
+1,0,"52392308","Spanish New Accounts",1,1,1,0,0,0,0,1,0,216,35,0,0,0,0,0,0,0,0,0,1,0,2,,"^w5>*v)x*@*s5zt.8kk)t1","Barreto","Arielis"," ","Arielis Barreto"," ","52392308"," "," ",1
+1,0,"52392308","Spanish Transponder Maintenance",4,4,4,0,0,0,0,4,0,2836,707,373,0,0,0,0,0,0,0,0,1,0,2,,"^w5>*v)x*@*s5zt.8kk)t1","Barreto","Arielis"," ","Arielis Barreto"," ","52392308"," "," ",1
+1,0,"52392308","Spanish Violation Payment",9,9,9,0,0,1,0,9,0,4813,627,663,0,0,0,0,0,0,0,0,1,0,2,,"^w5>*v)x*@*s5zt.8kk)t1","Barreto","Arielis"," ","Arielis Barreto"," ","52392308"," "," ",1
+1,0,"52392311","-",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"m?c(]v0o&j#&`]3{?1{uo1","Kamar","Ola"," ","Ola Kamar"," ","52392311"," "," ",1
+1,0,"52392311","Account Maintenance",1,1,1,0,0,0,0,1,0,208,72,0,0,0,0,0,0,0,0,0,1,0,2,,"m?c(]v0o&j#&`]3{?1{uo1","Kamar","Ola"," ","Ola Kamar"," ","52392311"," "," ",1
+1,0,"52392311","Account Payments",4,5,4,0,0,0,0,4,1,1834,119,0,0,0,0,0,0,1,0,854,1,0,2,,"m?c(]v0o&j#&`]3{?1{uo1","Kamar","Ola"," ","Ola Kamar"," ","52392311"," "," ",1
+1,0,"52392311","Account Updates",1,2,1,0,0,0,0,1,1,426,42,0,0,0,0,0,0,1,0,437,1,0,2,,"m?c(]v0o&j#&`]3{?1{uo1","Kamar","Ola"," ","Ola Kamar"," ","52392311"," "," ",1
+1,0,"52392311","Customer Service",26,33,26,0,0,0,0,25,8,10822,1452,112,0,0,0,0,0,7,0,4158,1,0,2,,"m?c(]v0o&j#&`]3{?1{uo1","Kamar","Ola"," ","Ola Kamar"," ","52392311"," "," ",1
+1,0,"52392311","New Accounts",4,4,4,0,0,0,0,4,0,2460,205,0,0,0,0,0,0,0,0,0,1,0,2,,"m?c(]v0o&j#&`]3{?1{uo1","Kamar","Ola"," ","Ola Kamar"," ","52392311"," "," ",1
+1,0,"52392311","Transponder Maintenance",4,8,4,0,0,0,0,4,4,1824,299,0,0,0,0,0,0,4,0,1658,1,0,2,,"m?c(]v0o&j#&`]3{?1{uo1","Kamar","Ola"," ","Ola Kamar"," ","52392311"," "," ",1
+1,0,"52392311","Violation Payment",11,13,11,0,0,0,0,11,2,4723,469,0,0,0,0,0,0,2,0,1239,1,0,2,,"m?c(]v0o&j#&`]3{?1{uo1","Kamar","Ola"," ","Ola Kamar"," ","52392311"," "," ",1
+1,0,"52392312","Account Maintenance",2,3,2,0,0,0,0,2,1,260,26,0,0,0,0,0,0,1,0,61,1,0,2,,"ze&~di)~*da+|3|fj7[!&2","Trasibul","Christopher"," ","Christopher Trasibul"," ","52392312"," "," ",1
+1,0,"52392312","Account Payments",5,8,5,0,0,0,0,5,3,2126,38,0,0,0,0,0,0,3,0,1602,1,0,2,,"ze&~di)~*da+|3|fj7[!&2","Trasibul","Christopher"," ","Christopher Trasibul"," ","52392312"," "," ",1
+1,0,"52392312","Account Updates",1,1,1,0,0,0,0,1,0,125,9,0,0,0,0,0,0,0,0,0,1,0,2,,"ze&~di)~*da+|3|fj7[!&2","Trasibul","Christopher"," ","Christopher Trasibul"," ","52392312"," "," ",1
+1,0,"52392312","Customer Service",21,26,21,0,0,0,0,21,5,9580,228,0,0,0,0,0,0,5,0,1560,1,0,2,,"ze&~di)~*da+|3|fj7[!&2","Trasibul","Christopher"," ","Christopher Trasibul"," ","52392312"," "," ",1
+1,0,"52392312","New Accounts",1,1,1,0,0,0,0,1,0,263,15,0,0,0,0,0,0,0,0,0,1,0,2,,"ze&~di)~*da+|3|fj7[!&2","Trasibul","Christopher"," ","Christopher Trasibul"," ","52392312"," "," ",1
+1,0,"52392312","Transponder Maintenance",9,10,9,0,0,0,0,9,1,5587,144,936,0,0,0,0,0,1,0,300,1,0,2,,"ze&~di)~*da+|3|fj7[!&2","Trasibul","Christopher"," ","Christopher Trasibul"," ","52392312"," "," ",1
+1,0,"52392312","Violation Payment",14,17,14,0,0,0,0,14,3,6672,151,593,0,0,0,0,0,3,0,597,1,0,2,,"ze&~di)~*da+|3|fj7[!&2","Trasibul","Christopher"," ","Christopher Trasibul"," ","52392312"," "," ",1
+1,0,"52392638","Account Maintenance",2,4,2,0,0,0,0,2,2,1925,30,0,0,0,0,0,0,2,0,1896,1,0,2,,"3+o=9;4f&z+k(4{s`.7*$4","Santiago","Jaried"," ","Jaried Santiago"," ","52392638"," "," ",1
+1,0,"52392638","Account Payments",2,3,2,0,0,0,0,2,1,739,30,75,0,0,0,0,0,1,0,325,1,0,2,,"3+o=9;4f&z+k(4{s`.7*$4","Santiago","Jaried"," ","Jaried Santiago"," ","52392638"," "," ",1
+1,0,"52392638","Customer Service",25,32,25,0,0,0,0,25,7,14570,666,852,0,0,0,0,0,7,0,3008,1,0,2,,"3+o=9;4f&z+k(4{s`.7*$4","Santiago","Jaried"," ","Jaried Santiago"," ","52392638"," "," ",1
+1,0,"52392638","Transponder Maintenance",5,8,5,0,0,0,0,5,3,2979,75,402,0,0,0,0,0,3,0,595,1,0,2,,"3+o=9;4f&z+k(4{s`.7*$4","Santiago","Jaried"," ","Jaried Santiago"," ","52392638"," "," ",1
+1,0,"52392638","Violation Payment",9,11,9,0,0,0,0,9,2,5242,159,519,0,0,0,0,0,2,0,341,1,0,2,,"3+o=9;4f&z+k(4{s`.7*$4","Santiago","Jaried"," ","Jaried Santiago"," ","52392638"," "," ",1
+1,0,"52393061","-",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"y6*:;|bh^r~.7pf-^f+,24","Vera","Niurca"," ","Niurca Vera"," ","52393061"," "," ",1
+1,0,"52393061","Account Maintenance",1,1,1,0,0,0,0,1,0,896,11,0,0,0,0,0,0,0,0,0,1,0,2,,"y6*:;|bh^r~.7pf-^f+,24","Vera","Niurca"," ","Niurca Vera"," ","52393061"," "," ",1
+1,0,"52393061","Account Payments",4,5,4,0,0,1,0,4,1,1364,68,396,0,0,0,0,0,1,0,416,1,0,2,,"y6*:;|bh^r~.7pf-^f+,24","Vera","Niurca"," ","Niurca Vera"," ","52393061"," "," ",1
+1,0,"52393061","Customer Service",30,39,30,0,0,2,0,30,9,12249,273,476,0,0,0,0,0,9,0,2668,1,0,2,,"y6*:;|bh^r~.7pf-^f+,24","Vera","Niurca"," ","Niurca Vera"," ","52393061"," "," ",1
+1,0,"52393061","Transponder Maintenance",3,5,3,0,0,0,0,3,2,919,30,0,0,0,0,0,0,2,0,552,1,0,2,,"y6*:;|bh^r~.7pf-^f+,24","Vera","Niurca"," ","Niurca Vera"," ","52393061"," "," ",1
+1,0,"52393061","Violation Payment",17,21,17,0,0,0,0,17,4,6143,167,0,0,0,0,0,0,4,0,1855,1,0,2,,"y6*:;|bh^r~.7pf-^f+,24","Vera","Niurca"," ","Niurca Vera"," ","52393061"," "," ",1
+1,0,"52393072","Account Payments",2,3,2,0,0,0,0,2,1,943,15,0,0,0,0,0,0,1,0,627,1,0,2,,"3)d-d,de&4e.c8,h9j3{94","Pounds","Jacquelyn"," ","Jacquelyn Pounds"," ","52393072"," "," ",1
+1,0,"52393072","Customer Service",14,17,14,0,0,0,0,14,3,7957,30,794,0,0,0,0,0,3,0,657,1,0,2,,"3)d-d,de&4e.c8,h9j3{94","Pounds","Jacquelyn"," ","Jacquelyn Pounds"," ","52393072"," "," ",1
+1,0,"52393072","New Accounts",3,4,3,0,0,0,0,3,1,1435,30,0,0,0,0,0,0,1,0,58,1,0,2,,"3)d-d,de&4e.c8,h9j3{94","Pounds","Jacquelyn"," ","Jacquelyn Pounds"," ","52393072"," "," ",1
+1,0,"52393072","Transponder Maintenance",4,5,4,0,0,0,0,4,1,2562,18,90,0,0,0,0,0,1,0,194,1,0,2,,"3)d-d,de&4e.c8,h9j3{94","Pounds","Jacquelyn"," ","Jacquelyn Pounds"," ","52393072"," "," ",1
+1,0,"52393072","Violation Payment",9,14,9,0,0,0,0,9,5,3976,30,0,0,0,0,0,0,5,0,2808,1,0,2,,"3)d-d,de&4e.c8,h9j3{94","Pounds","Jacquelyn"," ","Jacquelyn Pounds"," ","52393072"," "," ",1
+1,0,"52393205","Account Maintenance",1,2,1,0,0,0,0,1,1,402,15,0,0,0,0,0,0,1,0,278,1,0,2,,"t}sqs)(3&/u/w)2^klx*f2","Burton","Jennifer"," ","Jennifer Burton"," ","52393205"," "," ",1
+1,0,"52393205","Account Payments",3,6,3,0,0,0,0,3,3,1798,869,0,0,0,0,0,0,3,0,1719,1,0,2,,"t}sqs)(3&/u/w)2^klx*f2","Burton","Jennifer"," ","Jennifer Burton"," ","52393205"," "," ",1
+1,0,"52393205","Account Updates",1,1,1,0,0,0,0,1,0,482,162,118,0,0,0,0,0,0,0,0,1,0,2,,"t}sqs)(3&/u/w)2^klx*f2","Burton","Jennifer"," ","Jennifer Burton"," ","52393205"," "," ",1
+1,0,"52393205","Customer Service",22,26,22,0,0,0,0,22,4,11059,2693,304,0,0,0,0,0,4,0,945,1,0,2,,"t}sqs)(3&/u/w)2^klx*f2","Burton","Jennifer"," ","Jennifer Burton"," ","52393205"," "," ",1
+1,0,"52393205","New Accounts",1,1,1,0,0,0,0,1,0,26,15,0,0,0,0,0,0,0,0,0,1,0,2,,"t}sqs)(3&/u/w)2^klx*f2","Burton","Jennifer"," ","Jennifer Burton"," ","52393205"," "," ",1
+1,0,"52393205","Transponder Maintenance",4,7,4,0,0,0,0,4,3,3426,217,286,0,0,0,0,0,3,0,2159,1,0,2,,"t}sqs)(3&/u/w)2^klx*f2","Burton","Jennifer"," ","Jennifer Burton"," ","52393205"," "," ",1
+1,0,"52393205","Violation Payment",9,11,9,0,0,0,0,9,2,3233,1543,181,0,0,0,0,0,2,0,667,1,0,2,,"t}sqs)(3&/u/w)2^klx*f2","Burton","Jennifer"," ","Jennifer Burton"," ","52393205"," "," ",1
+1,0,"52393215","Account Payments",32,46,32,0,0,0,0,32,14,26109,596,668,0,0,0,0,0,14,0,12401,1,0,2,,"?w6uq}sd({m|=k<g&k}451","Tommerdahl","Eric"," ","Eric Tommerdahl"," ","52393215"," "," ",1
+1,0,"52393215","Account Updates",1,2,1,0,0,0,0,1,1,869,15,0,0,0,0,0,0,1,0,854,1,0,2,,"?w6uq}sd({m|=k<g&k}451","Tommerdahl","Eric"," ","Eric Tommerdahl"," ","52393215"," "," ",1
+1,0,"52393635","-",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"[a|\):0>^|m^4yw[ra9273","Spencer","Tammy"," ","Tammy Spencer"," ","52393635"," "," ",1
+1,0,"52393635","Account Maintenance",3,3,3,0,0,0,0,3,0,3616,178,947,0,0,0,0,0,0,0,0,1,0,2,,"[a|\):0>^|m^4yw[ra9273","Spencer","Tammy"," ","Tammy Spencer"," ","52393635"," "," ",1
+1,0,"52393635","Account Payments",2,2,2,0,0,0,0,2,0,1163,493,0,0,0,0,0,0,0,0,0,1,0,2,,"[a|\):0>^|m^4yw[ra9273","Spencer","Tammy"," ","Tammy Spencer"," ","52393635"," "," ",1
+1,0,"52393635","Customer Service",4,5,4,0,0,0,0,4,1,5047,632,1289,0,0,0,0,0,1,0,1036,1,0,2,,"[a|\):0>^|m^4yw[ra9273","Spencer","Tammy"," ","Tammy Spencer"," ","52393635"," "," ",1
+1,0,"52393635","Transponder Maintenance",4,6,4,0,0,0,0,4,2,3444,36,211,0,0,0,0,0,2,0,938,1,0,2,,"[a|\):0>^|m^4yw[ra9273","Spencer","Tammy"," ","Tammy Spencer"," ","52393635"," "," ",1
+1,0,"52393635","Violation Payment",7,7,7,0,0,0,0,7,0,8414,788,1642,0,0,0,0,0,0,0,0,1,0,2,,"[a|\):0>^|m^4yw[ra9273","Spencer","Tammy"," ","Tammy Spencer"," ","52393635"," "," ",1
+1,0,"52393803","Account Maintenance",1,1,1,0,0,0,0,1,0,309,15,0,0,0,0,0,0,0,0,0,1,0,2,,"!fr~#<7{*=>u3>i:}t^+t3","Hammett","Elisha"," ","Elisha Hammett"," ","52393803"," "," ",1
+1,0,"52393803","Account Payments",4,6,4,0,0,0,0,4,2,1651,54,0,0,0,0,0,0,2,0,837,1,0,2,,"!fr~#<7{*=>u3>i:}t^+t3","Hammett","Elisha"," ","Elisha Hammett"," ","52393803"," "," ",1
+1,0,"52393803","Customer Service",24,33,24,0,0,0,0,24,9,10900,739,848,0,0,0,0,0,9,0,3549,1,0,2,,"!fr~#<7{*=>u3>i:}t^+t3","Hammett","Elisha"," ","Elisha Hammett"," ","52393803"," "," ",1
+1,0,"52393803","New Accounts",2,3,2,0,0,0,0,2,1,1672,15,0,0,0,0,0,0,1,0,283,1,0,2,,"!fr~#<7{*=>u3>i:}t^+t3","Hammett","Elisha"," ","Elisha Hammett"," ","52393803"," "," ",1
+1,0,"52393803","Transponder Maintenance",6,7,6,0,0,0,0,6,1,4238,90,235,0,0,0,0,0,1,0,331,1,0,2,,"!fr~#<7{*=>u3>i:}t^+t3","Hammett","Elisha"," ","Elisha Hammett"," ","52393803"," "," ",1
+1,0,"52393803","Violation Payment",15,17,15,0,0,0,0,15,2,5823,1849,325,0,0,0,0,0,2,0,222,1,0,2,,"!fr~#<7{*=>u3>i:}t^+t3","Hammett","Elisha"," ","Elisha Hammett"," ","52393803"," "," ",1
+1,0,"52394030","Account Payments",2,3,2,0,0,0,0,2,1,2371,139,1169,0,0,0,0,0,1,0,816,1,0,2,,"o=h-n=vq*siq3j&tfpepl4","Heron","Dawn Marie"," ","Dawn Marie Heron"," ","52394030"," "," ",1
+1,0,"52394030","Customer Service",16,20,16,0,0,0,0,16,4,12000,192,1334,0,0,0,0,0,4,0,2921,1,0,2,,"o=h-n=vq*siq3j&tfpepl4","Heron","Dawn Marie"," ","Dawn Marie Heron"," ","52394030"," "," ",1
+1,0,"52394030","New Accounts",1,1,1,0,0,0,0,1,0,1528,15,371,0,0,0,0,0,0,0,0,1,0,2,,"o=h-n=vq*siq3j&tfpepl4","Heron","Dawn Marie"," ","Dawn Marie Heron"," ","52394030"," "," ",1
+1,0,"52394030","Transponder Maintenance",3,3,3,0,0,0,0,3,0,3202,45,441,0,0,0,0,0,0,0,0,1,0,2,,"o=h-n=vq*siq3j&tfpepl4","Heron","Dawn Marie"," ","Dawn Marie Heron"," ","52394030"," "," ",1
+1,0,"52394030","Violation Payment",8,11,8,0,0,0,0,8,3,5136,198,1034,0,0,0,0,0,3,0,905,1,0,2,,"o=h-n=vq*siq3j&tfpepl4","Heron","Dawn Marie"," ","Dawn Marie Heron"," ","52394030"," "," ",1
+1,0,"52394105","-",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"<;t8k\,7(aur;2m=a{&.s4","Tyson","Christina "," ","Christina  Tyson"," ","52394105"," "," ",1
+1,0,"52394105","Account Payments",5,6,5,0,0,0,0,5,1,1094,216,0,0,0,0,0,0,1,0,274,1,0,2,,"<;t8k\,7(aur;2m=a{&.s4","Tyson","Christina "," ","Christina  Tyson"," ","52394105"," "," ",1
+1,0,"52394105","Customer Service",28,34,28,0,0,0,0,28,6,10233,1141,1516,0,0,0,0,0,6,0,973,1,0,2,,"<;t8k\,7(aur;2m=a{&.s4","Tyson","Christina "," ","Christina  Tyson"," ","52394105"," "," ",1
+1,0,"52394105","New Accounts",1,1,1,0,0,0,0,1,0,817,32,0,0,0,0,0,0,0,0,0,1,0,2,,"<;t8k\,7(aur;2m=a{&.s4","Tyson","Christina "," ","Christina  Tyson"," ","52394105"," "," ",1
+1,0,"52394105","Transponder Maintenance",5,7,5,0,0,1,0,5,2,1736,264,410,0,0,0,0,0,2,0,619,1,0,2,,"<;t8k\,7(aur;2m=a{&.s4","Tyson","Christina "," ","Christina  Tyson"," ","52394105"," "," ",1
+1,0,"52394105","Violation Payment",10,11,10,0,0,0,0,10,1,3352,618,119,0,0,0,0,0,1,0,614,1,0,2,,"<;t8k\,7(aur;2m=a{&.s4","Tyson","Christina "," ","Christina  Tyson"," ","52394105"," "," ",1
+1,0,"52394424","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"0b!!s`p|*qu+>@l1?vtbh4","Luckett","Jasmine"," ","Jasmine Luckett"," ","52394424"," "," ",1
+1,0,"52394424","Account Maintenance",3,5,3,0,0,0,0,3,2,1650,45,0,0,0,0,0,0,2,0,1452,1,0,2,,"0b!!s`p|*qu+>@l1?vtbh4","Luckett","Jasmine"," ","Jasmine Luckett"," ","52394424"," "," ",1
+1,0,"52394424","Account Payments",7,8,7,0,0,0,0,7,1,2335,90,53,0,0,0,0,0,1,0,381,1,0,2,,"0b!!s`p|*qu+>@l1?vtbh4","Luckett","Jasmine"," ","Jasmine Luckett"," ","52394424"," "," ",1
+1,0,"52394424","Account Updates",1,2,1,0,0,0,0,1,1,191,0,0,0,0,0,0,0,1,0,172,1,0,2,,"0b!!s`p|*qu+>@l1?vtbh4","Luckett","Jasmine"," ","Jasmine Luckett"," ","52394424"," "," ",1
+1,0,"52394424","Customer Service",23,29,23,0,0,0,0,23,6,8198,449,540,0,0,0,0,0,6,0,889,1,0,2,,"0b!!s`p|*qu+>@l1?vtbh4","Luckett","Jasmine"," ","Jasmine Luckett"," ","52394424"," "," ",1
+1,0,"52394424","Transponder Maintenance",11,14,11,0,0,0,0,11,3,2774,109,0,0,0,0,0,0,3,0,463,1,0,2,,"0b!!s`p|*qu+>@l1?vtbh4","Luckett","Jasmine"," ","Jasmine Luckett"," ","52394424"," "," ",1
+1,0,"52394424","Violation Payment",17,24,17,0,0,1,0,17,7,5401,317,876,0,0,0,0,0,7,0,1550,1,0,2,,"0b!!s`p|*qu+>@l1?vtbh4","Luckett","Jasmine"," ","Jasmine Luckett"," ","52394424"," "," ",1
+1,0,"52394516","Account Maintenance",2,3,2,0,0,0,0,2,1,1541,91,0,0,0,0,0,0,1,0,528,1,0,2,,"~ing8}a\&7}}47g^5vt!q1","Hollowell","Gabrielle"," ","Gabrielle Hollowell"," ","52394516"," "," ",1
+1,0,"52394516","Account Payments",4,5,4,0,0,0,0,4,1,898,60,0,0,0,0,0,0,1,0,323,1,0,2,,"~ing8}a\&7}}47g^5vt!q1","Hollowell","Gabrielle"," ","Gabrielle Hollowell"," ","52394516"," "," ",1
+1,0,"52394516","Customer Service",35,46,35,0,0,1,0,35,11,11161,581,0,0,0,0,0,0,11,0,2634,1,0,2,,"~ing8}a\&7}}47g^5vt!q1","Hollowell","Gabrielle"," ","Gabrielle Hollowell"," ","52394516"," "," ",1
+1,0,"52394516","New Accounts",3,4,3,0,0,0,0,3,1,768,45,0,0,0,0,0,0,1,0,213,1,0,2,,"~ing8}a\&7}}47g^5vt!q1","Hollowell","Gabrielle"," ","Gabrielle Hollowell"," ","52394516"," "," ",1
+1,0,"52394516","Transponder Maintenance",6,7,6,0,0,0,0,6,1,2192,83,0,0,0,0,0,0,1,0,264,1,0,2,,"~ing8}a\&7}}47g^5vt!q1","Hollowell","Gabrielle"," ","Gabrielle Hollowell"," ","52394516"," "," ",1
+1,0,"52394516","Violation Payment",13,15,13,0,0,0,0,13,2,5875,187,482,0,0,0,0,0,2,0,929,1,0,2,,"~ing8}a\&7}}47g^5vt!q1","Hollowell","Gabrielle"," ","Gabrielle Hollowell"," ","52394516"," "," ",1
+1,0,"52394525","Account Payments",1,1,1,0,0,0,0,1,0,290,57,0,0,0,0,0,0,0,0,0,1,0,2,,"<cip;4{;*pu/c!#~#4rj23","Ramos Torres","Yasmarie"," ","Yasmarie Ramos Torres"," ","52394525"," "," ",1
+1,0,"52394525","Customer Service",2,2,2,0,0,0,0,2,0,999,15,0,0,0,0,0,0,0,0,0,1,0,2,,"<cip;4{;*pu/c!#~#4rj23","Ramos Torres","Yasmarie"," ","Yasmarie Ramos Torres"," ","52394525"," "," ",1
+1,0,"52394525","Transponder Maintenance",2,4,2,0,0,0,0,2,2,686,30,0,0,0,0,0,0,2,0,663,1,0,2,,"<cip;4{;*pu/c!#~#4rj23","Ramos Torres","Yasmarie"," ","Yasmarie Ramos Torres"," ","52394525"," "," ",1
+1,0,"52394525","Violation Payment",5,8,5,0,0,0,0,5,3,2214,53,127,0,0,0,0,0,3,0,1091,1,0,2,,"<cip;4{;*pu/c!#~#4rj23","Ramos Torres","Yasmarie"," ","Yasmarie Ramos Torres"," ","52394525"," "," ",1
+1,0,"52394841","-",0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,329,1,0,2,,"&bp&d#nn^=3*=qjpm0ez&1","Rodriguez","Darlene"," ","Darlene Rodriguez"," ","52394841"," "," ",1
+1,0,"52394841","Account Maintenance",1,1,1,0,0,0,0,1,0,560,0,170,0,0,0,0,0,0,0,0,1,0,2,,"&bp&d#nn^=3*=qjpm0ez&1","Rodriguez","Darlene"," ","Darlene Rodriguez"," ","52394841"," "," ",1
+1,0,"52394841","Account Payments",4,4,4,0,0,0,0,4,0,2404,269,301,0,0,0,0,0,0,0,0,1,0,2,,"&bp&d#nn^=3*=qjpm0ez&1","Rodriguez","Darlene"," ","Darlene Rodriguez"," ","52394841"," "," ",1
+1,0,"52394841","Account Updates",1,1,1,0,0,0,0,1,0,238,831,0,0,0,0,0,0,0,0,0,1,0,2,,"&bp&d#nn^=3*=qjpm0ez&1","Rodriguez","Darlene"," ","Darlene Rodriguez"," ","52394841"," "," ",1
+1,0,"52394841","Customer Service",20,26,20,0,0,1,0,20,6,12753,1854,251,0,0,0,0,0,6,0,3714,1,0,2,,"&bp&d#nn^=3*=qjpm0ez&1","Rodriguez","Darlene"," ","Darlene Rodriguez"," ","52394841"," "," ",1
+1,0,"52394841","New Accounts",2,4,2,0,0,0,0,2,2,871,25,0,0,0,0,0,0,2,0,868,1,0,2,,"&bp&d#nn^=3*=qjpm0ez&1","Rodriguez","Darlene"," ","Darlene Rodriguez"," ","52394841"," "," ",1
+1,0,"52394841","Transponder Maintenance",2,3,2,0,0,0,0,2,1,250,30,0,0,0,0,0,0,1,0,59,1,0,2,,"&bp&d#nn^=3*=qjpm0ez&1","Rodriguez","Darlene"," ","Darlene Rodriguez"," ","52394841"," "," ",1
+1,0,"52394841","Violation Payment",14,18,14,0,0,0,0,14,4,5802,976,766,0,0,0,0,0,4,0,953,1,0,2,,"&bp&d#nn^=3*=qjpm0ez&1","Rodriguez","Darlene"," ","Darlene Rodriguez"," ","52394841"," "," ",1
+1,0,"52395901","Account Maintenance",1,1,1,0,0,0,0,1,0,326,8,0,0,0,0,0,0,0,0,0,1,0,2,,"|>em)@?^*|yw)*,].8ri{3","Brooks","Charisse"," ","Charisse Brooks"," ","52395901"," "," ",1
+1,0,"52395901","Account Payments",2,3,2,0,0,0,0,2,1,880,30,0,0,0,0,0,0,1,0,507,1,0,2,,"|>em)@?^*|yw)*,].8ri{3","Brooks","Charisse"," ","Charisse Brooks"," ","52395901"," "," ",1
+1,0,"52395901","Customer Service",7,9,7,0,0,0,0,7,2,7062,193,361,0,0,0,0,0,2,0,1961,1,0,2,,"|>em)@?^*|yw)*,].8ri{3","Brooks","Charisse"," ","Charisse Brooks"," ","52395901"," "," ",1
+1,0,"52395901","Transponder Maintenance",2,2,2,0,0,0,0,2,0,1020,30,0,0,0,0,0,0,0,0,0,1,0,2,,"|>em)@?^*|yw)*,].8ri{3","Brooks","Charisse"," ","Charisse Brooks"," ","52395901"," "," ",1
+1,0,"52395901","Violation Payment",5,7,5,0,0,1,0,5,2,2679,75,0,0,0,0,0,0,2,0,1234,1,0,2,,"|>em)@?^*|yw)*,].8ri{3","Brooks","Charisse"," ","Charisse Brooks"," ","52395901"," "," ",1
+1,0,"52396253","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"(*2j!!`v*+#>o*7^$l|0@1","Shade","Selena"," ","Selena Shade"," ","52396253"," "," ",1
+1,0,"52396253","Account Payments",5,8,5,0,0,1,0,5,3,2432,181,189,0,0,0,0,0,3,0,721,1,0,2,,"(*2j!!`v*+#>o*7^$l|0@1","Shade","Selena"," ","Selena Shade"," ","52396253"," "," ",1
+1,0,"52396253","Customer Service",18,24,18,0,0,1,0,18,6,12153,756,204,0,0,0,0,0,6,0,4691,1,0,2,,"(*2j!!`v*+#>o*7^$l|0@1","Shade","Selena"," ","Selena Shade"," ","52396253"," "," ",1
+1,0,"52396253","New Accounts",1,1,1,0,0,0,0,1,0,199,15,0,0,0,0,0,0,0,0,0,1,0,2,,"(*2j!!`v*+#>o*7^$l|0@1","Shade","Selena"," ","Selena Shade"," ","52396253"," "," ",1
+1,0,"52396253","Transponder Maintenance",10,15,10,0,0,0,0,10,5,5049,718,0,0,0,0,0,0,5,0,1304,1,0,2,,"(*2j!!`v*+#>o*7^$l|0@1","Shade","Selena"," ","Selena Shade"," ","52396253"," "," ",1
+1,0,"52396253","Violation Payment",7,9,7,0,0,1,0,7,2,3893,149,172,0,0,0,0,0,2,0,673,1,0,2,,"(*2j!!`v*+#>o*7^$l|0@1","Shade","Selena"," ","Selena Shade"," ","52396253"," "," ",1
+1,0,"52396493","Account Payments",1,1,1,0,0,0,0,1,0,46,9,0,0,0,0,0,0,0,0,0,1,0,2,,"1ylmmh&*&`+^yu6}#{&#b1","Rolle","Avia"," ","Avia Rolle"," ","52396493"," "," ",1
+1,0,"52396493","Customer Service",8,9,8,0,0,1,0,8,1,3182,421,347,0,0,0,0,0,1,0,300,1,0,2,,"1ylmmh&*&`+^yu6}#{&#b1","Rolle","Avia"," ","Avia Rolle"," ","52396493"," "," ",1
+1,0,"52396493","New Accounts",1,1,1,0,0,0,0,1,0,1513,102,182,0,0,0,0,0,0,0,0,1,0,2,,"1ylmmh&*&`+^yu6}#{&#b1","Rolle","Avia"," ","Avia Rolle"," ","52396493"," "," ",1
+1,0,"52396493","Transponder Maintenance",6,8,6,0,0,0,0,6,2,3218,269,634,0,0,0,0,0,2,0,559,1,0,2,,"1ylmmh&*&`+^yu6}#{&#b1","Rolle","Avia"," ","Avia Rolle"," ","52396493"," "," ",1
+1,0,"52396493","Violation Payment",5,5,5,0,0,0,0,5,0,2617,90,313,0,0,0,0,0,0,0,0,1,0,2,,"1ylmmh&*&`+^yu6}#{&#b1","Rolle","Avia"," ","Avia Rolle"," ","52396493"," "," ",1
+1,0,"52396776","Account Payments",6,7,6,0,0,0,0,6,1,3072,757,0,0,0,0,0,0,1,0,33,1,0,2,,"mw*m~p`4*@;9+pn|6<))&4","Smith","Rejai"," ","Rejai Smith"," ","52396776"," "," ",1
+1,0,"52396776","Customer Service",14,20,14,0,0,0,0,14,6,7479,1065,585,0,0,0,0,0,6,0,2447,1,0,2,,"mw*m~p`4*@;9+pn|6<))&4","Smith","Rejai"," ","Rejai Smith"," ","52396776"," "," ",1
+1,0,"52396776","Transponder Maintenance",3,3,3,0,0,0,0,3,0,1931,178,50,0,0,0,0,0,0,0,0,1,0,2,,"mw*m~p`4*@;9+pn|6<))&4","Smith","Rejai"," ","Rejai Smith"," ","52396776"," "," ",1
+1,0,"52396776","Violation Payment",6,10,6,0,0,0,0,6,4,1969,715,105,0,0,0,0,0,4,0,1130,1,0,2,,"mw*m~p`4*@;9+pn|6<))&4","Smith","Rejai"," ","Rejai Smith"," ","52396776"," "," ",1
+1,0,"52396927","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"fy|c@h[>&6eo<s!a)upvb4","Gershberg","Allan"," ","Allan Gershberg"," ","52396927"," "," ",1
+1,0,"52396927","Account Maintenance",1,1,1,0,0,0,0,1,0,217,25,0,0,0,0,0,0,0,0,0,1,0,2,,"fy|c@h[>&6eo<s!a)upvb4","Gershberg","Allan"," ","Allan Gershberg"," ","52396927"," "," ",1
+1,0,"52396927","Account Payments",2,3,2,0,0,0,0,2,1,538,166,0,0,0,0,0,0,1,0,190,1,0,2,,"fy|c@h[>&6eo<s!a)upvb4","Gershberg","Allan"," ","Allan Gershberg"," ","52396927"," "," ",1
+1,0,"52396927","Customer Service",41,55,41,0,0,1,0,41,14,15607,1760,49,0,0,0,0,0,14,0,4991,1,0,2,,"fy|c@h[>&6eo<s!a)upvb4","Gershberg","Allan"," ","Allan Gershberg"," ","52396927"," "," ",1
+1,0,"52396927","New Accounts",4,5,4,0,0,0,0,4,1,1805,140,20,0,0,0,0,0,1,0,290,1,0,2,,"fy|c@h[>&6eo<s!a)upvb4","Gershberg","Allan"," ","Allan Gershberg"," ","52396927"," "," ",1
+1,0,"52396927","Transponder Maintenance",3,5,3,0,0,0,0,3,2,630,18,0,0,0,0,0,0,2,0,427,1,0,2,,"fy|c@h[>&6eo<s!a)upvb4","Gershberg","Allan"," ","Allan Gershberg"," ","52396927"," "," ",1
+1,0,"52396927","Violation Payment",16,23,16,0,0,0,0,16,7,5160,1043,0,0,0,0,0,0,7,0,1842,1,0,2,,"fy|c@h[>&6eo<s!a)upvb4","Gershberg","Allan"," ","Allan Gershberg"," ","52396927"," "," ",1
+1,0,"52397103","Account Payments",2,2,2,0,0,0,0,2,0,970,169,138,0,0,0,0,0,0,0,0,1,0,2,,"~~^!#y`r*x7<llpn4tq:;3","Stevenson","Breanna"," ","Breanna Stevenson"," ","52397103"," "," ",1
+1,0,"52397103","Account Updates",1,1,1,0,0,0,0,1,0,570,119,0,0,0,0,0,0,0,0,0,1,0,2,,"~~^!#y`r*x7<llpn4tq:;3","Stevenson","Breanna"," ","Breanna Stevenson"," ","52397103"," "," ",1
+1,0,"52397103","Customer Service",15,16,15,0,0,2,0,15,1,6573,1304,758,0,0,0,0,0,1,0,116,1,0,2,,"~~^!#y`r*x7<llpn4tq:;3","Stevenson","Breanna"," ","Breanna Stevenson"," ","52397103"," "," ",1
+1,0,"52397103","New Accounts",1,1,1,0,0,0,0,1,0,249,114,0,0,0,0,0,0,0,0,0,1,0,2,,"~~^!#y`r*x7<llpn4tq:;3","Stevenson","Breanna"," ","Breanna Stevenson"," ","52397103"," "," ",1
+1,0,"52397103","Transponder Maintenance",4,6,4,0,0,0,0,4,2,2540,244,0,0,0,0,0,0,2,0,1251,1,0,2,,"~~^!#y`r*x7<llpn4tq:;3","Stevenson","Breanna"," ","Breanna Stevenson"," ","52397103"," "," ",1
+1,0,"52397103","Violation Payment",5,6,5,0,0,0,0,5,1,2367,393,73,0,0,0,0,0,1,0,642,1,0,2,,"~~^!#y`r*x7<llpn4tq:;3","Stevenson","Breanna"," ","Breanna Stevenson"," ","52397103"," "," ",1
+1,0,"52397107","Account Maintenance",1,1,1,0,0,0,0,1,0,896,0,0,0,0,0,0,0,0,0,0,1,0,2,,"fa08f-~n(4;~#9g<stg-12","Swinson","Jacqueline "," ","Jacqueline  Swinson"," ","52397107"," "," ",1
+1,0,"52397107","Account Payments",6,8,6,0,0,0,0,6,2,3157,265,0,0,0,0,0,0,2,0,1372,1,0,2,,"fa08f-~n(4;~#9g<stg-12","Swinson","Jacqueline "," ","Jacqueline  Swinson"," ","52397107"," "," ",1
+1,0,"52397107","Customer Service",17,22,17,0,0,0,0,17,5,13665,1188,292,0,0,0,0,0,5,0,4718,1,0,2,,"fa08f-~n(4;~#9g<stg-12","Swinson","Jacqueline "," ","Jacqueline  Swinson"," ","52397107"," "," ",1
+1,0,"52397107","Transponder Maintenance",4,6,4,0,0,0,0,4,2,2333,100,66,0,0,0,0,0,2,0,1271,1,0,2,,"fa08f-~n(4;~#9g<stg-12","Swinson","Jacqueline "," ","Jacqueline  Swinson"," ","52397107"," "," ",1
+1,0,"52397107","Violation Payment",8,10,8,0,0,0,0,8,2,4214,616,198,0,0,0,0,0,2,0,660,1,0,2,,"fa08f-~n(4;~#9g<stg-12","Swinson","Jacqueline "," ","Jacqueline  Swinson"," ","52397107"," "," ",1
+1,0,"52397249","Spanish Account Maintenance",1,1,1,0,0,0,0,1,0,449,15,0,0,0,0,0,0,0,0,0,1,0,2,,"r}\;=]d/(uy{+kzl#1!<g2","Hernandez","Loraine"," ","Loraine Hernandez"," ","52397249"," "," ",1
+1,0,"52397249","Spanish Account Payments",6,7,6,0,0,0,0,6,1,6453,175,664,0,0,0,0,0,1,0,1139,1,0,2,,"r}\;=]d/(uy{+kzl#1!<g2","Hernandez","Loraine"," ","Loraine Hernandez"," ","52397249"," "," ",1
+1,0,"52397249","Spanish Customer Service",30,40,29,0,1,0,0,29,11,15642,1306,18,0,0,0,0,0,11,0,4075,1,0,2,,"r}\;=]d/(uy{+kzl#1!<g2","Hernandez","Loraine"," ","Loraine Hernandez"," ","52397249"," "," ",1
+1,0,"52397249","Spanish Transponder Maintenance",1,1,1,0,0,0,0,1,0,733,62,0,0,0,0,0,0,0,0,0,1,0,2,,"r}\;=]d/(uy{+kzl#1!<g2","Hernandez","Loraine"," ","Loraine Hernandez"," ","52397249"," "," ",1
+1,0,"52397249","Spanish Violation Payment",7,7,7,0,0,0,0,7,0,3409,685,395,0,0,0,0,0,0,0,0,1,0,2,,"r}\;=]d/(uy{+kzl#1!<g2","Hernandez","Loraine"," ","Loraine Hernandez"," ","52397249"," "," ",1
+1,0,"52397252","-",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"^09i9yx@(fqwca0ls]y1g1","Pierre-Francois","Shad Lexie"," ","Shad Lexie Pierre-Francois"," ","52397252"," "," ",1
+1,0,"52397252","Account Maintenance",1,2,1,0,0,0,0,1,1,677,6,0,0,0,0,0,0,1,0,564,1,0,2,,"^09i9yx@(fqwca0ls]y1g1","Pierre-Francois","Shad Lexie"," ","Shad Lexie Pierre-Francois"," ","52397252"," "," ",1
+1,0,"52397252","Account Payments",2,2,2,0,0,0,0,2,0,1372,378,278,0,0,0,0,0,0,0,0,1,0,2,,"^09i9yx@(fqwca0ls]y1g1","Pierre-Francois","Shad Lexie"," ","Shad Lexie Pierre-Francois"," ","52397252"," "," ",1
+1,0,"52397252","Customer Service",14,16,14,0,0,1,0,14,2,12431,1570,866,0,0,0,0,0,2,0,2199,1,0,2,,"^09i9yx@(fqwca0ls]y1g1","Pierre-Francois","Shad Lexie"," ","Shad Lexie Pierre-Francois"," ","52397252"," "," ",1
+1,0,"52397252","Transponder Maintenance",4,6,4,0,0,1,0,4,2,2363,273,117,0,0,0,0,0,2,0,759,1,0,2,,"^09i9yx@(fqwca0ls]y1g1","Pierre-Francois","Shad Lexie"," ","Shad Lexie Pierre-Francois"," ","52397252"," "," ",1
+1,0,"52397252","Violation Payment",10,13,10,0,0,1,0,10,3,8275,974,470,0,0,0,0,0,3,0,1410,1,0,2,,"^09i9yx@(fqwca0ls]y1g1","Pierre-Francois","Shad Lexie"," ","Shad Lexie Pierre-Francois"," ","52397252"," "," ",1
+1,0,"52397376","Account Payments",4,6,4,0,0,0,0,4,2,1801,60,0,0,0,0,0,0,2,0,641,1,0,2,,"oh\h^9,`^u#uczipo2>jl4","Herrera","Christian"," ","Christian Herrera"," ","52397376"," "," ",1
+1,0,"52397376","Account Updates",2,3,2,0,0,0,0,2,1,493,30,0,0,0,0,0,0,1,0,252,1,0,2,,"oh\h^9,`^u#uczipo2>jl4","Herrera","Christian"," ","Christian Herrera"," ","52397376"," "," ",1
+1,0,"52397376","Customer Service",19,25,19,0,0,1,0,19,6,8312,605,263,0,0,0,0,0,6,0,1655,1,0,2,,"oh\h^9,`^u#uczipo2>jl4","Herrera","Christian"," ","Christian Herrera"," ","52397376"," "," ",1
+1,0,"52397376","New Accounts",2,2,2,0,0,0,0,2,0,1948,136,299,0,0,0,0,0,0,0,0,1,0,2,,"oh\h^9,`^u#uczipo2>jl4","Herrera","Christian"," ","Christian Herrera"," ","52397376"," "," ",1
+1,0,"52397376","Transponder Maintenance",10,14,10,0,0,0,0,10,4,4862,424,49,0,0,0,0,0,4,0,1887,1,0,2,,"oh\h^9,`^u#uczipo2>jl4","Herrera","Christian"," ","Christian Herrera"," ","52397376"," "," ",1
+1,0,"52397376","Violation Payment",13,17,13,0,0,0,0,13,4,6864,676,0,0,0,0,0,0,4,0,2130,1,0,2,,"oh\h^9,`^u#uczipo2>jl4","Herrera","Christian"," ","Christian Herrera"," ","52397376"," "," ",1
+1,0,"52397845","Spanish Account Maintenance",1,1,1,0,0,0,0,1,0,486,188,0,0,0,0,0,0,0,0,0,1,0,2,,"2{;y@56|^$~uh1+6~-/[:2","Barioni","Paula"," ","Paula Barioni"," ","52397845"," "," ",1
+1,0,"52397845","Spanish Account Payments",6,9,6,0,0,1,0,6,3,3819,310,208,0,0,0,0,0,3,0,913,1,0,2,,"2{;y@56|^$~uh1+6~-/[:2","Barioni","Paula"," ","Paula Barioni"," ","52397845"," "," ",1
+1,0,"52397845","Spanish Customer Service",22,32,22,0,0,2,0,22,10,12783,1278,80,0,0,0,0,0,10,0,6017,1,0,2,,"2{;y@56|^$~uh1+6~-/[:2","Barioni","Paula"," ","Paula Barioni"," ","52397845"," "," ",1
+1,0,"52397845","Spanish New Accounts",2,2,2,0,0,0,0,2,0,1320,266,61,0,0,0,0,0,0,0,0,1,0,2,,"2{;y@56|^$~uh1+6~-/[:2","Barioni","Paula"," ","Paula Barioni"," ","52397845"," "," ",1
+1,0,"52397845","Spanish Transponder Maintenance",3,4,3,0,0,0,0,3,1,3047,108,226,0,0,0,0,0,1,0,1115,1,0,2,,"2{;y@56|^$~uh1+6~-/[:2","Barioni","Paula"," ","Paula Barioni"," ","52397845"," "," ",1
+1,0,"52397845","Spanish Violation Payment",6,6,6,0,0,1,0,6,0,2025,433,103,0,0,0,0,0,0,0,0,1,0,2,,"2{;y@56|^$~uh1+6~-/[:2","Barioni","Paula"," ","Paula Barioni"," ","52397845"," "," ",1
+1,0,"52398079","-",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"&v{7bi{.&l;0><}}y2fvh4","Nicolas","Crystal"," ","Crystal Nicolas"," ","52398079"," "," ",1
+1,0,"52398079","Account Maintenance",1,2,1,0,0,0,0,1,1,266,15,0,0,0,0,0,0,1,0,261,1,0,2,,"&v{7bi{.&l;0><}}y2fvh4","Nicolas","Crystal"," ","Crystal Nicolas"," ","52398079"," "," ",1
+1,0,"52398079","Account Payments",5,5,5,0,0,0,0,5,0,2580,75,501,0,0,0,0,0,0,0,0,1,0,2,,"&v{7bi{.&l;0><}}y2fvh4","Nicolas","Crystal"," ","Crystal Nicolas"," ","52398079"," "," ",1
+1,0,"52398079","Customer Service",13,19,13,0,0,1,0,13,6,10007,403,1522,0,0,0,0,0,6,0,5435,1,0,2,,"&v{7bi{.&l;0><}}y2fvh4","Nicolas","Crystal"," ","Crystal Nicolas"," ","52398079"," "," ",1
+1,0,"52398079","New Accounts",3,3,3,0,0,0,0,3,0,2685,123,502,0,0,0,0,0,0,0,0,1,0,2,,"&v{7bi{.&l;0><}}y2fvh4","Nicolas","Crystal"," ","Crystal Nicolas"," ","52398079"," "," ",1
+1,0,"52398079","Transponder Maintenance",2,3,2,0,0,0,0,2,1,934,15,48,0,0,0,0,0,1,0,61,1,0,2,,"&v{7bi{.&l;0><}}y2fvh4","Nicolas","Crystal"," ","Crystal Nicolas"," ","52398079"," "," ",1
+1,0,"52398079","Violation Payment",11,13,11,0,0,0,0,11,2,7213,288,1595,0,0,0,0,0,2,0,1681,1,0,2,,"&v{7bi{.&l;0><}}y2fvh4","Nicolas","Crystal"," ","Crystal Nicolas"," ","52398079"," "," ",1
+1,0,"52398180","-",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,")}?>w[hx(53n*[-5`fm1x3","Katz","Robert"," ","Robert Katz"," ","52398180"," "," ",1
+1,0,"52398180","Account Payments",4,5,4,0,0,0,0,4,1,1709,472,0,0,0,0,0,0,1,0,881,1,0,2,,")}?>w[hx(53n*[-5`fm1x3","Katz","Robert"," ","Robert Katz"," ","52398180"," "," ",1
+1,0,"52398180","Customer Service",14,16,14,0,0,1,0,14,2,15534,3974,1562,0,0,0,0,0,2,0,1326,1,0,2,,")}?>w[hx(53n*[-5`fm1x3","Katz","Robert"," ","Robert Katz"," ","52398180"," "," ",1
+1,0,"52398180","Transponder Maintenance",1,1,1,0,0,0,0,1,0,277,89,0,0,0,0,0,0,0,0,0,1,0,2,,")}?>w[hx(53n*[-5`fm1x3","Katz","Robert"," ","Robert Katz"," ","52398180"," "," ",1
+1,0,"52398180","Violation Payment",7,9,6,0,1,1,0,6,3,6264,2034,360,0,0,0,0,0,3,0,2384,1,0,2,,")}?>w[hx(53n*[-5`fm1x3","Katz","Robert"," ","Robert Katz"," ","52398180"," "," ",1
+1,0,"52398334","Account Maintenance",2,2,2,0,0,0,0,2,0,397,172,0,0,0,0,0,0,0,0,0,1,0,2,,"^0i72\+}&6ejlwumqs|>t1","Friberg","Basil"," ","Basil Friberg"," ","52398334"," "," ",1
+1,0,"52398334","Account Payments",1,1,1,0,0,0,0,1,0,757,179,0,0,0,0,0,0,0,0,0,1,0,2,,"^0i72\+}&6ejlwumqs|>t1","Friberg","Basil"," ","Basil Friberg"," ","52398334"," "," ",1
+1,0,"52398334","Customer Service",19,25,19,0,0,0,0,19,6,10432,1101,1381,0,0,0,0,0,6,0,2931,1,0,2,,"^0i72\+}&6ejlwumqs|>t1","Friberg","Basil"," ","Basil Friberg"," ","52398334"," "," ",1
+1,0,"52398334","New Accounts",2,3,2,0,0,0,0,2,1,1530,170,129,0,0,0,0,0,1,0,526,1,0,2,,"^0i72\+}&6ejlwumqs|>t1","Friberg","Basil"," ","Basil Friberg"," ","52398334"," "," ",1
+1,0,"52398334","Transponder Maintenance",9,12,9,0,0,0,0,9,3,4186,320,262,0,0,0,0,0,3,0,1067,1,0,2,,"^0i72\+}&6ejlwumqs|>t1","Friberg","Basil"," ","Basil Friberg"," ","52398334"," "," ",1
+1,0,"52398334","Violation Payment",13,17,13,0,0,0,0,13,4,7460,531,483,0,0,0,0,0,4,0,1684,1,0,2,,"^0i72\+}&6ejlwumqs|>t1","Friberg","Basil"," ","Basil Friberg"," ","52398334"," "," ",1
+1,0,"52398818","-",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"a*`/`5>g*nm21~b~n^9k,1","Floyd","Channyla"," ","Channyla Floyd"," ","52398818"," "," ",1
+1,0,"52398818","Account Payments",2,3,2,0,0,0,0,2,1,1283,169,84,0,0,0,0,0,1,0,215,1,0,2,,"a*`/`5>g*nm21~b~n^9k,1","Floyd","Channyla"," ","Channyla Floyd"," ","52398818"," "," ",1
+1,0,"52398818","Account Updates",1,1,1,0,0,0,0,1,0,263,15,0,0,0,0,0,0,0,0,0,1,0,2,,"a*`/`5>g*nm21~b~n^9k,1","Floyd","Channyla"," ","Channyla Floyd"," ","52398818"," "," ",1
+1,0,"52398818","Customer Service",24,30,24,0,0,2,0,24,6,11470,1748,617,0,0,0,0,0,6,0,3201,1,0,2,,"a*`/`5>g*nm21~b~n^9k,1","Floyd","Channyla"," ","Channyla Floyd"," ","52398818"," "," ",1
+1,0,"52398818","New Accounts",1,1,1,0,0,0,0,1,0,249,15,0,0,0,0,0,0,0,0,0,1,0,2,,"a*`/`5>g*nm21~b~n^9k,1","Floyd","Channyla"," ","Channyla Floyd"," ","52398818"," "," ",1
+1,0,"52398818","Transponder Maintenance",8,10,8,0,0,0,0,8,2,3425,152,476,0,0,0,0,0,2,0,257,1,0,2,,"a*`/`5>g*nm21~b~n^9k,1","Floyd","Channyla"," ","Channyla Floyd"," ","52398818"," "," ",1
+1,0,"52398818","Violation Payment",16,23,16,0,0,0,0,16,7,5492,577,734,0,0,0,0,0,7,0,2160,1,0,2,,"a*`/`5>g*nm21~b~n^9k,1","Floyd","Channyla"," ","Channyla Floyd"," ","52398818"," "," ",1
+1,0,"52398884","Spanish Account Maintenance",1,1,1,0,0,0,0,1,0,503,15,0,0,0,0,0,0,0,0,0,1,0,2,,"d7&`~n7#^uillgel^b,m42","Duran","Lilia"," ","Lilia Duran"," ","52398884"," "," ",1
+1,0,"52398884","Spanish Account Payments",4,6,4,0,0,0,0,4,2,4393,140,275,0,0,0,0,0,2,0,448,1,0,2,,"d7&`~n7#^uillgel^b,m42","Duran","Lilia"," ","Lilia Duran"," ","52398884"," "," ",1
+1,0,"52398884","Spanish Customer Service",20,24,20,0,0,0,0,20,4,17091,312,1031,0,0,0,0,0,4,0,3360,1,0,2,,"d7&`~n7#^uillgel^b,m42","Duran","Lilia"," ","Lilia Duran"," ","52398884"," "," ",1
+1,0,"52398884","Spanish New Accounts",1,1,1,0,0,0,0,1,0,646,15,0,0,0,0,0,0,0,0,0,1,0,2,,"d7&`~n7#^uillgel^b,m42","Duran","Lilia"," ","Lilia Duran"," ","52398884"," "," ",1
+1,0,"52398884","Spanish Violation Payment",8,8,8,0,0,0,0,8,0,5619,120,74,0,0,0,0,0,0,0,0,1,0,2,,"d7&`~n7#^uillgel^b,m42","Duran","Lilia"," ","Lilia Duran"," ","52398884"," "," ",1
+1,0,"52398963","-",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"b+y:/fw6&$m0x,w`]{t@=2","Merla","Michele"," ","Michele Merla"," ","52398963"," "," ",1
+1,0,"52398963","Account Payments",5,6,5,0,0,0,0,5,1,2931,75,98,0,0,0,0,0,1,0,528,1,0,2,,"b+y:/fw6&$m0x,w`]{t@=2","Merla","Michele"," ","Michele Merla"," ","52398963"," "," ",1
+1,0,"52398963","Customer Service",19,24,19,0,0,1,0,19,5,10493,267,463,0,0,0,0,0,5,0,2329,1,0,2,,"b+y:/fw6&$m0x,w`]{t@=2","Merla","Michele"," ","Michele Merla"," ","52398963"," "," ",1
+1,0,"52398963","New Accounts",3,4,3,0,0,0,0,3,1,1393,45,279,0,0,0,0,0,1,0,105,1,0,2,,"b+y:/fw6&$m0x,w`]{t@=2","Merla","Michele"," ","Michele Merla"," ","52398963"," "," ",1
+1,0,"52398963","Transponder Maintenance",7,8,7,0,0,0,0,7,1,3748,93,0,0,0,0,0,0,1,0,710,1,0,2,,"b+y:/fw6&$m0x,w`]{t@=2","Merla","Michele"," ","Michele Merla"," ","52398963"," "," ",1
+1,0,"52398963","Violation Payment",12,14,12,0,0,1,0,12,2,7309,180,1008,0,0,0,0,0,2,0,751,1,0,2,,"b+y:/fw6&$m0x,w`]{t@=2","Merla","Michele"," ","Michele Merla"," ","52398963"," "," ",1
+1,0,"52398970","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"rk,/5sym*iy(+m/0@u(g83","Auguste","Jamesha"," ","Jamesha Auguste"," ","52398970"," "," ",1
+1,0,"52398970","Account Payments",4,6,4,0,0,1,0,4,2,2324,79,200,0,0,0,0,0,2,0,1253,1,0,2,,"rk,/5sym*iy(+m/0@u(g83","Auguste","Jamesha"," ","Jamesha Auguste"," ","52398970"," "," ",1
+1,0,"52398970","Customer Service",19,25,19,0,0,0,0,19,6,15671,272,610,0,0,0,0,0,6,0,3539,1,0,2,,"rk,/5sym*iy(+m/0@u(g83","Auguste","Jamesha"," ","Jamesha Auguste"," ","52398970"," "," ",1
+1,0,"52398970","Transponder Maintenance",5,6,5,0,0,0,0,5,1,4113,51,683,0,0,0,0,0,1,0,297,1,0,2,,"rk,/5sym*iy(+m/0@u(g83","Auguste","Jamesha"," ","Jamesha Auguste"," ","52398970"," "," ",1
+1,0,"52398970","Violation Payment",7,8,7,0,0,0,0,7,1,3484,84,477,0,0,0,0,0,1,0,597,1,0,2,,"rk,/5sym*iy(+m/0@u(g83","Auguste","Jamesha"," ","Jamesha Auguste"," ","52398970"," "," ",1
+1,0,"52399207","Account Payments",2,2,2,0,0,0,0,2,0,778,30,84,0,0,0,0,0,0,0,0,1,0,2,,"lug@@jc+*9aq|)l\zb[nj2","Nelson","Kimberly"," ","Kimberly Nelson"," ","52399207"," "," ",1
+1,0,"52399207","Customer Service",12,19,12,0,0,0,0,12,7,10624,168,785,0,0,0,0,0,7,0,4998,1,0,2,,"lug@@jc+*9aq|)l\zb[nj2","Nelson","Kimberly"," ","Kimberly Nelson"," ","52399207"," "," ",1
+1,0,"52399207","Transponder Maintenance",4,5,4,0,0,0,0,4,1,2433,52,426,0,0,0,0,0,1,0,505,1,0,2,,"lug@@jc+*9aq|)l\zb[nj2","Nelson","Kimberly"," ","Kimberly Nelson"," ","52399207"," "," ",1
+1,0,"52399207","Violation Payment",6,9,6,0,0,0,0,6,3,5954,87,683,0,0,0,0,0,3,0,1813,1,0,2,,"lug@@jc+*9aq|)l\zb[nj2","Nelson","Kimberly"," ","Kimberly Nelson"," ","52399207"," "," ",1
+1,0,"52399284","Account Maintenance",1,1,1,0,0,0,0,1,0,182,15,0,0,0,0,0,0,0,0,0,1,0,2,,"`(af6@\{*]}(/=on,}o583","Monplaisir","Rubin"," ","Rubin Monplaisir"," ","52399284"," "," ",1
+1,0,"52399284","Account Payments",2,3,2,0,0,0,0,2,1,393,30,0,0,0,0,0,0,1,0,270,1,0,2,,"`(af6@\{*]}(/=on,}o583","Monplaisir","Rubin"," ","Rubin Monplaisir"," ","52399284"," "," ",1
+1,0,"52399284","Customer Service",15,18,14,0,1,0,0,14,4,12200,194,1446,0,0,0,0,0,4,0,2964,1,0,2,,"`(af6@\{*]}(/=on,}o583","Monplaisir","Rubin"," ","Rubin Monplaisir"," ","52399284"," "," ",1
+1,0,"52399284","New Accounts",1,1,1,0,0,0,0,1,0,600,15,0,0,0,0,0,0,0,0,0,1,0,2,,"`(af6@\{*]}(/=on,}o583","Monplaisir","Rubin"," ","Rubin Monplaisir"," ","52399284"," "," ",1
+1,0,"52399284","Transponder Maintenance",8,13,8,0,0,0,0,8,5,2963,284,0,0,0,0,0,0,5,0,1257,1,0,2,,"`(af6@\{*]}(/=on,}o583","Monplaisir","Rubin"," ","Rubin Monplaisir"," ","52399284"," "," ",1
+1,0,"52399284","Violation Payment",17,20,17,0,0,0,0,17,3,9793,306,420,0,0,0,0,0,3,0,842,1,0,2,,"`(af6@\{*]}(/=on,}o583","Monplaisir","Rubin"," ","Rubin Monplaisir"," ","52399284"," "," ",1
+1,0,"52399452","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"|?;vu4t]&1eq~f\m\8-ks4","Campbell","Davin"," ","Davin Campbell"," ","52399452"," "," ",1
+1,0,"52399452","Account Maintenance",1,2,1,0,0,0,0,1,1,1490,15,0,0,0,0,0,0,1,0,1406,1,0,2,,"|?;vu4t]&1eq~f\m\8-ks4","Campbell","Davin"," ","Davin Campbell"," ","52399452"," "," ",1
+1,0,"52399452","Account Payments",4,4,4,0,0,0,0,4,0,1803,561,143,0,0,0,0,0,0,0,0,1,0,2,,"|?;vu4t]&1eq~f\m\8-ks4","Campbell","Davin"," ","Davin Campbell"," ","52399452"," "," ",1
+1,0,"52399452","Customer Service",23,31,23,0,0,0,0,23,8,13776,1557,1149,0,0,0,0,0,8,0,4907,1,0,2,,"|?;vu4t]&1eq~f\m\8-ks4","Campbell","Davin"," ","Davin Campbell"," ","52399452"," "," ",1
+1,0,"52399452","Transponder Maintenance",6,6,6,0,0,0,0,6,0,3753,434,721,0,0,0,0,0,0,0,0,1,0,2,,"|?;vu4t]&1eq~f\m\8-ks4","Campbell","Davin"," ","Davin Campbell"," ","52399452"," "," ",1
+1,0,"52399452","Violation Payment",5,6,5,0,0,0,0,5,1,3383,421,560,0,0,0,0,0,1,0,488,1,0,2,,"|?;vu4t]&1eq~f\m\8-ks4","Campbell","Davin"," ","Davin Campbell"," ","52399452"," "," ",1
+1,0,"52399838","-",0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,40,1,0,2,,"8\or0>`e&?;r(0373^()]2","Agnant","Rachaun"," ","Rachaun Agnant"," ","52399838"," "," ",1
+1,0,"52399838","Account Maintenance",1,1,1,0,0,0,0,1,0,239,15,0,0,0,0,0,0,0,0,0,1,0,2,,"8\or0>`e&?;r(0373^()]2","Agnant","Rachaun"," ","Rachaun Agnant"," ","52399838"," "," ",1
+1,0,"52399838","Account Payments",2,2,2,0,0,0,0,2,0,432,214,0,0,0,0,0,0,0,0,0,1,0,2,,"8\or0>`e&?;r(0373^()]2","Agnant","Rachaun"," ","Rachaun Agnant"," ","52399838"," "," ",1
+1,0,"52399838","Customer Service",19,22,19,0,0,1,0,19,3,11201,2302,79,0,0,0,0,0,3,0,2117,1,0,2,,"8\or0>`e&?;r(0373^()]2","Agnant","Rachaun"," ","Rachaun Agnant"," ","52399838"," "," ",1
+1,0,"52399838","New Accounts",2,3,2,0,0,0,0,2,1,644,106,0,0,0,0,0,0,1,0,183,1,0,2,,"8\or0>`e&?;r(0373^()]2","Agnant","Rachaun"," ","Rachaun Agnant"," ","52399838"," "," ",1
+1,0,"52399838","Transponder Maintenance",6,6,6,0,0,1,0,6,0,3678,370,648,0,0,0,0,0,0,0,0,1,0,2,,"8\or0>`e&?;r(0373^()]2","Agnant","Rachaun"," ","Rachaun Agnant"," ","52399838"," "," ",1
+1,0,"52399838","Violation Payment",9,12,9,0,0,0,0,9,3,5025,989,0,0,0,0,0,0,3,0,1165,1,0,2,,"8\or0>`e&?;r(0373^()]2","Agnant","Rachaun"," ","Rachaun Agnant"," ","52399838"," "," ",1
+1,0,"52399844","-",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"qkv?2fin&$>,*>m-29[*q1","Bellesen","Charia"," ","Charia Bellesen"," ","52399844"," "," ",1
+1,0,"52399844","Account Maintenance",4,4,4,0,0,0,0,4,0,1919,60,0,0,0,0,0,0,0,0,0,1,0,2,,"qkv?2fin&$>,*>m-29[*q1","Bellesen","Charia"," ","Charia Bellesen"," ","52399844"," "," ",1
+1,0,"52399844","Account Payments",3,3,3,0,0,0,0,3,0,2484,112,341,0,0,0,0,0,0,0,0,1,0,2,,"qkv?2fin&$>,*>m-29[*q1","Bellesen","Charia"," ","Charia Bellesen"," ","52399844"," "," ",1
+1,0,"52399844","Customer Service",21,25,21,0,0,1,0,21,4,12301,277,1607,0,0,0,0,0,4,0,2852,1,0,2,,"qkv?2fin&$>,*>m-29[*q1","Bellesen","Charia"," ","Charia Bellesen"," ","52399844"," "," ",1
+1,0,"52399844","New Accounts",2,3,2,0,0,0,0,2,1,1447,24,65,0,0,0,0,0,1,0,723,1,0,2,,"qkv?2fin&$>,*>m-29[*q1","Bellesen","Charia"," ","Charia Bellesen"," ","52399844"," "," ",1
+1,0,"52399844","Transponder Maintenance",5,6,5,0,0,0,0,5,1,2673,75,155,0,0,0,0,0,1,0,878,1,0,2,,"qkv?2fin&$>,*>m-29[*q1","Bellesen","Charia"," ","Charia Bellesen"," ","52399844"," "," ",1
+1,0,"52399844","Violation Payment",8,9,8,0,0,1,0,8,1,4757,120,210,0,0,0,0,0,1,0,510,1,0,2,,"qkv?2fin&$>,*>m-29[*q1","Bellesen","Charia"," ","Charia Bellesen"," ","52399844"," "," ",1
+1,0,"52400256","Account Maintenance",1,2,1,0,0,0,0,1,1,1504,10,0,0,0,0,0,0,1,0,1329,1,0,2,,"vc+]bw/|(x+k>xwh[a|q\2","Rolle","Jaime"," ","Jaime Rolle"," ","52400256"," "," ",1
+1,0,"52400256","Account Payments",6,7,6,0,0,0,0,6,1,3053,78,176,0,0,0,0,0,1,0,284,1,0,2,,"vc+]bw/|(x+k>xwh[a|q\2","Rolle","Jaime"," ","Jaime Rolle"," ","52400256"," "," ",1
+1,0,"52400256","Customer Service",21,23,21,0,0,0,0,21,2,12829,283,517,0,0,0,0,0,2,0,847,1,0,2,,"vc+]bw/|(x+k>xwh[a|q\2","Rolle","Jaime"," ","Jaime Rolle"," ","52400256"," "," ",1
+1,0,"52400256","New Accounts",3,3,3,0,0,0,0,3,0,1703,45,0,0,0,0,0,0,0,0,0,1,0,2,,"vc+]bw/|(x+k>xwh[a|q\2","Rolle","Jaime"," ","Jaime Rolle"," ","52400256"," "," ",1
+1,0,"52400256","Transponder Maintenance",6,6,5,0,1,0,0,5,1,2299,70,0,0,0,0,0,0,1,0,427,1,0,2,,"vc+]bw/|(x+k>xwh[a|q\2","Rolle","Jaime"," ","Jaime Rolle"," ","52400256"," "," ",1
+1,0,"52400256","Violation Payment",9,11,9,0,0,0,0,9,2,5593,125,30,0,0,0,0,0,2,0,800,1,0,2,,"vc+]bw/|(x+k>xwh[a|q\2","Rolle","Jaime"," ","Jaime Rolle"," ","52400256"," "," ",1
+1,0,"52400452","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,")`39k}$~*oef=t/na\s<@1","Baksh","Anisha"," ","Anisha Baksh"," ","52400452"," "," ",1
+1,0,"52400452","Account Payments",1,1,1,0,0,0,0,1,0,418,56,0,0,0,0,0,0,0,0,0,1,0,2,,")`39k}$~*oef=t/na\s<@1","Baksh","Anisha"," ","Anisha Baksh"," ","52400452"," "," ",1
+1,0,"52400452","Customer Service",29,34,29,0,0,1,0,29,5,13850,602,1066,0,0,0,0,0,5,0,2741,1,0,2,,")`39k}$~*oef=t/na\s<@1","Baksh","Anisha"," ","Anisha Baksh"," ","52400452"," "," ",1
+1,0,"52400452","New Accounts",1,1,1,0,0,0,0,1,0,516,15,0,0,0,0,0,0,0,0,0,1,0,2,,")`39k}$~*oef=t/na\s<@1","Baksh","Anisha"," ","Anisha Baksh"," ","52400452"," "," ",1
+1,0,"52400452","Transponder Maintenance",8,13,8,0,0,0,0,8,5,3585,154,0,0,0,0,0,0,5,0,2686,1,0,2,,")`39k}$~*oef=t/na\s<@1","Baksh","Anisha"," ","Anisha Baksh"," ","52400452"," "," ",1
+1,0,"52400452","Violation Payment",12,17,12,0,0,0,0,12,5,6508,246,470,0,0,0,0,0,5,0,2669,1,0,2,,")`39k}$~*oef=t/na\s<@1","Baksh","Anisha"," ","Anisha Baksh"," ","52400452"," "," ",1
+1,0,"52400795","Account Payments",1,1,1,0,0,0,0,1,0,225,8,0,0,0,0,0,0,0,0,0,1,0,2,,"cbqgj~m/^!}rsg5c`41~23","Prince","Azaria"," ","Azaria Prince"," ","52400795"," "," ",1
+1,0,"52400795","Customer Service",15,18,15,0,0,0,0,15,3,8874,219,1403,0,0,0,0,0,3,0,480,1,0,2,,"cbqgj~m/^!}rsg5c`41~23","Prince","Azaria"," ","Azaria Prince"," ","52400795"," "," ",1
+1,0,"52400795","New Accounts",2,3,2,0,0,0,0,2,1,3682,7,421,0,0,0,0,0,1,0,1117,1,0,2,,"cbqgj~m/^!}rsg5c`41~23","Prince","Azaria"," ","Azaria Prince"," ","52400795"," "," ",1
+1,0,"52400795","Transponder Maintenance",5,7,5,0,0,0,0,5,2,3446,187,0,0,0,0,0,0,2,0,872,1,0,2,,"cbqgj~m/^!}rsg5c`41~23","Prince","Azaria"," ","Azaria Prince"," ","52400795"," "," ",1
+1,0,"52400795","Violation Payment",11,13,11,0,0,0,0,11,2,4895,95,0,0,0,0,0,0,2,0,952,1,0,2,,"cbqgj~m/^!}rsg5c`41~23","Prince","Azaria"," ","Azaria Prince"," ","52400795"," "," ",1
+1,0,"52400808","Account Maintenance",1,1,1,0,0,0,0,1,0,347,15,0,0,0,0,0,0,0,0,0,1,0,2,,"=c^3szie*^71-}n{21}uh3","Gray","Jewel"," ","Jewel Gray"," ","52400808"," "," ",1
+1,0,"52400808","Account Payments",4,5,4,0,0,0,0,4,1,1926,187,1,0,0,0,0,0,1,0,1136,1,0,2,,"=c^3szie*^71-}n{21}uh3","Gray","Jewel"," ","Jewel Gray"," ","52400808"," "," ",1
+1,0,"52400808","Account Updates",1,1,1,0,0,0,0,1,0,343,15,0,0,0,0,0,0,0,0,0,1,0,2,,"=c^3szie*^71-}n{21}uh3","Gray","Jewel"," ","Jewel Gray"," ","52400808"," "," ",1
+1,0,"52400808","Customer Service",18,21,18,0,0,0,0,18,3,9857,1110,650,0,0,0,0,0,3,0,2124,1,0,2,,"=c^3szie*^71-}n{21}uh3","Gray","Jewel"," ","Jewel Gray"," ","52400808"," "," ",1
+1,0,"52400808","New Accounts",2,2,2,0,0,0,0,2,0,1938,104,75,0,0,0,0,0,0,0,0,1,0,2,,"=c^3szie*^71-}n{21}uh3","Gray","Jewel"," ","Jewel Gray"," ","52400808"," "," ",1
+1,0,"52400808","Transponder Maintenance",5,8,5,0,0,0,0,5,3,2292,344,83,0,0,0,0,0,3,0,1879,1,0,2,,"=c^3szie*^71-}n{21}uh3","Gray","Jewel"," ","Jewel Gray"," ","52400808"," "," ",1
+1,0,"52400808","Violation Payment",12,13,12,0,0,0,0,12,1,6256,712,842,0,0,0,0,0,1,0,505,1,0,2,,"=c^3szie*^71-}n{21}uh3","Gray","Jewel"," ","Jewel Gray"," ","52400808"," "," ",1
+1,0,"c5074687","WebChat_Customer",22,22,22,0,0,0,0,22,0,7508,122,0,0,0,0,0,0,0,0,0,1,0,2,,"]eep-)i5&}>y5a=7zn^5p2","Clarke","Tieheka"," ","Tieheka Clarke"," ","C5074687"," "," ",1
+1,0,"c5074697","Account Maintenance",1,1,1,0,0,0,0,1,0,781,74,0,0,0,0,0,0,0,0,0,1,0,2,,")\9-6(ty(5#zmu+[b}m`r3","Hafeez","Farrah"," ","Farrah Hafeez"," ","C5074697"," "," ",1
+1,0,"c5074697","Account Payments",9,13,9,0,0,0,0,9,4,2195,91,0,0,0,0,0,0,4,0,1020,1,0,2,,")\9-6(ty(5#zmu+[b}m`r3","Hafeez","Farrah"," ","Farrah Hafeez"," ","C5074697"," "," ",1
+1,0,"c5074697","Customer Service",27,40,27,0,0,0,0,27,13,9750,538,1,0,0,0,0,0,13,0,3411,1,0,2,,")\9-6(ty(5#zmu+[b}m`r3","Hafeez","Farrah"," ","Farrah Hafeez"," ","C5074697"," "," ",1
+1,0,"c5074697","New Accounts",4,6,4,0,0,0,0,4,2,504,128,0,0,0,0,0,0,2,0,102,1,0,2,,")\9-6(ty(5#zmu+[b}m`r3","Hafeez","Farrah"," ","Farrah Hafeez"," ","C5074697"," "," ",1
+1,0,"c5074697","Transponder Maintenance",8,10,8,0,0,0,0,8,2,2872,185,0,0,0,0,0,0,2,0,634,1,0,2,,")\9-6(ty(5#zmu+[b}m`r3","Hafeez","Farrah"," ","Farrah Hafeez"," ","C5074697"," "," ",1
+1,0,"c5074697","Violation Payment",21,28,21,0,0,0,0,21,7,6883,545,0,0,0,0,0,0,7,0,2102,1,0,2,,")\9-6(ty(5#zmu+[b}m`r3","Hafeez","Farrah"," ","Farrah Hafeez"," ","C5074697"," "," ",1
+1,0,"c5114166","WebChat_Customer",25,25,25,0,0,0,0,25,0,12183,409,0,0,0,0,0,0,0,0,0,1,0,2,,"si;#/wa0*[e3-k1orn><:4","Almeida","Elizabeth"," ","Elizabeth Almeida"," ","C5114166"," "," ",1
+1,0,"c5124219","Account Maintenance",2,2,2,0,0,0,0,2,0,1504,0,0,0,0,0,0,0,0,0,0,1,0,2,,"\&[+^-h[^zi<[4*{)p)|#1","Marc","Sheva "," ","Sheva  Marc"," ","C5124219"," "," ",1
+1,0,"c5124219","Account Payments",8,10,8,0,0,0,0,8,2,3497,320,0,0,0,0,0,0,2,0,481,1,0,2,,"\&[+^-h[^zi<[4*{)p)|#1","Marc","Sheva "," ","Sheva  Marc"," ","C5124219"," "," ",1
+1,0,"c5124219","Account Updates",2,2,2,0,0,0,0,2,0,802,0,0,0,0,0,0,0,0,0,0,1,0,2,,"\&[+^-h[^zi<[4*{)p)|#1","Marc","Sheva "," ","Sheva  Marc"," ","C5124219"," "," ",1
+1,0,"c5124219","New Accounts",2,3,2,0,0,0,0,2,1,1373,130,1,0,0,0,0,0,1,0,39,1,0,2,,"\&[+^-h[^zi<[4*{)p)|#1","Marc","Sheva "," ","Sheva  Marc"," ","C5124219"," "," ",1
+1,0,"c5124219","Transponder Maintenance",11,12,11,0,0,1,0,11,1,5011,277,0,0,0,0,0,0,1,0,183,1,0,2,,"\&[+^-h[^zi<[4*{)p)|#1","Marc","Sheva "," ","Sheva  Marc"," ","C5124219"," "," ",1
+1,0,"c5124219","Violation Payment",15,23,15,0,0,0,0,15,8,8562,136,0,0,0,0,0,0,8,0,2676,1,0,2,,"\&[+^-h[^zi<[4*{)p)|#1","Marc","Sheva "," ","Sheva  Marc"," ","C5124219"," "," ",1
+1,0,"c5127179","-",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"5xf@/#gw({~ar)x5sn8`a4","Baksh","Waheeda "," ","Waheeda  Baksh"," ","C5127179"," "," ",1
+1,0,"c5127179","Account Payments",6,6,6,0,0,1,0,6,0,2393,55,144,0,0,0,0,0,0,0,0,1,0,2,,"5xf@/#gw({~ar)x5sn8`a4","Baksh","Waheeda "," ","Waheeda  Baksh"," ","C5127179"," "," ",1
+1,0,"c5127179","Violation Payment",28,36,28,0,0,1,0,28,8,11714,273,215,0,0,0,0,0,8,0,3030,1,0,2,,"5xf@/#gw({~ar)x5sn8`a4","Baksh","Waheeda "," ","Waheeda  Baksh"," ","C5127179"," "," ",1
+1,0,"c5128063","Account Payments",7,10,7,0,0,0,0,7,3,1753,217,0,0,0,0,0,0,3,0,1615,1,0,2,,"-92k#}0c&1euxv]fj!>!|2","Cleghorn","Courtney "," ","Courtney  Cleghorn"," ","C5128063"," "," ",1
+1,0,"c5128063","New Accounts",2,2,2,0,0,0,0,2,0,2348,87,0,0,0,0,0,0,0,0,0,1,0,2,,"-92k#}0c&1euxv]fj!>!|2","Cleghorn","Courtney "," ","Courtney  Cleghorn"," ","C5128063"," "," ",1
+1,0,"c5128063","Transponder Maintenance",12,14,12,0,0,0,0,12,2,5074,1826,0,0,0,0,0,0,2,0,1082,1,0,2,,"-92k#}0c&1euxv]fj!>!|2","Cleghorn","Courtney "," ","Courtney  Cleghorn"," ","C5128063"," "," ",1
+1,0,"c5128063","Violation Payment",18,24,18,0,0,0,0,18,6,6081,1749,0,0,0,0,0,0,6,0,4481,1,0,2,,"-92k#}0c&1euxv]fj!>!|2","Cleghorn","Courtney "," ","Courtney  Cleghorn"," ","C5128063"," "," ",1
+1,0,"c5130028","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"2c6.ia{w(c3ad$8<n)h;g3","Yanez","Bianca "," ","Bianca  Yanez"," ","C5130028"," "," ",1
+1,0,"c5130028","Spanish Account Maintenance",1,1,1,0,0,0,0,1,0,215,13,0,0,0,0,0,0,0,0,0,1,0,2,,"2c6.ia{w(c3ad$8<n)h;g3","Yanez","Bianca "," ","Bianca  Yanez"," ","C5130028"," "," ",1
+1,0,"c5130028","Spanish Account Payments",3,4,3,0,0,0,0,3,1,1011,61,0,0,0,0,0,0,1,0,47,1,0,2,,"2c6.ia{w(c3ad$8<n)h;g3","Yanez","Bianca "," ","Bianca  Yanez"," ","C5130028"," "," ",1
+1,0,"c5130028","Spanish Customer Service",34,47,34,0,0,0,0,34,13,16562,1261,0,0,0,0,0,0,13,0,5099,1,0,2,,"2c6.ia{w(c3ad$8<n)h;g3","Yanez","Bianca "," ","Bianca  Yanez"," ","C5130028"," "," ",1
+1,0,"c5130028","Spanish Transponder Maintenance",3,3,3,0,0,0,0,3,0,1202,99,0,0,0,0,0,0,0,0,0,1,0,2,,"2c6.ia{w(c3ad$8<n)h;g3","Yanez","Bianca "," ","Bianca  Yanez"," ","C5130028"," "," ",1
+1,0,"c5130028","Spanish Violation Payment",8,8,8,0,0,1,0,8,0,4940,360,361,0,0,0,0,0,0,0,0,1,0,2,,"2c6.ia{w(c3ad$8<n)h;g3","Yanez","Bianca "," ","Bianca  Yanez"," ","C5130028"," "," ",1
+1,0,"c5132815","Account Payments",5,7,5,0,0,0,0,5,2,2780,60,0,0,0,0,0,0,2,0,917,1,0,2,,">&,5[2<6(}#u7m&i2<$@x2","Kublall","Kamlawattie "," ","Kamlawattie  Kublall"," ","C5132815"," "," ",1
+1,0,"c5132815","Account Updates",1,1,1,0,0,0,0,1,0,501,15,0,0,0,0,0,0,0,0,0,1,0,2,,">&,5[2<6(}#u7m&i2<$@x2","Kublall","Kamlawattie "," ","Kamlawattie  Kublall"," ","C5132815"," "," ",1
+1,0,"c5132815","Customer Service",15,16,15,0,0,0,0,15,1,6467,211,79,0,0,0,0,0,1,0,258,1,0,2,,">&,5[2<6(}#u7m&i2<$@x2","Kublall","Kamlawattie "," ","Kamlawattie  Kublall"," ","C5132815"," "," ",1
+1,0,"c5132815","Transponder Maintenance",3,4,3,0,0,0,0,3,1,1158,45,0,0,0,0,0,0,1,0,185,1,0,2,,">&,5[2<6(}#u7m&i2<$@x2","Kublall","Kamlawattie "," ","Kamlawattie  Kublall"," ","C5132815"," "," ",1
+1,0,"c5132815","Violation Payment",8,10,8,0,0,0,0,8,2,3218,113,0,0,0,0,0,0,2,0,507,1,0,2,,">&,5[2<6(}#u7m&i2<$@x2","Kublall","Kamlawattie "," ","Kamlawattie  Kublall"," ","C5132815"," "," ",1
+1,0,"c5135310","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"h}~}a]b!^*u7l*+vw|ow!3","Miller","Carolyn "," ","Carolyn  Miller"," ","C5135310"," "," ",1
+1,0,"c5135310","Account Payments",2,2,2,0,0,0,0,2,0,961,30,0,0,0,0,0,0,0,0,0,1,0,2,,"h}~}a]b!^*u7l*+vw|ow!3","Miller","Carolyn "," ","Carolyn  Miller"," ","C5135310"," "," ",1
+1,0,"c5135310","Customer Service",28,34,28,0,0,1,0,28,6,15210,348,358,0,0,0,0,0,6,0,3056,1,0,2,,"h}~}a]b!^*u7l*+vw|ow!3","Miller","Carolyn "," ","Carolyn  Miller"," ","C5135310"," "," ",1
+1,0,"c5135310","New Accounts",2,2,2,0,0,0,0,2,0,1095,20,0,0,0,0,0,0,0,0,0,1,0,2,,"h}~}a]b!^*u7l*+vw|ow!3","Miller","Carolyn "," ","Carolyn  Miller"," ","C5135310"," "," ",1
+1,0,"c5135310","Transponder Maintenance",4,4,3,0,1,0,0,3,1,901,45,61,0,0,0,0,0,1,0,189,1,0,2,,"h}~}a]b!^*u7l*+vw|ow!3","Miller","Carolyn "," ","Carolyn  Miller"," ","C5135310"," "," ",1
+1,0,"c5135310","Violation Payment",15,19,15,0,0,0,0,15,4,6318,204,150,0,0,0,0,0,4,0,1978,1,0,2,,"h}~}a]b!^*u7l*+vw|ow!3","Miller","Carolyn "," ","Carolyn  Miller"," ","C5135310"," "," ",1
+1,0,"c5135583","Account Payments",5,6,5,0,0,0,0,5,1,4224,235,269,0,0,0,0,0,1,0,726,1,0,2,,"z&.{}}ye^0m2#+s&|95(a4","Tillman","Akia "," ","Akia  Tillman"," ","C5135583"," "," ",1
+1,0,"c5135583","Account Updates",1,1,1,0,0,0,0,1,0,769,0,0,0,0,0,0,0,0,0,0,1,0,2,,"z&.{}}ye^0m2#+s&|95(a4","Tillman","Akia "," ","Akia  Tillman"," ","C5135583"," "," ",1
+1,0,"c5135583","Customer Service",14,19,14,0,0,0,0,14,5,7464,101,648,0,0,0,0,0,5,0,4451,1,0,2,,"z&.{}}ye^0m2#+s&|95(a4","Tillman","Akia "," ","Akia  Tillman"," ","C5135583"," "," ",1
+1,0,"c5135583","New Accounts",1,1,1,0,0,0,0,1,0,736,0,0,0,0,0,0,0,0,0,0,1,0,2,,"z&.{}}ye^0m2#+s&|95(a4","Tillman","Akia "," ","Akia  Tillman"," ","C5135583"," "," ",1
+1,0,"c5135583","Transponder Maintenance",6,9,6,0,0,0,0,6,3,3279,90,162,0,0,0,0,0,3,0,1447,1,0,2,,"z&.{}}ye^0m2#+s&|95(a4","Tillman","Akia "," ","Akia  Tillman"," ","C5135583"," "," ",1
+1,0,"c5135583","Violation Payment",11,14,11,0,0,0,0,11,3,4670,85,91,0,0,0,0,0,3,0,2562,1,0,2,,"z&.{}}ye^0m2#+s&|95(a4","Tillman","Akia "," ","Akia  Tillman"," ","C5135583"," "," ",1
+1,0,"c5137916","Spanish Account Maintenance",1,1,1,0,0,0,0,1,0,237,15,0,0,0,0,0,0,0,0,0,1,0,2,,"/}<u^)x\*/q.,,tg$vc(/3","Perez","Aldaysi "," ","Aldaysi  Perez"," ","C5137916"," "," ",1
+1,0,"c5137916","Spanish Account Payments",4,5,4,0,0,0,0,4,1,1834,62,0,0,0,0,0,0,1,0,57,1,0,2,,"/}<u^)x\*/q.,,tg$vc(/3","Perez","Aldaysi "," ","Aldaysi  Perez"," ","C5137916"," "," ",1
+1,0,"c5137916","Spanish Account Updates",1,1,1,0,0,0,0,1,0,152,1,0,0,0,0,0,0,0,0,0,1,0,2,,"/}<u^)x\*/q.,,tg$vc(/3","Perez","Aldaysi "," ","Aldaysi  Perez"," ","C5137916"," "," ",1
+1,0,"c5137916","Spanish Customer Service",18,24,18,0,0,0,0,18,6,6441,306,0,0,0,0,0,0,6,0,1722,1,0,2,,"/}<u^)x\*/q.,,tg$vc(/3","Perez","Aldaysi "," ","Aldaysi  Perez"," ","C5137916"," "," ",1
+1,0,"c5137916","Spanish Transponder Maintenance",1,2,1,0,0,0,0,1,1,946,3,0,0,0,0,0,0,1,0,816,1,0,2,,"/}<u^)x\*/q.,,tg$vc(/3","Perez","Aldaysi "," ","Aldaysi  Perez"," ","C5137916"," "," ",1
+1,0,"c5137916","Spanish Violation Payment",4,4,4,0,0,0,0,4,0,1761,308,0,0,0,0,0,0,0,0,0,1,0,2,,"/}<u^)x\*/q.,,tg$vc(/3","Perez","Aldaysi "," ","Aldaysi  Perez"," ","C5137916"," "," ",1
+1,0,"c5138057","Account Maintenance",2,3,2,0,0,0,0,2,1,1186,21,0,0,0,0,0,0,1,0,427,1,0,2,,"195@*#mo^za60dp?kr-$q1","Lajca","Rebecca"," ","Rebecca Lajca"," ","C5138057"," "," ",1
+1,0,"c5138057","Account Payments",4,5,4,0,0,0,0,4,1,1288,44,0,0,0,0,0,0,1,0,326,1,0,2,,"195@*#mo^za60dp?kr-$q1","Lajca","Rebecca"," ","Rebecca Lajca"," ","C5138057"," "," ",1
+1,0,"c5138057","Account Updates",1,1,1,0,0,0,0,1,0,1141,10,58,0,0,0,0,0,0,0,0,1,0,2,,"195@*#mo^za60dp?kr-$q1","Lajca","Rebecca"," ","Rebecca Lajca"," ","C5138057"," "," ",1
+1,0,"c5138057","Customer Service",22,25,22,0,0,0,0,22,3,17254,312,171,0,0,0,0,0,3,0,569,1,0,2,,"195@*#mo^za60dp?kr-$q1","Lajca","Rebecca"," ","Rebecca Lajca"," ","C5138057"," "," ",1
+1,0,"c5138057","Transponder Maintenance",3,4,3,0,0,0,0,3,1,939,32,0,0,0,0,0,0,1,0,369,1,0,2,,"195@*#mo^za60dp?kr-$q1","Lajca","Rebecca"," ","Rebecca Lajca"," ","C5138057"," "," ",1
+1,0,"c5138057","Violation Payment",11,14,11,0,0,0,0,11,3,6230,99,0,0,0,0,0,0,3,0,1427,1,0,2,,"195@*#mo^za60dp?kr-$q1","Lajca","Rebecca"," ","Rebecca Lajca"," ","C5138057"," "," ",1
+1,0,"c5138367","Account Payments",2,2,2,0,0,0,0,2,0,479,19,0,0,0,0,0,0,0,0,0,1,0,2,,"9ud^rd#s*\q3<{!apw`9u4","Huey","Daniqua "," ","Daniqua  Huey"," ","C5138367"," "," ",1
+1,0,"c5138367","Customer Service",16,16,16,0,0,1,0,16,0,5427,124,0,0,0,0,0,0,0,0,0,1,0,2,,"9ud^rd#s*\q3<{!apw`9u4","Huey","Daniqua "," ","Daniqua  Huey"," ","C5138367"," "," ",1
+1,0,"c5138367","New Accounts",1,1,1,0,0,0,0,1,0,354,15,0,0,0,0,0,0,0,0,0,1,0,2,,"9ud^rd#s*\q3<{!apw`9u4","Huey","Daniqua "," ","Daniqua  Huey"," ","C5138367"," "," ",1
+1,0,"c5138367","Transponder Maintenance",3,4,3,0,0,0,0,3,1,628,28,0,0,0,0,0,0,1,0,285,1,0,2,,"9ud^rd#s*\q3<{!apw`9u4","Huey","Daniqua "," ","Daniqua  Huey"," ","C5138367"," "," ",1
+1,0,"c5138367","Violation Payment",6,6,6,0,0,0,0,6,0,2175,51,0,0,0,0,0,0,0,0,0,1,0,2,,"9ud^rd#s*\q3<{!apw`9u4","Huey","Daniqua "," ","Daniqua  Huey"," ","C5138367"," "," ",1
+1,0,"c5138373","Account Maintenance",2,2,2,0,0,0,0,2,0,919,0,0,0,0,0,0,0,0,0,0,1,0,2,,"u+h@ddq2*/7@yu+|/f9jg2","Woods ","Teketria "," ","Teketria  Woods "," ","C5138373"," "," ",1
+1,0,"c5138373","Account Payments",3,3,3,0,0,0,0,3,0,1496,0,128,0,0,0,0,0,0,0,0,1,0,2,,"u+h@ddq2*/7@yu+|/f9jg2","Woods ","Teketria "," ","Teketria  Woods "," ","C5138373"," "," ",1
+1,0,"c5138373","Account Updates",2,2,2,0,0,0,0,2,0,827,0,162,0,0,0,0,0,0,0,0,1,0,2,,"u+h@ddq2*/7@yu+|/f9jg2","Woods ","Teketria "," ","Teketria  Woods "," ","C5138373"," "," ",1
+1,0,"c5138373","Transponder Maintenance",15,18,15,0,0,0,0,15,3,10686,14,321,0,0,0,0,0,3,0,1103,1,0,2,,"u+h@ddq2*/7@yu+|/f9jg2","Woods ","Teketria "," ","Teketria  Woods "," ","C5138373"," "," ",1
+1,0,"c5138373","Violation Payment",17,20,17,0,0,0,0,17,3,12024,5,288,0,0,0,0,0,3,0,2748,1,0,2,,"u+h@ddq2*/7@yu+|/f9jg2","Woods ","Teketria "," ","Teketria  Woods "," ","C5138373"," "," ",1
+1,0,"c5139565","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"lmd{dcov^6}k(:</646-`4","Gaines","Courtney "," ","Courtney  Gaines"," ","C5139565"," "," ",1
+1,0,"c5139565","Account Maintenance",1,1,1,0,0,0,0,1,0,751,7,0,0,0,0,0,0,0,0,0,1,0,2,,"lmd{dcov^6}k(:</646-`4","Gaines","Courtney "," ","Courtney  Gaines"," ","C5139565"," "," ",1
+1,0,"c5139565","Account Payments",1,1,1,0,0,0,0,1,0,320,96,0,0,0,0,0,0,0,0,0,1,0,2,,"lmd{dcov^6}k(:</646-`4","Gaines","Courtney "," ","Courtney  Gaines"," ","C5139565"," "," ",1
+1,0,"c5139565","Account Updates",1,1,1,0,0,0,0,1,0,306,0,0,0,0,0,0,0,0,0,0,1,0,2,,"lmd{dcov^6}k(:</646-`4","Gaines","Courtney "," ","Courtney  Gaines"," ","C5139565"," "," ",1
+1,0,"c5139565","Customer Service",7,10,7,0,0,1,0,7,3,2842,42,0,0,0,0,0,0,3,0,1268,1,0,2,,"lmd{dcov^6}k(:</646-`4","Gaines","Courtney "," ","Courtney  Gaines"," ","C5139565"," "," ",1
+1,0,"c5139565","Violation Payment",3,3,3,0,0,0,0,3,0,925,226,0,0,0,0,0,0,0,0,0,1,0,2,,"lmd{dcov^6}k(:</646-`4","Gaines","Courtney "," ","Courtney  Gaines"," ","C5139565"," "," ",1
+1,0,"c5141435","Account Payments",1,2,1,0,0,0,0,1,1,1435,0,0,0,0,0,0,0,1,0,1423,1,0,2,,"[qb.e2z/^!m()72\n6x8;2","Ogletree","Jeannine "," ","Jeannine  Ogletree"," ","C5141435"," "," ",1
+1,0,"c5141435","Customer Service",14,17,14,0,0,0,0,14,3,12490,250,0,0,0,0,0,0,3,0,4017,1,0,2,,"[qb.e2z/^!m()72\n6x8;2","Ogletree","Jeannine "," ","Jeannine  Ogletree"," ","C5141435"," "," ",1
+1,0,"c5141435","New Accounts",2,2,2,0,0,0,0,2,0,3495,24,0,0,0,0,0,0,0,0,0,1,0,2,,"[qb.e2z/^!m()72\n6x8;2","Ogletree","Jeannine "," ","Jeannine  Ogletree"," ","C5141435"," "," ",1
+1,0,"c5141435","Transponder Maintenance",2,2,2,0,0,0,0,2,0,1175,30,0,0,0,0,0,0,0,0,0,1,0,2,,"[qb.e2z/^!m()72\n6x8;2","Ogletree","Jeannine "," ","Jeannine  Ogletree"," ","C5141435"," "," ",1
+1,0,"c5141435","Violation Payment",7,7,7,0,0,0,0,7,0,5149,231,0,0,0,0,0,0,0,0,0,1,0,2,,"[qb.e2z/^!m()72\n6x8;2","Ogletree","Jeannine "," ","Jeannine  Ogletree"," ","C5141435"," "," ",1
+1,0,"c5141437","Spanish Account Payments",7,9,7,0,0,0,0,7,2,3223,94,0,0,0,0,0,0,2,0,867,1,0,2,,"a@>{b-^e&m+g^\7@pvwx\1","Ruiz","Dalila "," ","Dalila  Ruiz"," ","C5141437"," "," ",1
+1,0,"c5141437","Spanish Account Updates",2,2,2,0,0,0,0,2,0,661,30,0,0,0,0,0,0,0,0,0,1,0,2,,"a@>{b-^e&m+g^\7@pvwx\1","Ruiz","Dalila "," ","Dalila  Ruiz"," ","C5141437"," "," ",1
+1,0,"c5141437","Spanish Customer Service",31,41,31,0,0,0,0,31,10,15151,431,0,0,0,0,0,0,10,0,5180,1,0,2,,"a@>{b-^e&m+g^\7@pvwx\1","Ruiz","Dalila "," ","Dalila  Ruiz"," ","C5141437"," "," ",1
+1,0,"c5141437","Spanish Transponder Maintenance",1,2,1,0,0,0,0,1,1,300,15,0,0,0,0,0,0,1,0,248,1,0,2,,"a@>{b-^e&m+g^\7@pvwx\1","Ruiz","Dalila "," ","Dalila  Ruiz"," ","C5141437"," "," ",1
+1,0,"c5141437","Spanish Violation Payment",8,8,8,0,0,1,0,8,0,4454,111,0,0,0,0,0,0,0,0,0,1,0,2,,"a@>{b-^e&m+g^\7@pvwx\1","Ruiz","Dalila "," ","Dalila  Ruiz"," ","C5141437"," "," ",1
+1,0,"c5142847","Customer Service",15,17,15,0,0,0,0,15,2,7290,2566,112,0,0,0,0,0,2,0,1561,1,0,2,,"p28d,~u,(-#`\?+!svndl1","Zubieta Hernandez","Selena"," ","Selena Zubieta Hernandez"," ","C5142847"," "," ",1
+1,0,"c5142847","Transponder Maintenance",2,4,2,0,0,0,0,2,2,15,15,0,0,0,0,0,0,2,0,84,1,0,2,,"p28d,~u,(-#`\?+!svndl1","Zubieta Hernandez","Selena"," ","Selena Zubieta Hernandez"," ","C5142847"," "," ",1
+1,0,"c5142847","Violation Payment",12,15,12,0,0,0,0,12,3,6849,2304,1241,0,0,0,0,0,3,0,1501,1,0,2,,"p28d,~u,(-#`\?+!svndl1","Zubieta Hernandez","Selena"," ","Selena Zubieta Hernandez"," ","C5142847"," "," ",1
+1,0,"c5143478","-",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"^6>?7dl{&h3in$:tgf-5+1","Ramirez","Loida"," ","Loida Ramirez"," ","C5143478"," "," ",1
+1,0,"c5143478","Spanish Account Maintenance",1,1,1,0,0,0,0,1,0,2202,53,167,0,0,0,0,0,0,0,0,1,0,2,,"^6>?7dl{&h3in$:tgf-5+1","Ramirez","Loida"," ","Loida Ramirez"," ","C5143478"," "," ",1
+1,0,"c5143478","Spanish Account Payments",3,3,3,0,0,0,0,3,0,2338,121,128,0,0,0,0,0,0,0,0,1,0,2,,"^6>?7dl{&h3in$:tgf-5+1","Ramirez","Loida"," ","Loida Ramirez"," ","C5143478"," "," ",1
+1,0,"c5143478","Spanish Customer Service",17,25,17,0,0,0,0,17,8,12910,507,4780,0,0,0,0,0,8,0,4592,1,0,2,,"^6>?7dl{&h3in$:tgf-5+1","Ramirez","Loida"," ","Loida Ramirez"," ","C5143478"," "," ",1
+1,0,"c5143478","Spanish New Accounts",1,1,1,0,0,0,0,1,0,1179,107,124,0,0,0,0,0,0,0,0,1,0,2,,"^6>?7dl{&h3in$:tgf-5+1","Ramirez","Loida"," ","Loida Ramirez"," ","C5143478"," "," ",1
+1,0,"c5143478","Spanish Transponder Maintenance",2,3,2,0,0,0,0,2,1,1307,122,169,0,0,0,0,0,1,0,434,1,0,2,,"^6>?7dl{&h3in$:tgf-5+1","Ramirez","Loida"," ","Loida Ramirez"," ","C5143478"," "," ",1
+1,0,"c5143478","Spanish Violation Payment",12,12,12,0,0,1,0,12,0,5678,414,916,0,0,0,0,0,0,0,0,1,0,2,,"^6>?7dl{&h3in$:tgf-5+1","Ramirez","Loida"," ","Loida Ramirez"," ","C5143478"," "," ",1
+1,0,"c5143479","Spanish Account Payments",1,1,1,0,0,0,0,1,0,610,15,0,0,0,0,0,0,0,0,0,1,0,2,,"6/5f}2i;^0q|*`#.ya*[:3","Rivera","Rachel"," ","Rachel Rivera"," ","C5143479"," "," ",1
+1,0,"c5143479","Spanish Customer Service",11,16,11,0,0,0,0,11,5,5536,147,0,0,0,0,0,0,5,0,2589,1,0,2,,"6/5f}2i;^0q|*`#.ya*[:3","Rivera","Rachel"," ","Rachel Rivera"," ","C5143479"," "," ",1
+1,0,"c5143479","Spanish Transponder Maintenance",1,2,1,0,0,0,0,1,1,590,15,0,0,0,0,0,0,1,0,531,1,0,2,,"6/5f}2i;^0q|*`#.ya*[:3","Rivera","Rachel"," ","Rachel Rivera"," ","C5143479"," "," ",1
+1,0,"c5143479","Spanish Violation Payment",4,4,4,0,0,0,0,4,0,2608,164,189,0,0,0,0,0,0,0,0,1,0,2,,"6/5f}2i;^0q|*`#.ya*[:3","Rivera","Rachel"," ","Rachel Rivera"," ","C5143479"," "," ",1
+1,0,"c5144175","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"^!935w0+^sm|[ea03iox[4","Lyons","Ashley"," ","Ashley Lyons"," ","C5144175"," "," ",1
+1,0,"c5144175","Account Maintenance",1,3,1,0,0,0,0,1,2,66,12,0,0,0,0,0,0,2,0,15,1,0,2,,"^!935w0+^sm|[ea03iox[4","Lyons","Ashley"," ","Ashley Lyons"," ","C5144175"," "," ",1
+1,0,"c5144175","Account Payments",1,1,1,0,0,0,0,1,0,530,78,118,0,0,0,0,0,0,0,0,1,0,2,,"^!935w0+^sm|[ea03iox[4","Lyons","Ashley"," ","Ashley Lyons"," ","C5144175"," "," ",1
+1,0,"c5144175","Account Updates",2,3,2,0,0,0,0,2,1,1144,243,219,0,0,0,0,0,1,0,69,1,0,2,,"^!935w0+^sm|[ea03iox[4","Lyons","Ashley"," ","Ashley Lyons"," ","C5144175"," "," ",1
+1,0,"c5144175","Customer Service",10,15,10,0,0,0,0,10,5,7861,194,876,0,0,0,0,0,5,0,1902,1,0,2,,"^!935w0+^sm|[ea03iox[4","Lyons","Ashley"," ","Ashley Lyons"," ","C5144175"," "," ",1
+1,0,"c5144175","New Accounts",1,2,1,0,0,0,0,1,1,252,15,0,0,0,0,0,0,1,0,169,1,0,2,,"^!935w0+^sm|[ea03iox[4","Lyons","Ashley"," ","Ashley Lyons"," ","C5144175"," "," ",1
+1,0,"c5144175","Transponder Maintenance",13,19,13,0,0,0,0,13,6,6834,145,0,0,0,0,0,0,6,0,2183,1,0,2,,"^!935w0+^sm|[ea03iox[4","Lyons","Ashley"," ","Ashley Lyons"," ","C5144175"," "," ",1
+1,0,"c5144175","Violation Payment",13,13,13,0,0,0,0,13,0,7559,406,1650,0,0,0,0,0,0,0,0,1,0,2,,"^!935w0+^sm|[ea03iox[4","Lyons","Ashley"," ","Ashley Lyons"," ","C5144175"," "," ",1
+1,0,"c5145353","Account Payments",4,5,4,0,0,0,0,4,1,2217,418,0,0,0,0,0,0,1,0,470,1,0,2,,"ytpz$43^&w~9x/@e$42-k3","McMillian","Demarcus"," ","Demarcus McMillian"," ","C5145353"," "," ",1
+1,0,"c5145353","Account Updates",1,1,1,0,0,0,0,1,0,329,119,0,0,0,0,0,0,0,0,0,1,0,2,,"ytpz$43^&w~9x/@e$42-k3","McMillian","Demarcus"," ","Demarcus McMillian"," ","C5145353"," "," ",1
+1,0,"c5145353","Customer Service",23,28,23,0,0,0,0,23,5,9566,2424,450,0,0,0,0,0,5,0,1034,1,0,2,,"ytpz$43^&w~9x/@e$42-k3","McMillian","Demarcus"," ","Demarcus McMillian"," ","C5145353"," "," ",1
+1,0,"c5145353","New Accounts",2,2,2,0,0,0,0,2,0,700,193,179,0,0,0,0,0,0,0,0,1,0,2,,"ytpz$43^&w~9x/@e$42-k3","McMillian","Demarcus"," ","Demarcus McMillian"," ","C5145353"," "," ",1
+1,0,"c5145353","Transponder Maintenance",5,8,5,0,0,0,0,5,3,2898,219,175,0,0,0,0,0,3,0,1362,1,0,2,,"ytpz$43^&w~9x/@e$42-k3","McMillian","Demarcus"," ","Demarcus McMillian"," ","C5145353"," "," ",1
+1,0,"c5145353","Violation Payment",7,8,7,0,0,0,0,7,1,3820,1106,1159,0,0,0,0,0,1,0,517,1,0,2,,"ytpz$43^&w~9x/@e$42-k3","McMillian","Demarcus"," ","Demarcus McMillian"," ","C5145353"," "," ",1
+1,0,"c5145968","Account Payments",8,11,8,0,0,0,0,8,3,5450,986,615,0,0,0,0,0,3,0,1427,1,0,2,,"0iu68/s9(e7u++(/v8wx?4","Mazard","Gerdeline"," ","Gerdeline Mazard"," ","C5145968"," "," ",1
+1,0,"c5145968","Violation Payment",35,44,35,0,0,0,0,35,9,18544,3871,2720,0,0,0,0,0,9,0,4155,1,0,2,,"0iu68/s9(e7u++(/v8wx?4","Mazard","Gerdeline"," ","Gerdeline Mazard"," ","C5145968"," "," ",1
+1,0,"c5145969","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"$@b@^lbe^@~89j1oct=<21","Morrison","Alex"," ","Alex Morrison"," ","C5145969"," "," ",1
+1,0,"c5145969","Account Payments",4,4,4,0,0,0,0,4,0,748,121,0,0,0,0,0,0,0,0,0,1,0,2,,"$@b@^lbe^@~89j1oct=<21","Morrison","Alex"," ","Alex Morrison"," ","C5145969"," "," ",1
+1,0,"c5145969","Customer Service",24,30,24,0,0,1,0,24,6,13962,937,88,0,0,0,0,0,6,0,3115,1,0,2,,"$@b@^lbe^@~89j1oct=<21","Morrison","Alex"," ","Alex Morrison"," ","C5145969"," "," ",1
+1,0,"c5145969","Transponder Maintenance",1,1,1,0,0,0,0,1,0,318,15,0,0,0,0,0,0,0,0,0,1,0,2,,"$@b@^lbe^@~89j1oct=<21","Morrison","Alex"," ","Alex Morrison"," ","C5145969"," "," ",1
+1,0,"c5145969","Violation Payment",16,20,16,0,0,0,0,16,4,7508,1195,58,0,0,0,0,0,4,0,1080,1,0,2,,"$@b@^lbe^@~89j1oct=<21","Morrison","Alex"," ","Alex Morrison"," ","C5145969"," "," ",1
+1,0,"c5145971","Spanish Account Payments",3,4,3,0,0,0,0,3,1,659,124,0,0,0,0,0,0,1,0,407,1,0,2,,"(o8[qinb(s*6e]tr-o>!01","Rolon","Ana"," ","Ana Rolon"," ","C5145971"," "," ",1
+1,0,"c5145971","Spanish Account Updates",1,1,1,0,0,0,0,1,0,882,120,68,0,0,0,0,0,0,0,0,1,0,2,,"(o8[qinb(s*6e]tr-o>!01","Rolon","Ana"," ","Ana Rolon"," ","C5145971"," "," ",1
+1,0,"c5145971","Spanish Customer Service",26,36,26,0,0,0,0,26,10,16104,1669,147,0,0,0,0,0,10,0,4322,1,0,2,,"(o8[qinb(s*6e]tr-o>!01","Rolon","Ana"," ","Ana Rolon"," ","C5145971"," "," ",1
+1,0,"c5145971","Spanish Transponder Maintenance",2,2,2,0,0,0,0,2,0,566,80,0,0,0,0,0,0,0,0,0,1,0,2,,"(o8[qinb(s*6e]tr-o>!01","Rolon","Ana"," ","Ana Rolon"," ","C5145971"," "," ",1
+1,0,"c5145971","Spanish Violation Payment",12,12,12,0,0,0,0,12,0,5706,309,270,0,0,0,0,0,0,0,0,1,0,2,,"(o8[qinb(s*6e]tr-o>!01","Rolon","Ana"," ","Ana Rolon"," ","C5145971"," "," ",1
+1,0,"c5146858","-",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,"41$/|z|/&*+}o8bh$!j*#3","Boodram","Sarah"," ","Sarah Boodram"," ","C5146858"," "," ",1
+1,0,"c5146858","Account Maintenance",1,2,1,0,0,0,0,1,1,69,15,0,0,0,0,0,0,1,0,63,1,0,2,,"41$/|z|/&*+}o8bh$!j*#3","Boodram","Sarah"," ","Sarah Boodram"," ","C5146858"," "," ",1
+1,0,"c5146858","Account Payments",4,4,4,0,0,0,0,4,0,1142,60,0,0,0,0,0,0,0,0,0,1,0,2,,"41$/|z|/&*+}o8bh$!j*#3","Boodram","Sarah"," ","Sarah Boodram"," ","C5146858"," "," ",1
+1,0,"c5146858","Account Updates",1,2,1,0,0,0,0,1,1,398,15,0,0,0,0,0,0,1,0,369,1,0,2,,"41$/|z|/&*+}o8bh$!j*#3","Boodram","Sarah"," ","Sarah Boodram"," ","C5146858"," "," ",1
+1,0,"c5146858","Customer Service",23,28,23,0,0,0,0,23,5,12025,382,438,0,0,0,0,0,5,0,2436,1,0,2,,"41$/|z|/&*+}o8bh$!j*#3","Boodram","Sarah"," ","Sarah Boodram"," ","C5146858"," "," ",1
+1,0,"c5146858","New Accounts",1,2,1,0,0,0,0,1,1,649,15,0,0,0,0,0,0,1,0,653,1,0,2,,"41$/|z|/&*+}o8bh$!j*#3","Boodram","Sarah"," ","Sarah Boodram"," ","C5146858"," "," ",1
+1,0,"c5146858","Transponder Maintenance",8,10,8,0,0,0,0,8,2,3154,258,397,0,0,0,0,0,2,0,654,1,0,2,,"41$/|z|/&*+}o8bh$!j*#3","Boodram","Sarah"," ","Sarah Boodram"," ","C5146858"," "," ",1
+1,0,"c5146858","Violation Payment",17,20,17,0,0,1,0,17,3,7784,425,454,0,0,0,0,0,3,0,993,1,0,2,,"41$/|z|/&*+}o8bh$!j*#3","Boodram","Sarah"," ","Sarah Boodram"," ","C5146858"," "," ",1
+1,0,"c5147005","Account Payments",2,2,2,0,0,0,0,2,0,773,68,0,0,0,0,0,0,0,0,0,1,0,2,,"tv@)5c,8*?3mv~)h]g/*}1","Diaz","Jazmyne"," ","Jazmyne Diaz"," ","C5147005"," "," ",1
+1,0,"c5147005","Customer Service",21,28,21,0,0,0,0,21,7,7905,1234,290,0,0,0,0,0,7,0,2063,1,0,2,,"tv@)5c,8*?3mv~)h]g/*}1","Diaz","Jazmyne"," ","Jazmyne Diaz"," ","C5147005"," "," ",1
+1,0,"c5147005","New Accounts",4,6,4,0,0,0,0,4,2,1726,256,0,0,0,0,0,0,2,0,418,1,0,2,,"tv@)5c,8*?3mv~)h]g/*}1","Diaz","Jazmyne"," ","Jazmyne Diaz"," ","C5147005"," "," ",1
+1,0,"c5147005","Transponder Maintenance",10,17,10,0,0,0,0,10,7,2943,532,0,0,0,0,0,0,7,0,1486,1,0,2,,"tv@)5c,8*?3mv~)h]g/*}1","Diaz","Jazmyne"," ","Jazmyne Diaz"," ","C5147005"," "," ",1
+1,0,"c5147005","Violation Payment",9,12,9,0,0,1,0,9,3,3460,510,383,0,0,0,0,0,3,0,1428,1,0,2,,"tv@)5c,8*?3mv~)h]g/*}1","Diaz","Jazmyne"," ","Jazmyne Diaz"," ","C5147005"," "," ",1
+1,0,"c5147535","Account Payments",1,1,1,0,0,0,0,1,0,1628,223,35,0,0,0,0,0,0,0,0,1,0,2,,"\q|bkzf}^4*no4o0m;3pq2","Cobb","Bianca"," ","Bianca Cobb"," ","C5147535"," "," ",1
+1,0,"c5147535","Customer Service",12,13,12,0,0,0,0,12,1,12047,1223,169,0,0,0,0,0,1,0,911,1,0,2,,"\q|bkzf}^4*no4o0m;3pq2","Cobb","Bianca"," ","Bianca Cobb"," ","C5147535"," "," ",1
+1,0,"c5147535","New Accounts",2,2,2,0,0,0,0,2,0,2542,30,161,0,0,0,0,0,0,0,0,1,0,2,,"\q|bkzf}^4*no4o0m;3pq2","Cobb","Bianca"," ","Bianca Cobb"," ","C5147535"," "," ",1
+1,0,"c5147535","Transponder Maintenance",4,4,4,0,0,0,0,4,0,2920,57,0,0,0,0,0,0,0,0,0,1,0,2,,"\q|bkzf}^4*no4o0m;3pq2","Cobb","Bianca"," ","Bianca Cobb"," ","C5147535"," "," ",1
+1,0,"c5147535","Violation Payment",4,4,4,0,0,0,0,4,0,6045,320,443,0,0,0,0,0,0,0,0,1,0,2,,"\q|bkzf}^4*no4o0m;3pq2","Cobb","Bianca"," ","Bianca Cobb"," ","C5147535"," "," ",1
+1,0,"c5148213","Account Maintenance",2,3,2,0,0,0,0,2,1,448,30,0,0,0,0,0,0,1,0,225,1,0,2,,"j~`,rd1l**}-s0d|\tucf4","White","Diavian"," ","Diavian White"," ","C5148213"," "," ",1
+1,0,"c5148213","Account Payments",8,10,8,0,0,0,0,8,2,2099,172,0,0,0,0,0,0,2,0,513,1,0,2,,"j~`,rd1l**}-s0d|\tucf4","White","Diavian"," ","Diavian White"," ","C5148213"," "," ",1
+1,0,"c5148213","Customer Service",33,42,33,0,0,3,0,33,9,8449,809,14,0,0,0,0,0,9,0,3054,1,0,2,,"j~`,rd1l**}-s0d|\tucf4","White","Diavian"," ","Diavian White"," ","C5148213"," "," ",1
+1,0,"c5148213","New Accounts",5,5,5,0,0,0,0,5,0,1386,171,0,0,0,0,0,0,0,0,0,1,0,2,,"j~`,rd1l**}-s0d|\tucf4","White","Diavian"," ","Diavian White"," ","C5148213"," "," ",1
+1,0,"c5148213","Transponder Maintenance",6,8,6,0,0,0,0,6,2,1936,133,0,0,0,0,0,0,2,0,867,1,0,2,,"j~`,rd1l**}-s0d|\tucf4","White","Diavian"," ","Diavian White"," ","C5148213"," "," ",1
+1,0,"c5148213","Violation Payment",16,17,16,0,0,0,0,16,1,3832,910,0,0,0,0,0,0,1,0,155,1,0,2,,"j~`,rd1l**}-s0d|\tucf4","White","Diavian"," ","Diavian White"," ","C5148213"," "," ",1

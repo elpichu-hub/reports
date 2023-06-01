@@ -1,0 +1,16 @@
+Good evening Diavian White, your average QA for the week of 5/25-5/31 is 67.50. Below you can find where you lost points:
+
+- Call 1 Recorded on 4/28/2023 10:37:09 AM Scored 95.0%
+
+1 - Was the CSR ready and prepared for the call? Did the CSR thank the customer for calling SunPass, identify their first name, and ask how may I help you today? (adhere to inbound or CTI script) Yes,  
+2 - Did the CSR authenticate the account with the account holder/authorized user appropriately and verify information (demographic info/Security question)? Yes,  
+3 - Was the CSR friendly, positive, professional in their tone and demeanor throughout the call? Yes,  
+4 - Did the CSR refrain from using slang or ETC acronyms? No, Slang- see bookmark at 0:05:23, 0:06:28 "cuz"
+5 - Did the CSR use a definitive assurance statement (willingness to assist) / express ownership and control throughout the call? ("I can assist/help you with that?") Yes,  
+6 - Did the CSR speak clearly and concisely in a way that was understood by the customer? Yes,  
+7 - Did the CSR demonstrate courtesy throughout the call by using statements such as "May I/Please/Thank You/My Pleasure/You're Welcome?" Yes,  
+8 - Did the CSR follow call hold and/or transfer guidelines, adhere to mute, silence, and dead air expectations? Yes,  
+9 - Did the CSR paraphrase the customer's concern to demonstrate clarity, active listening (without interruption) and empathy (if needed)? Yes,  
+10 - Did the CSR ask appropriate probing questions to better assist / resolve the customer's issue? Yes,  
+11 - Did the CSR access ALL of the customer's SunPass and/or Violation accounts and provide accurate information and appropriate resolution (effectively use all systems and tools)? Yes,  
+12 - Did the CSR adhere to company policy (i.e. follow Security matrix [no hints]; use VST when applicable)? Yes,  

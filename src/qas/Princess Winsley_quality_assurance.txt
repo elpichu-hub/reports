@@ -1,0 +1,35 @@
+Good evening Princess Winsley, your average QA for the week of 5/25-5/31 is 67.50. Below you can find where you lost points:
+
+- Call 1 Recorded on 4/28/2023 9:07:09 AM Scored 65.0%
+
+1 - Was the CSR ready and prepared for the call? Did the CSR thank the customer for calling SunPass, identify their first name, and ask how may I help you today? (adhere to inbound or CTI script) No, Script- see bookmark at 0:00:06 Outbound script on an inbound call.
+2 - Did the CSR authenticate the account with the account holder/authorized user appropriately and verify information (demographic info/Security question)? Yes, Account Authentication- see bookmark at 0:01:29 Incomplete verification, the customer did not provide the complete address for verification.
+3 - Was the CSR friendly, positive, professional in their tone and demeanor throughout the call? Yes,  
+4 - Did the CSR refrain from using slang or ETC acronyms? No, Slang- see bookmark at 0:01:11 "gonna"
+5 - Did the CSR use a definitive assurance statement (willingness to assist) / express ownership and control throughout the call? ("I can assist/help you with that?") No, Call Handling- see bookmark at 0:01:05 No assurance statement.
+6 - Did the CSR speak clearly and concisely in a way that was understood by the customer? Yes,  
+7 - Did the CSR demonstrate courtesy throughout the call by using statements such as "May I/Please/Thank You/My Pleasure/You're Welcome?" Yes,  
+8 - Did the CSR follow call hold and/or transfer guidelines, adhere to mute, silence, and dead air expectations? No, Dead Air Calls- see bookmark at 0:00:23
+9 - Did the CSR paraphrase the customer's concern to demonstrate clarity, active listening (without interruption) and empathy (if needed)? No, Call Handling- see bookmark at 0:02:53 Interruption
+10 - Did the CSR ask appropriate probing questions to better assist / resolve the customer's issue? Yes,  
+11 - Did the CSR access ALL of the customer's SunPass and/or Violation accounts and provide accurate information and appropriate resolution (effectively use all systems and tools)? Yes,  
+12 - Did the CSR adhere to company policy (i.e. follow Security matrix [no hints]; use VST when applicable)? No, Account Authentication- see bookmark at 0:03:38 Provided account information/access without proper verification.
+13 - Did the CSR notate customer's account using approved guidelines and correctly complete all tasks? Did the CSR create and complete a concise SR (when needed); save call in VST to save activities/notes? Yes,  
+14 - Did the CSR thank the customer for calling SunPass? Yes,  
+
+- Call 2 Recorded on 4/26/2023 9:34:26 AM Scored 70.0%
+
+15 - Was the CSR ready and prepared for the call? Did the CSR thank the customer for calling SunPass, identify their first name, and ask how may I help you today? (adhere to inbound or CTI script) Yes,  
+16 - Did the CSR authenticate the account with the account holder/authorized user appropriately and verify information (demographic info/Security question)? Yes,  
+17 - Was the CSR friendly, positive, professional in their tone and demeanor throughout the call? Yes,  
+18 - Did the CSR refrain from using slang or ETC acronyms? No, Slang- see bookmark at 0:02:51 "gonna"
+19 - Did the CSR use a definitive assurance statement (willingness to assist) / express ownership and control throughout the call? ("I can assist/help you with that?") No, Call Handling- see bookmark at 0:02:22 No assurance statement.
+20 - Did the CSR speak clearly and concisely in a way that was understood by the customer? Yes,  
+21 - Did the CSR demonstrate courtesy throughout the call by using statements such as "May I/Please/Thank You/My Pleasure/You're Welcome?" Yes,  
+22 - Did the CSR follow call hold and/or transfer guidelines, adhere to mute, silence, and dead air expectations? Yes,  
+23 - Did the CSR paraphrase the customer's concern to demonstrate clarity, active listening (without interruption) and empathy (if needed)? Yes,  
+24 - Did the CSR ask appropriate probing questions to better assist / resolve the customer's issue? Yes,  
+25 - Did the CSR access ALL of the customer's SunPass and/or Violation accounts and provide accurate information and appropriate resolution (effectively use all systems and tools)? No, Plate Sweep- see bookmark at 0:07:35 Plate FL-0719XS was not correctly backdated for plate sweep through the SunPass account. Plate should have an effective start date prior to 3/1/2023.
+26 - Did the CSR adhere to company policy (i.e. follow Security matrix [no hints]; use VST when applicable)? Yes,  
+27 - Did the CSR notate customer's account using approved guidelines and correctly complete all tasks? Did the CSR create and complete a concise SR (when needed); save call in VST to save activities/notes? Yes,  
+28 - Did the CSR thank the customer for calling SunPass? Yes,  
